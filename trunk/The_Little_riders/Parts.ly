@@ -1,5 +1,5 @@
 celloOne = \new Voice { \relative c' {
-\set Staff.instrumentName = "Cello 1  "
+%\set Staff.instrumentName = "Cello 1  "
 %%  \set Staff.shortInstrumentName = "C1 "
   \clef bass
   \key c \major
@@ -18,7 +18,7 @@ c8 r8 g8 g8 r8 c8|d8\sp\< d8 c8 b8 b8 c8|d8 d8 c8 b8 b8 c8\!|d8\f r8 r8 g,8 r8 r
 }}
 
 celloTwo = \new Voice { \relative c' {
-\set Staff.instrumentName = "Cello 2  "
+%\set Staff.instrumentName = "Cello 2  "
 %%  \set Staff.shortInstrumentName = "C2 "
   \clef bass
   \key c \major
