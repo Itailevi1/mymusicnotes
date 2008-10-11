@@ -3,6 +3,7 @@
 \header {
   title = "Lullaby"
   composer = "Isaac Dunaevsky"
+  instrument = "Cello 3"
   arranger = "Arranged by Luba Rabin"
 }
 
@@ -10,17 +11,15 @@
 
 \score{
    << 
-      \new Staff { \set Staff.instrumentName = "Cello 1" \celloOne }
-      \new Staff { \set Staff.instrumentName = "Cello 2" \celloTwo }
-      \new Staff { \set Staff.instrumentName = "Cello 3" \celloThree }
+      \new Staff \celloThree 
    >>
   \layout { 
     \context {
       \Score
       \override SpacingSpanner
 %%                #'base-shortest-duration = #(ly:make-moment 1 16)
-                #'shortest-duration-space = #2.5
-  }
+                #'shortest-duration-space = #4.0
+    }
 }
   \midi { }
 }
