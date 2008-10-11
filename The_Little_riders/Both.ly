@@ -9,8 +9,8 @@
 
 \score{
    << 
-      \new Staff \celloOne 
-      \new Staff \celloTwo 
+      \new Staff { \set Staff.instrumentName = "Cello 1" \celloOne }
+      \new Staff { \set Staff.instrumentName = "Cello 2" \celloTwo }
    >>
   \layout { 
     \context {
