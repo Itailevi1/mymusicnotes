@@ -41,10 +41,30 @@ b4( d4) d4( b4)| c4 c4 g4 fis4| d4(\downbow e4) d4\upbow r4|
 e4(\mf g4) d4( d'4)| e,4( a4) b4( d4)| a4 c4 b8( c8 d4)|
 e,4(\downbow fis4) e4\upbow r4| a4( c4) a4( c4)| b4( d4) d4( b4)|
 
-a4( c4) g4( a4)| <<{b2 d2} \\ {g,4 fis4 fis4\> e4 | \slurNeutral a4(\!\p c4) a4( c4)|}>> | 
+a4( c4) g4( a4)| <<{b2 d2} \\ {g,4 fis4 fis4\> e4 | \slurNeutral a4(\!\pp c4) a4( c4)|}>> | 
 b4( d4) d2| c4 c4 g4( fis4)| d4( e4) d2\downbow|
 \bar "||"
 }
-%%\once \override Score.MetronomeMark #'transparent = ##t
-%%\tempo 4=90
+}
+
+celloThree = \new Voice { 
+\relative c' {
+  \clef bass
+  \key g \major
+  \time 4/4
+  \set Staff.midiInstrument = "cello"
+
+\set Score.markFormatter = #format-mark-box-numbers
+
+% \tempo "Allegro" 4 = 120
+\tempo "Andante"
+<d, g,>4 r4 <d g,>4 r4 |<d g,>4 r4 <d g,>4 r4 |<d g,>4 r4 <d g,>4 r4 |
+<d g,>4 r4 <d g,>4 r4 | fis4 r4 e4 r4|a,4 r4 a4 r4|
+d4 r4 e4 r4|e4 r4 d4 r4|g,4 c,4 g'4 r4|
+c,4 r4 <<e'4 \\ e,4>> r4|a4 r4 a4 r4|a r a r|
+a a a r|a r a r|d r e r|
+a,2 d2|d2 e2|a,4 r4 a4 r4|
+d4 r4 b'4 r4|e,4 r4 d4 r4| g,4 c,4 g'2|
+\bar "||"
+}
 }
