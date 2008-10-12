@@ -17,7 +17,7 @@
       \Score
       \override SpacingSpanner
 %%                #'base-shortest-duration = #(ly:make-moment 1 16)
-                #'shortest-duration-space = #2.5
+                #'shortest-duration-space = #4.0
   }
  }	
   \midi { }
