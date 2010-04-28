@@ -1,0 +1,6452 @@
+#LyX 1.6.4 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+\usepackage{fancybox}
+\usepackage{culmus}
+\setcounter{secnumdepth}{-1}
+\frenchspacing
+\tolerance=2000 
+\addtolength{\skip\footins}{20pt} 
+\setlength{\fboxsep}{8pt}
+
+%%%%%%%%%%% prevent overfull boxes in table of contents %%%%%%%%
+\makeatletter
+%make 3 digit page numbers aligned in TOC
+\renewcommand\@pnumwidth{1.67em}
+
+%move footnote marks away from footnote
+\renewcommand\@makefntext[1]{%
+    \parindent 1em%
+    \noindent
+    \hb@xt@1.8em{\hss\@makefnmark\ }#1}
+\makeatother
+\end_preamble
+\use_default_options true
+\language hebrew
+\inputencoding auto
+\font_roman lmodern
+\font_sans lmss
+\font_typewriter lmtt
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\float_placement H
+\paperfontsize 11
+\spacing double
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle plain
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+הקדמה
+\end_layout
+
+\begin_layout Standard
+כששואלים "מי אני?" תשובתי היא עלי או עלי לוי.
+ אך מי הוא ה'אני' הזה באמת, מי הוא עלי לוי?
+\end_layout
+
+\begin_layout Standard
+התשובות הקלות, הפשוטות והטבעיות ביותר לשאלה זו הן: בן של הוריי, אח של אחותי,
+ בעל תכונות מסוימות כאלה או אחרות, בעל תחביבים מסוימים, זה שהיה ילד קטן
+ וגדל, זה שלומד בבית הספר הדמוקרטי בכפר סבא, ועוד אינספור תשובות פשוטות
+ כאלה.
+\end_layout
+
+\begin_layout Standard
+אך האם זוהי התמונה כולה? האם זהו באמת אני? הרי אם אני בן של הוריי, אז אני
+ גם בן משפחה של הוריהם, אבות הוריהם, אחיהם וכו'.
+ ואם יש לי תחביבים, הרי יכול להיות שהם לא רק שלי, אלא שלקחתי אותם מהסביבה
+ שלי, מבני משפחתי, מחברים, מהמקום בו אני חי ועוד.
+ והאם רק העבר שלי שייך לי? או גם עברם של בני משפחתי הקרובים והרחוקים? והאם
+ העובדה שאני לומד בבית ספר דמוקרטי ובוחר את שיעוריי קשורה להחלטות ורצונות
+ של אחרים?
+\end_layout
+
+\begin_layout Standard
+בעבודה זו ביקשתי לברר את זהותי על ידי ניסיון להרחיב את נקודת התצפית שלי,
+ דרל היכרות עם האנשים שיצרו את סביבתי: הורים, דודים, סבים וסבתות, אחים,
+ בני דודים, בעלי חיים ועוד.
+ רציתי לדעת איך אנשים אלו חיו את חייהם: במה הם שיחקו, איזו ילדות הייתה להם,
+ איך הם עלו לארץ, אילו החלטות הם קיבלו, אילו סודות הם מסתירים, באילו אירועים
+ היסטוריים הם השתתפו, איך הם התמודדו עם קשיים, ומהו חלומם.
+\end_layout
+
+\begin_layout Standard
+כיוון שכך, העבודה מתחילה בי ונעה לעבר ההרחבה של המשפחה, והפרקים כתובים דרך
+ הגילוי שלי את הפרטים.
+ משום שעבודות השורשים הקודמות של המשפחה נכתבו לפני כעשרים שנה, התבררו בעבודתי
+ פרטים חדשים שלא היו ידועים עד כה )למשל הבריחה של משפחת קולודני מצרפת בזמן
+ מלחמת העולם השניה, וקורות משפחת שמוקלר בשואה(.
+ כמו כן, העבודה עזרה לי גם להיזכר בפרטים מהעבר שלי, כמו הטיול המשפחתי שלי
+ ושל הוריי לאוסטרליה.
+\end_layout
+
+\begin_layout Standard
+עבודתי מבוססת בעיקר על ראיונות שערכתי עם בני המשפחה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+קריאה מהנה, 
+\end_layout
+
+\begin_layout Standard
+עלי.
+\end_layout
+
+\begin_layout Part
+אני מספר על עצמי
+\end_layout
+
+\begin_layout Chapter
+תעודת זהות
+\end_layout
+
+\begin_layout Description
+שם: עלי
+\end_layout
+
+\begin_layout Description
+שם
+\begin_inset space ~
+\end_inset
+
+משפחה: לוי
+\end_layout
+
+\begin_layout Description
+מין: זכר.
+\end_layout
+
+\begin_layout Description
+מצב
+\begin_inset space ~
+\end_inset
+
+משפחתי: רווק.
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+11
+\numeric off
+ וחצי.
+\end_layout
+
+\begin_layout Description
+שנת
+\begin_inset space ~
+\end_inset
+
+לידה: 
+\numeric on
+1998
+\end_layout
+
+\begin_layout Description
+מקום
+\begin_inset space ~
+\end_inset
+
+לימודים
+\begin_inset space ~
+\end_inset
+
+נוכחי: בית הספר הדמוקרטי ע"ש יעקב חזן, בכפר סבא.
+\end_layout
+
+\begin_layout Description
+מקום
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+נוכחי: רחוב ברנר,
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+14
+\numeric off
+, כפר סבא.
+\end_layout
+
+\begin_layout Description
+הורים: אפרת ואיתי לוי.
+\end_layout
+
+\begin_layout Description
+אחים: רות לוי.
+\end_layout
+
+\begin_layout Description
+בעלי
+\begin_inset space ~
+\end_inset
+
+חיים: הכלבה ליסה והחתול שפי.
+\end_layout
+
+\begin_layout Description
+מידת
+\begin_inset space ~
+\end_inset
+
+נעליים:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+41
+\end_layout
+
+\begin_layout Description
+מקור
+\begin_inset space ~
+\end_inset
+
+השם: )1( על שם הדמות המקראית עלי הכהן שהיה איש צדיק וחכם, ולו נתנה חנה לגדל
+ ולחנך את שמואל.
+ )2( העיר בה נולדתי היא עיר משותפת ליהודים והוריי רצו שחברינו הערבים יוכלו
+ לבטא את שמי גם בערבית.
+\end_layout
+
+\begin_layout Description
+תחביבים: כדור עף, נגינה בצ'לו, קריאה, יציאה לטיולים, פניג-פונג, שחיה, רכיבה
+ על אופניים.
+\end_layout
+
+\begin_layout Description
+סופרים
+\begin_inset space ~
+\end_inset
+
+אהובים: פיליפ פולמן, דויד גרוסמן, מיכאל אנדה, מייקל מורפורגו, רואלד דאל,
+ ג'יי קיי רולניג.
+\end_layout
+
+\begin_layout Description
+מלחינים
+\begin_inset space ~
+\end_inset
+
+אהובים: דבוז'אק, ויואלדי, באך, גולטרמן, סן סאנס.
+\end_layout
+
+\begin_layout Description
+יצירות
+\begin_inset space ~
+\end_inset
+
+אהובות: דבוז'אק – קונצ'רטו לצ'לו בסי מינור.
+ כריסטיאן באך --- קונצ'רטו לצ'לו בדו מינור, גולטרמן – קפריצ'יו, סן סאנס
+ – אלגרו אפסיונאטו וקונצ'רטו לצ'לו.
+\end_layout
+
+\begin_layout Description
+מאכלים
+\begin_inset space ~
+\end_inset
+
+אהובים: מאכלי ים, סושי, ספגטי, סלט יווני.
+\end_layout
+
+\begin_layout Description
+מקצוע
+\begin_inset space ~
+\end_inset
+
+לימוד
+\begin_inset space ~
+\end_inset
+
+אהוב: חשבון ואנגלית.
+\end_layout
+
+\begin_layout Description
+קשרים
+\begin_inset space ~
+\end_inset
+
+מיוחדים
+\begin_inset space ~
+\end_inset
+
+במשפחה: בת הדוד גל לבנה, הקטנה ממני בשמונה חודשים, ושאיתה אני אוהב מאד לשחק,
+ להשתולל, לטייל ולשוחח )ראה בנספח את הספר המשפחתי שנכתב עלינו – רולי לומי
+ והבת דודה גולי(.
+\end_layout
+
+\begin_layout Description
+מעבר
+\begin_inset space ~
+\end_inset
+
+למקומות
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+שונים
+\begin_inset space ~
+\end_inset
+
+או
+\begin_inset space ~
+\end_inset
+
+בתי
+\begin_inset space ~
+\end_inset
+
+ספר
+\begin_inset space ~
+\end_inset
+
+שונים: נולדתי ביפו ובגיל שנה עברתי לגור בכפר סבא.
+ את כיתות א' עד ד' למדתי בבית הספר בן-גוריון, ובכיתה ה' עברתי לבית הספר
+ הדמוקרטי.
+\end_layout
+
+\begin_layout Description
+פרקים
+\begin_inset space ~
+\end_inset
+
+חשובים
+\begin_inset space ~
+\end_inset
+
+במהלך
+\begin_inset space ~
+\end_inset
+
+החיים: המעבר מיפו לכפר סבא, התחלת כיתה א', הלידה של רות, המסע המשפחתי לאוסטרליה,
+ המעבר מבית הספר בן-גוריון לבית הספר הדמוקרטי, האימוץ של הכלבה ליסה והחתול
+ שפי.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+Ovalbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/childhood.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+תמונות מהילדות
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+תחביבים ועיסוקים אהובים
+\end_layout
+
+\begin_layout Section
+צ'לו
+\end_layout
+
+\begin_layout Standard
+אני מנגן בצ'לו שש שנים.
+ אני לומד בקונסרבטוריון בכפר סבא, ויש לי שיעור של שעה בשבוע עם המורה לובה
+ רבין.
+ בנוסף אני מנגן בתזמורת הנוער הסימפונית של כפר סבא בניצוחו של מישה גלוזמן.
+ גם בבית אני מנגן הרבה – כל יום אני משתדל לנגן כשעה עד שעתיים וחצי.
+\end_layout
+
+\begin_layout Standard
+התחלתי לנגן בצ'לו בכיתה א', והיום בו בחרתי בזאת לראשונה זכור לי היטב.
+ באותו יום נכנסו לכיתתי בבית הספר, לובה ומורה אחר לכינור, ולובה פנתה אל
+ הילדים הגבוהים ביותר בכיתה )שאני הייתי ביניהם(, ושאלה אותם אם הם היו רוצים
+ לנגן בצ'לו.
+ אף אחד לא רצה לנגן, אבל אני הרגשתי, בלי לחשוב על כך קודם, שאני רוצה.
+ לובה שמחה מאד, ולאחר כמה ימים התחילה לתת לי שיעורי נגינה בצ'לו.
+ בהתחלה היה לי קשה להחזיק את הקשת, לשבת בצורה הנכונה, והשיעורים היו לי קשים,
+ אבל לא ויתרתי והמשכתי להתאמן ובמשך הזמן גדלתי, טכניקת הנגינה שלי השתפרה,
+ והיצירות שניגנתי נעשו קשות יותר ויותר.
+\end_layout
+
+\begin_layout Standard
+האהבה שלי לצ'לו קשורה גם לדמותה של לובה.
+ לובה היא מורה מאין כמוה.
+ במהלך השנים נקשרתי אליה מאוד, והיא הפכה עבורי ליותר ממורה לצ'לו – לחלק
+ מהמשפחה, למורה לחיים עצמם ואפילו למודל להשראה.
+ ללובה יש דרך הוראה מיוחדת שהופכת את הנגינה בצ'לו למהנה ביותר.
+ כשהייתי בתחילת דרכי בנגינה, היא היתה פותחת את השיעור בוואפלות וסוכריות
+ שאותן מאוד אהבתי, ותמיד הייתה מסבירה לי בחום, בסבלנות ובהרבה אהבה ורגישות.
+ עם גדילתי היא העלתה את רמת הדרישות ממני, והחלה לעבוד איתי במשך זמן ממושך
+ יותר ובאופן תובעני יותר.
+\end_layout
+
+\begin_layout Standard
+כשאני מנגן, אני מרגיש שאני מתנתק מהמציאות, ונמצא בתוך עולם אחר, עולם בו
+ אני יכול לעשות מה שאני רוצה בעזרת מנגינות, צלילים ותווים.
+ את השתפרות הנגינה שלי אני מרגיש כשאני מנגן טוב יותר את היצירה שעליה אני
+ עובד, וכשלובה נותנת לי יצירות קשות יותר מהקודמות.
+\end_layout
+
+\begin_layout Standard
+בשנים הראשונות של נגינתי סברתי כי יש לנגן רק בשביל ההנאה העצמית שלי ולא
+ בשביל הופעה לאחרים.
+ פחדתי מאוד מהקונצרטים בהם ניגנתי לבד, אך למרות פחדיי, ניגנתי יפה מאוד מול
+ קהל, והתרגשותי ופחדיי לא השפיעו על הנגינה.
+ עם הניסיון, התרגלתי לקונצרטים ולניגנה לפני קהל, ולפעמים אני אפילו רוצה
+ להופיע ולנגן למען הנאתם של אחרים ולא רק שלי.
+\end_layout
+
+\begin_layout Standard
+בעתיד, אני רוצה להמשיך ולנגן, להשתפר, להכיר יצירות חדשות וקשות יותר, ואולי
+ אפילו ללמוד להיות מורה, להופיע בתור סולן עם יצירות קשות ביותר או לנגן בתזמורת
+ פילהרמונית גדולה.
+\end_layout
+
+\begin_layout Section
+כדורעף
+\end_layout
+
+\begin_layout Standard
+זוהי השנה השלישית שבה אני משחק כדורעף.
+ אני מתאמן שלוש פעמים בשבוע ומשחק בטורינירים ארבע פעמים בשנה.
+\end_layout
+
+\begin_layout Standard
+התחלתי לשחק כדורעף לפני כשנתיים וחצי, כשהייתי בכיתה ד'.
+ בשנה זו רציתי למצוא לעצמי ענף ספורט לעסוק בו.
+ הרבה ילדים בכיתתי המליצו לי על ענף ספורט זה, והחלטתי לנסות וללכת לאימונים.
+\end_layout
+
+\begin_layout Standard
+באימונים הראשונים שלי ניצבו בפניי קשיים רבים: לא ידעתי את כללי המשחק, וטעיתי
+ פעמים רבות.
+ תקופה זו לא הייתה קצרה, והייתה קשה מאוד, אך לא ויתרתי.
+ במהלך הזמן, יחד עם עזרתו הרבה של המאמן שלי, מיכאל, למדתי את חוקי המשחק,
+ טכניקת המשחק שלי השתפרה מאוד, נהייתי שחקן בעל הישגים רבים ואפילו קפטן של
+ הקבוצה שלי.
+\end_layout
+
+\begin_layout Standard
+אני נהנה מספורט זה כי זהו ספורט מאתגר, דורש מאמץ, מהנה, וגם, בניגוד לענפי
+ ספורט אחרים, לא אגרסיבי – תוך כדי המשחק השחקנים לא באים במגע זה עם זה,
+ והמשחק לא כולל בעיטות, דחיפות, הפלות ועוד.
+ נוסף על כך, הכדורעף עוזר לשפר את רמת הריכוז, את היכולות המוטוריות ואת שיתוף
+ הפעולה הקבוצתי.
+\end_layout
+
+\begin_layout Section
+קריאה
+\end_layout
+
+\begin_layout Standard
+תמיד אהבתי לקרוא.
+ כשהייתי קטן אהבתי לשכב במיטה, לשמוע את הוריי מקריאים לי סיפור קצר ומדי
+ פעם להסתכל בתמונות.
+ בגיך חמש, לימדו אותי הוריי לקרוא, והתחלתי לקרוא סיפורים קצרים לבדי.
+ בהדרגה עברתי לקריאת ספרים ארוכים יותר ומסובכים יותר.
+\end_layout
+
+\begin_layout Standard
+אני מרגיש כי הקריאה מפתחת את כושר החשיבה שלי, את הבנתי, את דמיוני, וגם מסייעת
+ להרחיב את אוצר המילים בעברית ובאנגלית גם יחד.
+\end_layout
+
+\begin_layout Standard
+אני נהנה לקרוא ספרי מתח כמו: "יש ילדים זיג זג" ו"סאלי לוקהארט", וגם ספרי
+ פנטזיה סדרת "חומריו האפלים", ו"הארי פוטר".
+\end_layout
+
+\begin_layout Standard
+הסופרים האהובים עליי הם דויד גרוסמן, מייקל מורפורגו, פיליפ פולמן, ג'יי קיי
+ רולינג, מיכאל אנדה ורואלד דאל.
+\end_layout
+
+\begin_layout Standard
+בעתיד אני מתכוון להמשיך ולקרוא עוד הרבה ספרים קשים ומסובכים יותר, ולהמשיך
+ ולהנות מהקריאה ללא הפסקה.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/reading.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אמא מקריאה לי סיפור
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+יציאה לטיולים
+\end_layout
+
+\begin_layout Standard
+כמעט כל שבת, אני, אמי, אבי ואחותי יוצאים לטייל בשבילי הארץ.
+ בטיול נוצרת אווירה משפחתית נעימה בה אנחנו צוחקים, מסתקרנים, מגלים דברים
+ חדשים ואוכלים ארוחה בחיק הטבע.
+\end_layout
+
+\begin_layout Standard
+אך יותר מכל אני אוהב את הטיולים הגדולים בהם משתתפת גם המשפחה המורחבת.
+ דודים, דודות, בני דודים ולעתים רחוקות אפילו סבים וסבתות, מצטרפים אלינו
+ לטיול גדול בחיק הטבע, בו אנחנו מקימים אוהלים ומבלים בתנאי שטח לילה אחד
+ או שניים.
+ בטיולים גדולים שכאלה אנחנו יושבים יחדיו סביב מדורה, עורכים ארוחות "על האש",
+ הילדים משחקים משחקי חברה וכולנו יוצאים ביחד למסלולים קצרים או ארוכים באתרים
+ שונים בארץ.
+\end_layout
+
+\begin_layout Standard
+אני אוהב במיוחד את האווירה הנוצרת בטיולים מסוג זה.
+ זוהי הרגשה חזקה של נעימות, קרבה, אהבה, שמחה ושיתוף פעולה בין כל חברי המשפחה.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/trips.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+טיולי המשפחה
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+הבית שלי
+\end_layout
+
+\begin_layout Standard
+הבית שלי נמצא בבניין ברחוב ברנר מס'
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+14
+\numeric off
+, בכפר סבא, בדירה בקומת קרקע.
+ מבחוץ הוא נראה כמו בית ככל הבתים האחרים, ואין לו ייחוד מסוים, אך בשבילי
+ הוא מאוד מיוחד, כי הוא הבית שלי.
+\end_layout
+
+\begin_layout Section
+מה הופך את הבית שלי לבית שלי?
+\end_layout
+
+\begin_layout Subsection
+אהבות
+\end_layout
+
+\begin_layout Enumerate
+בבית גרים האנשים הקשורים אליי ביותר, שהם הוריי ואחותי, ואיתם היחסים שלי
+ הכי קרובים, ואני אוהב אותם מאוד.
+\end_layout
+
+\begin_layout Enumerate
+בביתי אני מגדל את החתול שלי )שפי( ואת הכלבה שלי )ליסה( --- החיות שבהן אני
+ אוהב לטפל, ואיתן אני אוהב לשחק.
+\end_layout
+
+\begin_layout Enumerate
+בבית מקיפים אותי חפצים אישיים, כמו הצ'לו שלי והספרים שלי, שאני קשור אליהם
+ מאוד, ובהם אני אוהב לעסוק בחיי היומיום.
+\end_layout
+
+\begin_layout Enumerate
+ביתי נמצא בקרבתם של שכנים-חברים, שאנחנו מאוד אוהבים )משפחת אלון( והוא גם
+ קרוב לביתם של הוריי אמי )סבתא רוחה וסבא אורי( ולביתה של דודתי )שושקה(.
+\end_layout
+
+\begin_layout Subsection
+יציאה, חזרה, קבלה
+\end_layout
+
+\begin_layout Enumerate
+לפעמים אני יוצא מביתי למקומות אחרים כמו: לטיולים, לבית-הספר ולביתם של חברים,
+ אך תמיד ביתי יישאר המקום שממנו אני יוצא ואליו אני תמיד חוזר.
+\end_layout
+
+\begin_layout Enumerate
+ביתי הוא המקום בו אני יכול לארח אורחים ולתת להם דברים משלי: לשחק במשחקים
+ שלי, לאכול איתי, לישון אצלי ולחוות את החוויה המשפחתית שלי.
+\end_layout
+
+\begin_layout Subsection
+זיכרונות
+\end_layout
+
+\begin_layout Enumerate
+לפני שנולדתי היה ביתי שייך לסבא ולסבתא שלי, הוריי אמי, ובו נולדה אמי.
+ אני חי בבית הזה מאז שהייתי בן שנה, וכל זיכרונות הבית שלי קשורים בו.
+ הייתי רוצה להישאר בו עד שאסיים את בית הספר, ואז אולי ארצה בית-חווה, שאפשר
+ לגדל בו הרבה חיות.
+\end_layout
+
+\begin_layout Enumerate
+בביתי מרוכזות מזכרות רבות מחוויות אישיות שחוויתי בעבר.
+ מזכרות אלו מקיפות אותי באלבומים, משחקי ילדות, עבודות ילדות, תמונות וחפצים
+ שונים.
+\end_layout
+
+\begin_layout Subsection
+טעמים
+\end_layout
+
+\begin_layout Enumerate
+המראה של הבית שלי הוא לפי טעמי וטעמם של בני משפחתי.
+ יש בו רהיטים ששיפצנו לבד, ספרייה שבנינו מבוץ, והרבה עציצים וספרים.
+ אני אוהב שהבית שלנו לא נקי ומסודר בקפידה )יש בו משחקים פזורים ושערות של
+ חתולים(, זה נותן לי הרגשה שאפשר להתנהג בצורה טבעית וחופשית.
+\end_layout
+
+\begin_layout Enumerate
+אני אוהב מאוד את האוכל של הבית.
+ הוא נותן לי תחושה של חמימות ושייכות, ותחושה שמחכים לי, שחושבים עליי ושדואגים
+ לי.
+ אני אוהב שאנחנו צוחקים ומדברים סביב שולחן האוכל במטבח ושהחתול שלי ישן עליו.
+\end_layout
+
+\begin_layout Subsection
+ביטחון ושמחה
+\end_layout
+
+\begin_layout Standard
+בביתי אני ומשפחתי צוחקים, משוחחים זה עם זה, משחקים ואוכלים יחד, וחווים חוויות
+ רבות משותפות.
+ כשאני נמצא בביתי אני מרגיש יותר בטוח, שליו, מוגן ונעים מאשר בכל מקום אחר.
+\end_layout
+
+\begin_layout Chapter
+החדר שלי
+\end_layout
+
+\begin_layout Standard
+החדר שלי הוא המקום שלי בבית, המקום בו מרוכזים כל התחביבים שלי, האהבות שלי,
+ העיסוקים שלי והמזכרות שלי מהחוויות החשובות בחיי.
+ זה מה שהופך אותו לחדר שלי.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+3:00
+\numeric off
+ אחר הצהריים.
+ אני יורד מהאוטובוס בדרכי חזרה מבית הספר, ופונה לכיוון ביתי.
+ אני דופק בדלת, אמא שלי מכניסה אותי, מברכת אותי לשלום, ואני יושב ליד השולחן
+ ואוכל.
+ כשאני מסיים לאכול אני לוקח את תיקי, הולך דרך הסלון ומגיע לחדרי, הממוקם
+ בצמוד לחדרה של אחותי הקטנה ומול חדרם של הוריי.
+\end_layout
+
+\begin_layout Standard
+חדרי הוא לא קטן ולא גדול, אך צפוף מעט.
+ בקצהו יש שולחן שעליו נמצאים עטים, עפרונות, ציוד הלימוד, וספרי הלימודים
+ שלי.
+ שולחן זה נמצא אצלי כבר שש שנים, מאז שהתחלתי ללמוד בבית ספר.
+\end_layout
+
+\begin_layout Standard
+מעל השולחן ניצבת שידה עם שלושה מדפים.
+ על המדפים הראשון והשני נמצאים פסלים קטנים: את חלקם הכנתי ואת חלקם אספתי,
+ ועל המדף השלישי נמצאים ספרי תנ"ך ומילונים.
+ בצידו השמאלי של השולחן יש מגרה ארוכה, שבה נמצאת המצלמה שלי וציורים ישנים
+ שציירתי בילדותי.
+ בצידו הימני של השולחן יש שלוש מגרות קטנות נוספות.
+ במגרה הראשונה יש הרבה דפים מכל מיני סוגים: ריקים, עם שורות, עם משבצות,
+ קרטונים ועוד, שמשמשים אותי לכתיבת עבודות, כתיבת ברכות לימי הולדת, ציור
+ וקיפולי נייר.
+ במגרה השניה והשלישית יש הרבה חפצים קטנים ממינים שונים כמו שרוכים לנעליים
+ וחומרי יצירה.
+\end_layout
+
+\begin_layout Standard
+על הקיר הימני של החדר תלויות תמונות מהטיול המשפחתי הגדול שערכנו באוסטרליה,
+ וציורים שציירתי בשיעורי אמנות בבית הספר.
+ ליד התמונות והציורים תלויים מדפים ולוח עץ קטן.
+ על המדפים יש פסלי שיש קטנים שאני אוסף, ועל הלוח תלויה מערכת השעות שלי.
+\end_layout
+
+\begin_layout Standard
+ממול ללוח העץ יש ספריה שעליה נחים הרבה ספרים, משחקים ופרסים.
+ בין הספרים יש ספרים שאני אוהב מאוד ונהנה לקרוא אותם שוב ושוב )כגון 'הסיפור
+ שאינו נגמר', ,סאלי לוקהארט' ו'הארי פוטר'(, ויש גם ספרים שנהניתי לקרוא כשהייתי
+ קצת יותר צעיר.
+ עם המשחקים אני אוהב לשחק במיוחד כשבאים אליי חברים, ואת הגביעים, המדליות
+ והפרסים השונים קבלתי לאחר תחרויות כדורעף שהשתתפתי בהן.
+ הספרייה עומדת על ארון שבו נמצאים תווים לנגינה בצ'לו, קצת ציוד לימודי ועבודות
+ משיעורי אמנות.
+\end_layout
+
+\begin_layout Standard
+ליד הספרייה נמצא ארון הבגדים שלי, שאני תמיד שוכח לסגור את הדלתות שלו.
+ מעליו זרוקים כל מיני חפצים כמו: קסדת אופניים, קופסאות נעליים, דרבוקה שקניתי
+ בירושלים, וכינור ששמור לאחותי הקטנה שרוצה לנגן בו כשתגדל.
+\end_layout
+
+\begin_layout Standard
+מעל לכל החדר עומדת ומשקיפה המיטה שלי.
+ מיטה זו היא האהובה ביותר בכל הבית.
+ אני אוהב לישון בה בלילה, אחותי אוהבת סתם לשחק עליה, אבי אוהב לנוח בה בימי
+ שבת בצהריים, וכולם חושבים עליה כרכה, נעימה, נוחה וטובה.
+\end_layout
+
+\begin_layout Standard
+מתחת למיטה הגבוהה, יש פסנתר, עליו אני אוהב לנגן, ואותו קיבלתי במתנה מחברה
+ טובה של המשפחה.
+ על הפסנתר מונח עוד )כלי נגינה ערבי מסורתי(.
+ מימין לפסנתר יש עוד ספרייה של ספרי מידע, אנציקלופדיות וספרי תנ"ך.
+ צמוד לספרייה יש פח גדול עם הרבה כדורים שונים: כדורעף, כדורסל וכדורגל.
+ מצידו השני של הפסנתר ניצבת קופסת לגו ענקית, עם המון חלקי לגו קטנים, שאני
+ אוהב לשחק בהם בשעת הפנאי.
+ מול פח הכדורים עומדת שידת עץ קטנה ונמוכה, שעליה אני שם את הנעליים שלי,
+ וגם קצת בגדים )כשאין לי חשק להכניס אותם לארון, אני משליך אותם על השידה
+ הקטנה(.
+\end_layout
+
+\begin_layout Standard
+בשעות היום אני אוהב לבלות בחדרי.
+ אני אוהב לקרוא את הספרים מהספרייה, לנגן בפסנתר, לעשות שיעורי בית ליד השולחן,
+ לשחק במשחקים עם חברים, ובלילה אני אומר לילה טוב להוריי ולאחותי, עולה למיטה
+ דרך הסולם, נשכב על הכרית ונרדם.
+\end_layout
+
+\begin_layout Part
+המשפחה הגרעינית
+\end_layout
+
+\begin_layout Chapter
+הוריי
+\end_layout
+
+\begin_layout Standard
+אני בנם של אפרת ואיתי לוי.
+\end_layout
+
+\begin_layout Standard
+אבי, איתי בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+42
+\numeric off
+, בנם של רחל ואברהם לוי, ויש לו שני אחים גדולים: גיא לוי ונתי לוי.
+\end_layout
+
+\begin_layout Standard
+אבי הוא אדם עדין, ביישן, צנוע, אופטימי, שלו ורגוע.
+ יש לו שיער חום, עור בהיר ועיניים כחולות שלוות ונעימות.
+ הוא עוסק במחשבים ואוהב מאוד מוסיקה )מנגן בגיטרה(, אוהב לצחוק )יש לו חוש
+ הומור מצויין(, לשחק כדורגל, לאפות עוגות טעימות במיוחד, ולצאת לטיולים ארוכים.
+ אני אוהב לנגן איתו, לדבר איתו, לצחוק ולשחק איתו פינג פונג, כדורעף או קלפים.
+ אני קשור אליו מאוד.
+\end_layout
+
+\begin_layout Standard
+אבי גדל בילדותו בקיבוץ נחל עוז, בחברת הוריו ושני אחיו הגדולים, ושם פגש והכיר
+ את אמי, אפרת.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/Itai.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+תמונות של אבא
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+אמי, אפרת, בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+41
+\numeric off
+, בתם של אורי ורחל לבנה, ויש לה שני אחים צעירים: גיל לבנה וחן לבנה, ושתי
+ אחיות תאומות צעירות: יערה הנקין והדר לבנה )בקרוב קלורפלד(.
+\end_layout
+
+\begin_layout Standard
+אמי היא דמות חיננית, מצחיקה, מעניינת, סקרנית, עדינה, צנועה, מתחשבת וחמימה.
+ יש לה שיער חום ארוך ומתולתל, עור שחום ועיניים ירוקות, עדינות וחמימות.
+ היא מתעניינת בפילוסופיה ואקולוגיה )היא דוקטור לפילוסופיה ומרצה בנושאים
+ של אקולוגיה עמוקה ומוסר בסמינר הקיבוצים(, וכיף לדבר איתה על נושאים שונים.
+ היא אוהבת לדבר, לצחוק, לעבוד בגינה, לבשל, לקרוא, לעזור לאחרים ולצאת לטיולים.
+ אני אוהב שהיא מקשיבה לי כשאני מנגן, וכן לצחוק, לטייל או סתם לשוחח איתה
+ על נושאים שמעניינים אותנו.
+ אני קשור אליה מאוד.
+\end_layout
+
+\begin_layout Standard
+אמי נולדה בבית שבו אנו גרים היום, וכשהייתה בכיתה א' עברה עם משפחתה לקיבוץ
+ גבים, ומשם, בכיתה ה' עברה לקיבוץ נחל עוז.
+ בקיבוץ נחל עוז, כשהייתה בכיתה ז', הכירה אמי את אבי.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/efrat.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+תמונות של אמא
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+על הפגישה הראשונה, על תחילת סיפור האהבה מספרת אמי: "בקיבוץ הייתה פינת חי
+ קטנה, שהייתה מטופלת אך ורק על ידי הילדים ולה קראו 'משק-הילדים'.
+ היו בה קופה, ארנבים, ברווזים, סוסים, פרה, עזים, תרנגולות וקביות.
+ כל בוקר היינו הולכים לחליבת הבוקר של העזים והפרה, ובצהריים, לאחר בית הספר,
+ היינו מאכילים את החיות ומנקים את הכלובים.
+ במשך תקופה ארוכה הייתי אחראית על המדגרה, שבה בקעו הברווזים והאפרוחים הקטנים,
+ ואבא היה סדרן העבודה.
+ שם היכרנו והתאהבנו...".
+ ואמא ממשיכה ומספרת: "היה לי מזל גדול שכבר בילדות היה לי חבר כל כך טוב,
+ ועד היום נדמה לי ששנינו עדיין אותם ילדים...".
+\end_layout
+
+\begin_layout Standard
+לאחר סיום הלימודים בבית הספר שער הנגב, אבי התגייס לצבא ושרת במודיעין, ואמא
+ הייתה בשנת שרות בקיבוץ עירוני בירושלים שנקרא 'קיבוץ ראשית', אשר מטרתו הייתה
+ לקיים חיים שיתופיים וערכיים בלב העיר, בשכונות מצוקה, ולסייע בבניית מסלולי
+ שרות צבאי, שישלבו נוער קיבוצי, עירוני, דתי וחילוני.
+ לאחר שנת השרות, שרתה אמא בצבא בתור מדריכת נוער במושב תירוש.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/wedding.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+הוריי מתחתנים
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+6
+\numeric off
+ באוגוסט,
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1990
+\numeric off
+, התחתנו הוריי בנחל עוז בחתונה הראשונה שבה נישאו שני בני משק.
+ אחר, למדו באוניברסיטת תל אביב.
+ אבי למד הנדסת חשמל ואלקטרוניקה, ואמי למדה ספרות ופילוסופיה, והם גרו בתקופת
+ לימודיהם במעונות הסטודנטים.
+ בסוף התואר הראשון עזבו הוריי את הקיבוץ, ודווקא בפני שהאמינו בערכיו, ערכים
+ של שותפות, שוויון וצניעות, הם בחרו לממשם במקום אחר, ולא במסגרת הקיבוצית
+ שלדעתם התכחשה להם.
+ מתוך עמדה זו, הם בחרו לחיות ביפו, בתוך שכונה מעורבת של יהודים וערבים מוסלמים
+ ונוצרים ובתוך בניין מוזנח שמשפחותיו עניות ובעלות קשיים רבים.
+ אבי ואמי שפצו את הבניין לבדם, אמי שתלה גינה, ונוצרו יחסים הדוקים של עזרה
+ הדדית בין משפחתנו לבין משפחות השכנים )עד היום אנו נוהגים לבקרם או לשוחח
+ אתם בטלפון, וחווים אותם כשכנינו(.
+\end_layout
+
+\begin_layout Standard
+אני נולדתי בתוך שכונה זו ביפו, ואחת מהסיבות שקראו את שמי עלי, היה רצון הוריי
+ שיהיה לשמי קרבה לשמות ערביים, והוריי גם רצו מאוד שערבית תהיה שפתי השניה.
+ ביפו אימצנו גם את כלבתנו פליקו, שהייתה כלבתם של מחוסרי הדיור.
+\end_layout
+
+\begin_layout Standard
+כשהייתי בן שנה, עברנו לכפר סבא, ועזבנו בכאב לב את יפו, וזאת כיוון שהוריי
+ הבינו שחשוב שאגדל במשפחה מורחבת, ולא רק במסגרת המצומצמת של המשםחה הגרעינית.
+ כך חזרו הוריי לבית שבו נולדה אמי וששם מתגוררת משפחתנו בשמחה עד היום.
+\end_layout
+
+\begin_layout Chapter
+אבא אמא ואני מספרים על זכרונות משותפים --- המסע הגדול לאוסטרליה
+\end_layout
+
+\begin_layout Standard
+בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+2005
+\numeric off
+ , כשהייתי בכיתה א', נסענו אבא אמא ואני לטיול בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+ חודשים באוסטרליה.
+ היה זה טיול שטח, שבו התגוררנו באוהל, צעדנו קילומטרים רבים, וחווינו תנאים
+ פיסיים קשים, של חום, קור, גשם ועייפות.
+ לטיול היה אופי שכזה, כיוון שמטרתו היתה להכיר מקרוב את התרבות המיוחדת של
+ האבוריג'ינים.
+ 
+\end_layout
+
+\begin_layout Standard
+האבוריג'ינים הם בעלי התרבות העתיקה ביותר בעולם, ויותר ויותר מתבררת החכמה
+ המסורתית שלהם בנוגע לחיים אחראים של אדם כלפי סביבתו, חיות, צמחים, סלעים,
+ נוף ואנשים אחרים.
+ האבוריג'ינים רואים בכל אדם צומת של קשרים מרובים, ומי שבתהליך התפתחותו מרחיב
+ יותר ויותר את רשת קשריו, ולומד לראות יותר ויותר נקודות מבט )קללה ידועה
+ בשפה האבוריג'ינית היא "מי שלא רואה הרבה נקודות מבט"(.
+\end_layout
+
+\begin_layout Standard
+האבוריג'ינים ידועים בידע הנרחב שיש להם על צמחים, בעלי חיים, ותכונות נוף,
+ שבעזרתו הם ניזונים, מרפאים, ומתגוררים.
+ הידע העשיר הזה הוא ידע העובר בעל פה, ואשר מתגלה לילדים גם בחיי היומיום
+ וגם בטקסים סודיים.
+ האבוריג'ינים למשל יודעים כיצד למצוא מים באמצע המדבר: בתוך שורשים של עצים,
+ בתוך עלים שאוגרים מים, ואפילו על ידי זן מיוחד של צפרדע מדברית, שמסתתרת
+ באדמה, ושאפשר ללחוץ על בטנה, ולשתות את המים שבתוכה.
+ הם יודעים כיצד למצוא זחלים למאכל, לעקוב אחרי דבורים, לצוד קנגרואים, לדוג
+ דגים, לתפוס צבי מים, ולהפיק מתכונות שונות של צמחים סגולות רפואיות ומגוונות.
+ אולם, בניגוד לנו, שלרוב מנצלים את הסביבה לטובתנו, האבוריג'ינים משתמשים
+ בידע הזה תוך כדי שמירה על הסביבה ודאגה לצמיחתה מחדש – הם לא שותים את כל
+ המים של הצפרדע, כי אחרת היא תמות, הם לא הורגים אפרוחים צעירים, הם מכסים
+ את השרשים באדמה כדי שיצמחו, והם שורפים שטחים שלמים כדי לאפשר לצמחים להתחדש,
+ ולחיות הניזונות מהם לחיות.
+\end_layout
+
+\begin_layout Standard
+הידע הרחב הזה, שהוא, כאמור, ידע בעל-פה, נקרא 'זמן-חלום', והוא לא רק ידע,
+ אלא גם חוק, גם דת, גם צדק מוסרי וגם השרדות כלכלית.
+ הוא שמור בסיפורי הבריאה האבוריג'ינים, אשר נתפסים כמצויים בנוף עצמו, ואשר
+ האיש האבוריג'יני הופך אותם לקיימים מחדש בכול פעילויות היומיום שלו – בצייד,
+ בליקוט, בשירה, בנישואים, בציור, בחינוך הילדים, וכו'.
+ 
+\end_layout
+
+\begin_layout Standard
+במשך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+50,000
+\numeric off
+ שנה קיימו האבוריג'ינים את תרבותם באוסטרליה.
+ לפני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+200
+\numeric off
+ שנה הגיע האדם הלבן לאוסטרליה, ומבלי להבין את חכמת התרבות העומדת מולו, ראה
+ באנשים שאין להם בית, אין להם בגדים, שאין להם רכוש, שאין להם אדמה, פראים
+ עלובים, בלתי מחונכים, שיש להיפטר מהם או לחנך אותם, ולסלק אותם מאדמתה הפוריה
+ של אוסטרליה.
+ כך התחילה השואה האבוריג'ינית, שכללה רצח וצייד של האבוריג'ינים, הרעלות,
+ גניבת ילדים, איסור על קיומי טקסים והדבקה בלתי מכוונת במחלות.
+\end_layout
+
+\begin_layout Standard
+כיום גדלה ההבנה לגבי האסון שנגרם לאבוריג'ינים ולתרבותם, ולאסון שנגרם לנו
+ מעצם הכחדת התרבות העתיקה בעולם, ואחת המורכבות שבהן.
+ 
+\end_layout
+
+\begin_layout Standard
+כשיצאנו לאוסטרליה רצינו להכיר מקרוב את המצב האבוריג'יני כיום, וללמוד ככל
+ האפשר על תרבותם.
+ לכן, מצויידים במכונית ובאוהל, ביקשנו לפגוש אבוריג'ינים כיום, לשמוע על מצבם,
+ להכיר את הנופים שבהם הם חיים, ללמוד את דרכי הצייד, על סוגי המזון, על הכלים
+ שבהם השתמשו, ולראות כמה שיותר את ציורי הקיר העתיקים, שעל ידם הם העבירו
+ מדור לדור את סיפורי הבריאה.
+ 
+\end_layout
+
+\begin_layout Standard
+בין הזכרונות שלנו יש זכרונות של:
+\end_layout
+
+\begin_layout Description
+בע"ח: תילי טרמיטים, תנינים, קולות מוזרים של ציפורים, שועלים מעופפים, אופוסומים
+ )שירדו לאכול קוסקוס בערב מהסיר שלנו(, קואלות, קנגרואים, אכידנה )קיפוד נמלים
+ שאני הצלחתי למצוא(, שונית אלמוגים, ומפגש של אימא עם נחש מים שהתייצב מולה.
+ 
+\end_layout
+
+\begin_layout Description
+מאכלים
+\begin_inset space ~
+\end_inset
+
+מיוחדים
+\begin_inset space ~
+\end_inset
+
+שאכלנו
+\begin_inset space ~
+\end_inset
+
+עם
+\begin_inset space ~
+\end_inset
+
+האבוריג'ינים: זחלים שמוצאים במדבר מתחת לשיחים מיוחדים, נמלים ירוקות בטעם
+ של סוכריית לימון )צריך למחוץ אותן לפני שאוכלים כדי שלא ינשכו(, זנבות של
+ קנגרו, צב ארוך צוואר, דמפר )לחם שמכינים בתוך מדורה שמכוסה בחול ואבנים(.
+\end_layout
+
+\begin_layout Description
+נופים
+\begin_inset space ~
+\end_inset
+
+מרהיבים: מפלים, יערות גשם, יערות מונסון, נהרות תנינים, הרים )במיוחד אולורו,
+ שזו האבן הגדולה ביותר בעולם(, מדבריות אדומים, שטחים אדירים עם קנגרואים,
+ אמואים וולאבים.
+\end_layout
+
+\begin_layout Description
+ציורי
+\begin_inset space ~
+\end_inset
+
+קיר: ערכנו מסעות ארוכים כדי לחזות בציורי קיר עתיקים )מלפני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+30,000
+\numeric off
+ שנים(, וראינו ציורים מרהיבים של דמויות בריאה מ"זמן חלום" כנו נמראגון איש
+ הברק, נחש הקשת בענן, זחלים, דגים, צבים ועוד.
+ אני אהבתי מאוד את ציורי הקיר והייתי יושב מולם עם מחברת ומעתיק אותם.
+ יום אחד, לקראת סוף הטיול, כשרציתי לדבר עם אבוריג'יני, ולא ידעתי כיצד, ציירתי
+ לו על האדמה את הסימנים האבוריג'ינים לקנגרו, אמואים וקזוארי, והוא התלהב
+ מאוד והתפעל מחוכמתי.
+ 
+\end_layout
+
+\begin_layout Description
+לימודים: כיוון שנלקחתי מבית הספר, לימודיי המשיכו להתקדם אך תוך כדי נסיעה.
+ היו לי ספרי קריאה, ובמיוחד "ספר בראשית בחרוזים", שאותו קראתי שוב ושוב,
+ והוא התחבר לי בדמיון עם סיפורי הבריאה של זמן חלום.
+ הייתה לי גם מחברת, שבה התקדמתי בלימודי החשבון, על ידי שאלות שקשורות לטיול.
+ אימא היתה ממציאה בשבילי תרגילים, ואני הייתי פותר אותם.
+ למשל: לספיניפיקס )צמח קוצני( היו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+14
+\numeric off
+ גבעולים.
+ ארבעה מהם אכלו הוולאבים, ושניים מהם הרסו הנמלים.
+ כמה גבעולים נשארו? ואני הייתי פותר.
+ בערב, לפני שנרדמנו באוהל, הייתי כותב ביומני את חוויות היום, וכך גם התקדמתי
+ בכתיבה.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/australia_diary.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+קטע מיומן אוסטרליה שלי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+זכרונות
+\begin_inset space ~
+\end_inset
+
+מהשהות
+\begin_inset space ~
+\end_inset
+
+יחד: בטיול לא נפרדנו לרגע, ועברנו יחד תנאים קשים.
+ היו רגעים של קור, גשם, היתה פעם שנתפסו לי השרירים, והיו ימים בלי מקלחת
+ ובלי אוכל מסודר.
+ עם כל זאת, נהנינו מאוד זה עם זה, ואפילו חגגנו לי ולאבי יומולדת באוהל.
+ הורי מספרים לי שאחד מהדברים הקשים בחזרה הביתה היה להיפרד זה מזה כשכל אחד
+ הולך לעיסוקיו.
+\end_layout
+
+\begin_layout Standard
+לסיכום – עד היום אנו זוכרים בגעגועים את הטיול לאוסטרליה וחולמים על הטיול
+ הבא, שהפעם יעשה בהרכב מחודש, יחד עם אחותי הקטנה רות.
+\end_layout
+
+\begin_layout Chapter
+אחותי הקטנה רות
+\end_layout
+
+\begin_layout Standard
+כשהייתי בן שבע וחצי בישרו לי הוריי שעומדת להיוולד לי אחות.
+ זה היה רגע מאוד חגיגי והרגשתי שאני עומד להתפוצץ מרוב אושר.
+ התקשרתי לכל בני המשפחה לבשר להם את הבשורה המשמחת, והרגשתי שחלומי התגשם.
+ אחותי רות נולדה בבית חולים מאיר בכפר סבא ב-
+\numeric on
+26/4/2006
+\numeric off
+.
+ כיום היא בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+, ואוהבת במיוחד שירה, ריקוד, הליכה לגן, יציאה לטיולים, קריאה וציור.
+ אני אוהב לדבר איתה, לצחוק, לשחק, לשיר, לשמוע מוסיקה, להשתולל, להתמסר בכדור,
+ לרוץ, לאכול, לקרוא סיפור וללכת לטיול עם הכלבה ליסה.
+ לרות יש תלתלים חומים ארוכים, גוף קטן ושרירי, עיניים כחולות עם זיק שובבי,
+ וחיוך חכם וחביב.
+ היא לבושה בעיקר בשמלות וחצאיות, כשהיא קצת מלוכלכת מהטושים בהם ציירה.
+ רות היא ילדה שובבה, מצחיקה, חיננית, טובת לב, חכמה, עוזרת, פעלתנית ומלאה
+ בדמיון.
+ במשפחה אנחנו קוראים לה רמי, רולי, רולון, רול וקורסקובה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+את רות החלטתי לראיין לעבודתי ולשאול אותה על עצמה.
+ זהו הראיון האהוב עלי ביותר:
+\end_layout
+
+\begin_layout Description
+שאלה: איזה צבע את הכי אוהבת?
+\end_layout
+
+\begin_layout Description
+רות: זהב.
+\end_layout
+
+\begin_layout Description
+שאלה: למה את הכי אוהבת צבע זה?
+\end_layout
+
+\begin_layout Description
+רות: כי הוא נוצץ ומבריק.
+\end_layout
+
+\begin_layout Description
+שאלה: מהם תחביבייך?
+\end_layout
+
+\begin_layout Description
+רות: לשחק בגן, לרקוד, לשיר, לשחות, להכין יצירות מחול צבעוני, לקרוא עם אמא
+ סיפורים, לצאת לטיולים, להתחפש.
+\end_layout
+
+\begin_layout Description
+שאלה: מיהם חברייך הטובים ביותר בגן?
+\end_layout
+
+\begin_layout Description
+רות: אדיר במיוחד.
+\end_layout
+
+\begin_layout Description
+שאלה: מהי המשאלה שלך?
+\end_layout
+
+\begin_layout Description
+רות: אני רוצה מאוד מאוד שיגיע יום ההולדת שלי, ושתהיה לי בובה חדשה.
+\end_layout
+
+\begin_layout Description
+שאלה: האם תוכלי לספר לי על זיכרון מיוחד?
+\end_layout
+
+\begin_layout Description
+רות: אני זוכרת שפגשתי בחלומי את פיית המשאלות הזוהרת, והיא אמרה לי שהיא ראתה
+ אותי מטיילת עם המשפחה, וראתה שאני ילדה מצויינת ומתנהגת מקסים.
+ היא נתנה לי לבקש משאלה, ואני ביקשתי שהיא תהפוך אותי בלילה לפייה.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: איזה ספר את הכי אוהבת לקרוא?
+\end_layout
+
+\begin_layout Description
+רות: אהבתי הכי את "כוכב השביט מגיע לעמק המומינים".
+\end_layout
+
+\begin_layout Description
+שאלה: ספרי לי קצת על הגן.
+\end_layout
+
+\begin_layout Description
+רות: כל יום כשאני מגיעה לגן אני מחבקת את אדיר.
+ אני אוהבת מאוד את הגן, את הגננות, את התחפושות והמשחקים שיש בו.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: מהו האוכל האהוב עלייך?
+\end_layout
+
+\begin_layout Description
+רות: פנקייק.
+\end_layout
+
+\begin_layout Description
+שאלה: מה המשחק האהוב עלייך?
+\end_layout
+
+\begin_layout Description
+רות: הבובה סינדרלה.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: מהו כלי הנגינה האהוב עלייך?
+\end_layout
+
+\begin_layout Description
+רות: כינור.
+\end_layout
+
+\begin_layout Description
+שאלה: מהי החיה האהובה עלייך?
+\end_layout
+
+\begin_layout Description
+רות: כפיר )גור אריות(.
+\end_layout
+
+\begin_layout Description
+שאלה: מה תרצי להיות כשתהיי גדולה?
+\end_layout
+
+\begin_layout Description
+רות: ארצה להיות נסיכה.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: ממה את מפחדת?
+\end_layout
+
+\begin_layout Description
+רות: אני מפחדת מדרקונים ומשודדים רעים.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: למה?
+\end_layout
+
+\begin_layout Description
+רות: אני מפחדת מדרקונים כי הם יורקים אש, גדולים ולא נחמדים.
+ אני מפחדת משודדים רעים כי הם יכולים להילחם ולפגוע מאנשים טובים.
+\end_layout
+
+\begin_layout Description
+שאלה: איזו פינה בבית את הכי אוהבת?
+\end_layout
+
+\begin_layout Description
+רות: את החדר שלי.
+\end_layout
+
+\begin_layout Description
+שאלה: למה?
+\end_layout
+
+\begin_layout Description
+רות: כי הוא נוצץ ויש בו פיות יפות.
+\end_layout
+
+\begin_layout Description
+שאלה: מה את הכי אוהבת כשכל המשפחה עושה יחד?
+\end_layout
+
+\begin_layout Description
+רות: אני אוהבת כשכול המשפחה ביחד נוסעת לטיולים ומתארחת אצל חברים.
+ 
+\end_layout
+
+\begin_layout Description
+שאלה: האם את יכולה לספר לי סיפור מעניין?
+\end_layout
+
+\begin_layout Description
+רות: יש לי בחדר שלושה גמדים, והם ישנים בבגדים שאני מכינה בערב בשביל ללבוש
+ לגן.
+ לאחד קוראים פיקניקון, לשני קוראים אליק בליק ולשלישית קוראים לי.
+ הם קטנים מאוד, בגודל של שקד מרק, והם הולכים כל יום לטיול.
+ פעם אחת הם היו בכדור פורח וטסו לחרמון, ופעם אחרת הם רכבו על ליסה הכלבה
+ ויצאו ביחד איתנו לטיול.
+ פיקניקון לובש חולצה, מכנסיים וכובע עם פונפון, וכולו בצבע כחול עם פסים לבנים.
+ לאליק בליק יש אוברול בצבע ירוק, וכובע בצבע ירוק.
+ לי לובשת שמלה בצבע זהב נוצץ עם פרחים לבנים.
+ 
+\end_layout
+
+\begin_layout Chapter
+משפחתי וחיות אחרות
+\end_layout
+
+\begin_layout Standard
+משפחתי אוהבת מאוד בעלי חיים.
+ תמיד כשאנו מוצאים חיה פצועה או נטושה אנו מטפלים בה או דואגים למצוא לה בית.
+ בין החיות שגדלו איתי אפשר למנות אפרוח תרנגולת, צוצלת, חתולים שונים, מקלונים
+ ותולעי משי.
+ אך החיות שהפכו לחלק בלתי נפרד מהמשפחה הן פליקו, שפי וליסה.
+ 
+\end_layout
+
+\begin_layout Section
+פליקו
+\end_layout
+
+\begin_layout Standard
+פליקו הכירה אותי עוד בטרם נולדתי.
+ היא הייתה כלבה שחורה, בינונית בגודלה, עם עיניים גדולות נוצצות.
+ הוריי פגשו את פליקו לראשונה כשעברו לגור ביפו.
+ היא הייתה שייכת אז למשפחה של מחוסרי דיור, שילדיה קנו אותה מילד אחר בשני
+ שקלים.
+ כיוון שהתאהבנו בה, וראינו את הקושי של שכנינו לטפל בה, אימצנו אותה בשותפות
+ איתם, כך שהיו לפליקו שני בתים ביפו שאהבו אותה מאוד.
+ היא הייתה רצה ברחובות ועולה במדרגות במעברה מבית לבית.
+ כשהייתי בן שנה, והוריי החליטו לעבור לכפר סבא, הסכימו שכנינו שניקח אותה
+ איתנו ונטפל בה, אך בתנאי שלא נשכח להביאה לביקורים.
+\end_layout
+
+\begin_layout Standard
+פליקו עברה לכפר סבא, אך שמרה על אופייה היפואי.
+ היא הייתה כלבה עצמאית מאוד, ששוטטה הרבה לבד, בחרה לאן ללכת, ותמיד חזרה
+ הבייתה.
+ היא היתה גם שובבה ביותר והרבה פעמים שיחקה איתנו בהתלהבות ואפילו ידעה לצחוק
+ וכאילו לספר בדיחות.
+\end_layout
+
+\begin_layout Standard
+לקחנו את פליקו איתנו לכול טיול.
+ בטיולים פליקו היתה מרגישה אחריות על כולנו.
+ אם מישהו היה מתרחק מהשאר, היא תמיד בחרה לעזוב את הרוב ולבוא דווקא איתו
+ כדי לשמור עליו.
+ גם כשנולדתי נהגה פליקו לשמור עלי, ולעולם לא עזבה את העגלה שלי כשיצאנו לטיול
+ ברחוב.
+ היא היתה נובחת על כל מי שהתקרב לעגלה כדי שלא יפגע בי.
+ )ראה בנספח "עליקו ופליקו" --- ספר עלי ועל פליקו שכתבו הוריי כמתנה לגיל
+ שנה(.
+\end_layout
+
+\begin_layout Standard
+מקרה אחד עצוב זכור לכולנו.
+ פעם אחת, אחרי טיול בחוף הים ביפו, רצינו לחזור הביתה ולא שמנו לב שפליקו
+ לא נכנסה למכונית.
+ לאחר חצי שעה הבחנו שהיא נעדרת וחזרנו לחוף אך לא מצאנו אותה שם.
+ חיפשנו אותה במשך יומיים ביום ובלילה, והמשפחה כולה חשה עצב גדול.
+ לבסוף סבא וסבתא, שהשתתפו גם הם בחיפוש, מצאו אותה בטיילת בבת ים.
+\end_layout
+
+\begin_layout Standard
+על כל יתרונותיה היתה לפליקו גם בעיה אחת גדולה: מכיוון שביפו היא היתה כלבה
+ משוטטת, הילדים ברחוב היכו אותה ובעטו בה, ונוצר אצלה פחד מרגלי אנשים.
+ כך, אם מישהו היה מזיז את רגליו לידה היא היתה נושכת אותו.
+ בגלל בעיה זו היו כמה פעמים שפליקו היתה בהסגר.
+ היא היתה כלואה למשך שבוע, רחוק מהבית, ולאחר שבוע כזה היא היתה חוזרת מסכנה
+ מאוד.
+ בימים אלו היא לא צחקה, ולא שיחקה, והלכה לאט ובראש רכון.
+ אנחנו ליטפנו אותה והרגענו אותה, עד שחזרה להיות שמחה.
+ 
+\end_layout
+
+\begin_layout Standard
+שבוע לפני ראש השנה האחרון פליקו חלתה.
+ היא לא רצתה לצאת לטיולים, לא נבחה ולא שיחקה, לא אכלה ושתתה.
+ דאגנו לה מאוד, ליטפנו אותה, האכלנו אותה וחיבקנו אותה, עד שבערב ראש השנה
+ היא נפטרה.
+ קברנו אותה בחצר של הורי אימי והיינו עצובים מאוד.
+ פליקו היתה בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+13
+\numeric off
+ במותה.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/pelico.eps
+	display false
+	width 9cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+פליקו
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+שפי
+\end_layout
+
+\begin_layout Standard
+כשהייתי בן שנתיים אימצנו חתול.
+ זה היה בטיול שערכנו לגן הזוחלים, אשר בקיבוץ שפיים, שבו במקרה באותו יום
+ הגיעה משפחת חתולים קטנים שנזקקו לאימוץ.
+ בסוף הסיור שלנו בגן החיות התבוננו בחתולים והחלטנו לבחור את החתול הכי מכוער
+ ומצחיק שהיה שם, כי פחדנו שאותו אף אחד לא ירצה לאמץ.
+ קראנו לו שפי על שם קיבוץ שפיים שבו פגשנו בו.
+ כשהיה גור, שפי היה קטן מאוד, רזה, מכוער, והיו לו קרחות בפרווה, בהן כמעט
+ ולא היו לו שערות.
+ טיפלנו בו יפה )בעזרתה של פליקו(, נתנו לו אוכל ומים וטיפחנו אותו, וכיום
+ הוא חתול שמן, יפה, גדול, נחמד ונינוח.
+ 
+\end_layout
+
+\begin_layout Standard
+שפי הפך בכפר סבא למלך השכונה.
+ הוא מהלך לו שליו ובטוח, ונותן לכל אחד ללטף אותו.
+ הוא גם מזמין חתולים אחרים, פצועים או רעבים, לבוא ולאכול מהאוכל שלו, ומארח
+ אותם על חלונו.
+ לכן אנו מכנים אותו "הצדיק".
+\end_layout
+
+\begin_layout Standard
+בשנים שבהן פליקו היתה בבית, שפי קצת שמר מרחק, וחי יותר בחוץ או על השולחנות.
+ לאחרונה, שפי מצא לעצמו חברה חדשה, קטנה, לבנה וחמודה- את החברה ליסה.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/shefi.eps
+	display false
+	width 9cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+שפי בעודו גור
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ליסה
+\end_layout
+
+\begin_layout Standard
+לאחר שפליקו נפטרה, הרגשתי שמשהו חסר בבית.
+ כל שנות חיי הייתי רגיל שיש כלב בבית, ועכשיו הרגשתי ריקנות.
+ אמרתי זאת לאימי, וביחד חיפשנו במחשב תמונות של כלבים באתרים שונים של כלבים
+ לאימוץ.
+ פתאום ראינו, אני ואימי, כלבה קטנה ולבנה, בעלת עיניים שחורות עצובות, שכאילו
+ אומרות: "בואו תקחו אותי, לא טוב לי כאן".
+ כעבור כמה ימים נסענו לרחובות להביא אותה מצער בעלי חיים.
+ כשנכנסנו לכלביה זיהיתי אותה מייד.
+ היא עמדה בצד והייתה מאוד מלוכלכת.
+ אמא הרימה אותה בידינו ונסענו הביתה.
+ בבית רחצנו אותה, האכלנו אותה, ונתנו לה את השם ליסה.
+ 
+\end_layout
+
+\begin_layout Standard
+ליסה היא כלבה מקסימה.
+ היא מטיילת בשמחה ברחוב, נוסעת יפה במכונית, ואוהבת את כולנו, ובמיוחד את
+ שפי, שהיא והוא פיתחו חברות גדולה מאוד: הם ישנים ביחד, משחקים ביחד, ואפילו
+ אוכלים ושותים זה לצד זה.
+ לליסה יש שיתוק בזנב, היא לא יכולה להזיז אותו, אך זה לא מסב לה כאב או אי
+ נעימות.
+ כנראה שהיא עברה תאונת דרכים, אך אנו איננו יודעים דבר על עברה.
+ את העתיד שלה אנו מקווים לגלות בנעימים יחד איתה.
+ 
+\end_layout
+
+\begin_layout Chapter
+מילון משפחתי
+\end_layout
+
+\begin_layout Section
+ביטויים
+\end_layout
+
+\begin_layout Description
+להתנעל,
+\begin_inset space ~
+\end_inset
+
+להסתנדל: לנעול נעליים או סנדלים.
+\end_layout
+
+\begin_layout Description
+נוצות: שיער )לסדר נוצות = לסדר שיער(
+\end_layout
+
+\begin_layout Description
+אל
+\begin_inset space ~
+\end_inset
+
+תהיה
+\begin_inset space ~
+\end_inset
+
+גנו
+\begin_inset space ~
+\end_inset
+
+או
+\begin_inset space ~
+\end_inset
+
+סרדין: לא להתנהג כמו בעדר ולעשות מה שאחרים עושים.
+\end_layout
+
+\begin_layout Description
+בטטה: טפשון
+\end_layout
+
+\begin_layout Description
+עמלק,
+\begin_inset space ~
+\end_inset
+
+פושטק,
+\begin_inset space ~
+\end_inset
+
+שד,
+\begin_inset space ~
+\end_inset
+
+בנדיט,
+\begin_inset space ~
+\end_inset
+
+שודד: שובב
+\end_layout
+
+\begin_layout Description
+ציצה: כל דבר שבולט
+\end_layout
+
+\begin_layout Description
+דרדלה: משהו שנוזל, נוטף, תלוי ברפיון.
+\end_layout
+
+\begin_layout Description
+אינקויזיציה: פעולות ניקוי גוף לא נעימת כמו גזירת ציפורניים, מריחת יוד וכו'
+\end_layout
+
+\begin_layout Description
+להגיד
+\begin_inset space ~
+\end_inset
+
+לי: לברך בלילה טוב ליד המיטה.
+\end_layout
+
+\begin_layout Description
+להיות
+\begin_inset space ~
+\end_inset
+
+בנות
+\begin_inset space ~
+\end_inset
+
+)בנות
+\begin_inset space ~
+\end_inset
+
+במלעיל(: להיות אופנתי וגנדרני
+\end_layout
+
+\begin_layout Description
+להתמסכן: להעמיק את העצב בלי לנסות לפתור את הבעיה.
+\end_layout
+
+\begin_layout Description
+פצעת
+\begin_inset space ~
+\end_inset
+
+אותי
+\begin_inset space ~
+\end_inset
+
+אבאלה: ריגשת אותי, הצחקת אותי.
+\end_layout
+
+\begin_layout Description
+ירדו
+\begin_inset space ~
+\end_inset
+
+לי
+\begin_inset space ~
+\end_inset
+
+השחקים: אני עייף מאוד.
+\end_layout
+
+\begin_layout Description
+נקי
+\begin_inset space ~
+\end_inset
+
+וטוב
+\begin_inset space ~
+\end_inset
+
+לב: להיות מצוחצח וחגיגי.
+\end_layout
+
+\begin_layout Section
+קולות
+\end_layout
+
+\begin_layout Description
+האבפת: אבא מתעטש
+\end_layout
+
+\begin_layout Description
+פופת: עלי שותה תה עם כפית
+\end_layout
+
+\begin_layout Description
+יקאמיה: אמא מגהקת.
+\end_layout
+
+\begin_layout Part
+משפחת אבי
+\end_layout
+
+\begin_layout Chapter
+מוצא המשפחה ומקור שמות המשפחה
+\end_layout
+
+\begin_layout Standard
+אבי, איתי לוי, הוא בנם הצעיר של רחל ואברהם לוי, והוא אחיהם של של נתי לוי
+ וגיא לוי.
+ מוצאה של משפחת אבי בפולין ובאוקראינה.
+ הוריהם של סבי עלו לארץ בתחילת המאה הקודמת ולאחר מלחמת העולם הראשונה, והן
+ סבי והן סבתי נולדו בארץ ישראל.
+\end_layout
+
+\begin_layout Section
+מקורות שמות המשפחה
+\end_layout
+
+\begin_layout Subsection
+מצד משפחתו של סבא
+\end_layout
+
+\begin_layout Subsubsection
+רטושנה
+\end_layout
+
+\begin_layout Standard
+רטושנה היה שם המשפחה של אביו של סבא לפני שהוחלף ללוי.
+ משמעות השם אינה ידועה לנו.
+ אחרי הגיעוו ארצה החליט סביו של סבא להחליף את השם להלוי, בשל מסורת של שייכות
+ ללויים, וכך עשו גם שאר בני המשפחה.
+ אביו של סבא, שהיה אז בן עשרים וארבע, העדיף להחליפו ללוי.
+\end_layout
+
+\begin_layout Subsubsection
+גרמן
+\end_layout
+
+\begin_layout Standard
+גרמן היה שם המשפחה של אמו של סבא.
+ שם זה מציין כנראה את מקור המשפחה בגרמניה.
+\end_layout
+
+\begin_layout Subsection
+מצד משפחתה של סבתא
+\end_layout
+
+\begin_layout Subsubsection
+ז'ולטי
+\end_layout
+
+\begin_layout Standard
+ז'ולטי היה שם משפחתו של אבא של סבתא.
+ זהו שם פולני, שמשמעו זהבי.
+ בהגיעם ארצה החליפו הוריה את השם לזהבי.
+\end_layout
+
+\begin_layout Subsubsection
+לנגנור
+\end_layout
+
+\begin_layout Standard
+לנגנור היה שם המשפחה של סב-סבתי מצד האב.
+ היה זה שם אנטישמי, שמשמעו 'אף ארוך', ואשר ניתן על ידי הפולנים כדי לתאר
+ באורח משפיל את דמותם של היהודים, בניגוד לנוצרים, כבעלי אף ארוך, עקום ומכוער.
+ כשאביה של סבתי עלה לארץ, יחד עם אחיו, הם החליטו להחליף את השם המבייש את
+ מוצאם היהודי, בשם המתגאה בו ובציוניותם, וקראו לעצמם ישראלי.
+ )הוריהם – רחל וישראל לנגנר ברחו במלחמת העולם השניה מפולין לפראג, ונפטרו
+ שם(.
+\end_layout
+
+\begin_layout Chapter
+סבתא רחל לוי
+\end_layout
+
+\begin_layout Section
+תעודת זהות
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+75
+\end_layout
+
+\begin_layout Description
+שנת
+\begin_inset space ~
+\end_inset
+
+לידה:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1934
+\end_layout
+
+\begin_layout Description
+עיסוק
+\begin_inset space ~
+\end_inset
+
+נוכחי: מנהלת חשבונות בקיבוץ נחל-עוז.
+\end_layout
+
+\begin_layout Description
+מקום
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+נוכחי: קיבוץ נחל-עוז
+\end_layout
+
+\begin_layout Description
+בן-זוג: אברהם לוי
+\end_layout
+
+\begin_layout Description
+הורים: רבקה ומשה ישראלי
+\end_layout
+
+\begin_layout Description
+ילדים: נתי לוי, גיא לוי ואיתי לוי
+\end_layout
+
+\begin_layout Description
+אחים: עלי ישראלי ז"ל 
+\end_layout
+
+\begin_layout Description
+מוצא
+\begin_inset space ~
+\end_inset
+
+משפחתי: פולין
+\end_layout
+
+\begin_layout Description
+מקור
+\begin_inset space ~
+\end_inset
+
+השם: רחל נקראה על שם סבתה מצד אביה, שנספתה בעיר פראג במלחמת העולם הראשונה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/rachel.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבתא רחל
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+סיפורי ילדות ונערות של סבתא רחל
+\end_layout
+
+\begin_layout Standard
+נולדתי בקרית חיים ליד חיפה לפני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+75
+\numeric off
+ שנים.
+ אמי ואבי נולדו בפולין בסוף המאה ה-
+\numeric on
+19
+\numeric off
+.
+ בהיותם בתנועה ציונית --- "החלוץ" היה שמה --- עלו לארץ ישראל כחלוצים בונים
+ , בעליה השלישית ב-
+\numeric on
+1920
+\numeric off
+, סללו כבישים, ייבשו ביצות ובסופו של דבר התיישבו בקריית חיים קרייה של פועלים,
+ ובנו את ביתם במו ידיהם.
+\end_layout
+
+\begin_layout Standard
+אמי רבקה נקראה בנעוריה רבקה ז'ולטי --- זהב בפולנית, וכשמשפחתה עלתה לארץ
+ ישראל החליפו שמם לזהבי.
+ גם אבי כשעלה לארץ עם אחיו ואחותו עברת את שמו לישראלי.
+ לאבי היה שם משפחה משפיל --- לנגנאור --- שמשמעו אף ארוך, שם שניתן לאבותיו
+ מאה שנים קודם להיוולדו.
+ שם שתיאר לפי הלא-יהודים את דמותו של היהודי עם ארוך עקום ומכוער.
+ אפשר לראות תיאורים כאלה בציורים אנטישמיים מהתקופה ההיא.
+ שמי רחל ניתן לי על שם סבתי, אמו של אבי, שנפטרה בעיר פראג במלחמת העולם הראשונה.
+\end_layout
+
+\begin_layout Standard
+סבי מצד אבי ואחיו נספו בשואה, אך כל משפחתה של אימי חייתה בארץ ישראל, וכך
+ זכיתי לילדות מאושרת כשסביבי דודים ודודות, סבא וסבתא.
+\end_layout
+
+\begin_layout Standard
+ימי ילדותי עברו באושר ובחופש מלא שהוענק לי.
+ למדתי עד גיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+18
+\numeric off
+ בבית ספר מעולה של "ילדי זרם העובדים" ושם גם סיימתי את בחינות הבגרות.
+\end_layout
+
+\begin_layout Subsection
+זיכרונות אישיים
+\end_layout
+
+\begin_layout Standard
+בקיץ בימי ששי, לפנות ערב היינו רוכבים על אופניים לים, מקימים אוהל משמיכה,
+ ובסל מכל טוב --- אבטיח ענבים וכריכים.
+ כך חגגנו את כניסת השבת.
+ בחצר היתה לנו מקלחת בה התקלחנו אחרי הבילוי בים.
+ אסור היה להכנס הביתה עם החול והזפת שהבאנו עמנו.
+ כך היה תמיד כל קיץ.
+\end_layout
+
+\begin_layout Standard
+בחורף חיממנו מים בתנור ברזל שהיה מוצב במקלחת בבית, בתחתית דוד המים.
+ אחי ואני היינו אוספים איצטרובלים של אורן וענפים ומסיקים את התנור.
+ המים היו מתחממים ובינתיים היינו יושבים על הרצפה ליד התנור, פותחים את דלת
+ הברזל שלו ומתבוננים בהתלקחות חומר הבעירה שהיה מרהיב ביופיו וגם הפיץ ריח
+ אורנים שהתפשט בחלל הבית.
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+1939
+\numeric off
+ הייתי בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+5
+\numeric off
+.
+ סימן ראשון לתחילתה של מלחמת העולם השניה, היה הפצצת בתי זיקוק לנפט שהיו
+ ממוקמים ליד חיפה.
+ המפציצים היו איטלקיים, שכן איטליה היתה בעלת בריתה של גרמניה.
+ אבא שלי חפר שוחה בחצר וכסה אותה בשקים מלאי חול.
+ עם השמע ההזעקה היו רצים לשוחה, הורי אני ואחי.
+ ההפצצות פסקו לאחר מספר חודשים וכל שנות המלחמה חיינו בשקט.
+ המאורע המרגש ביותר בשבילי היה הליכתי לכתה א'.
+ דברו בבית על מלחמה שמתנהלת אי שם באירופה הרחוקה, ועל מנהיג גרמני שקראו
+ לו היטלר שהוא רשע ואכזר.
+ על השואה לא ידענו דבר.
+ מסתבר שכשהגיעו הידיעות הראשונות על מחנות השמדה הורי --- אם ידעו משהו ---
+ לא דברו בנוכחותי, ואם בכו עשו זאת בסתר.
+ כל בני משפחתה של אמי היו מזה שנים רבות בארץ ישראל.
+ רובה של משפחת אבי אף היא חיתה בארץ.
+ חיי חלפו בשגרה טובה ללא זעזועים כשאין זכר לשואה לא בבית הספר ולא בכתובים.
+\end_layout
+
+\begin_layout Standard
+בתחילת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1946
+\numeric off
+ הייתי כבת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+11
+\numeric off
+, הגיע לביתנו דודי מקבוץ מזרע, אח של אבי ואתו ילדה ספק נערה.
+ היא לבשה בגדים מהודרים, כמו שלבשו ילדים באירופה ותסרוקתה היתה מעוצבת וקשורה
+ בסרטי משי לבנים.
+ פניה היו חוורים וגופה היה כפוף כמו מקל של סבא צורתה היתה כל כך לא טבעית,
+ מפחידה אפילו.
+ נתקפתי בבהלה נוראה.
+ לא יכולתי להתקרב אליה ובודאי לא לקשור עמה שיחה.
+ היא הוחבאה בזמן המלחמה אצל איכרים בפולין בתוך בור צר, ומשום כך גופה התעות.
+ וגבה היה כפוף.
+ אבל היא שרדה את השואה.
+ מאורע זה היה המפגש הראשון והיחיד שלי עם תוצאות השואה הנוראות.
+ שכן הילדה היתה קרובת משפחה רחוקה של אבא שלי.
+ לאחר מכן במשך שנות נעורי לא היה לי קשר אישי עם אף ניצול שואה.
+\end_layout
+
+\begin_layout Subsection
+זיכרונות היסטוריים
+\end_layout
+
+\begin_layout Standard
+זיכרונות על מלחמות יש לי בעקר ממלחמת העצמאות.
+ זכרון ראשון הקשור לתקופה ההיא הוא קניית הרדיו הראשון.
+ היה זה לפני ההכרזה על הקמת המדינה באירגון האומות המאוחדות, וכולנו ישבנו
+ ליד המקלט לשמוע מה החליטו בעצרת האו"ם.
+ לאחר האישור המיוחל יצאנו לרחובות ורקדנו עד אור הבוקר.
+ הנה הולכת ומוקמת מדינת ישראל.
+ כולם בכו והתחבקו, אבל השמחה היתה קצרה.
+ למחרת פלשו צבאות ערב לארץ ישראל והחלה מלחמת העצמאות.
+ 
+\end_layout
+
+\begin_layout Standard
+אחי הבכור התגייס לפלמ"ח, חזר בשלום מהקרבות, אך רבים מחבריו נהרגו.
+ בעצב רב הכריז בן גוריון על יסודה של המדינה.
+\end_layout
+
+\begin_layout Standard
+בשנים הראשונות להקמת המדינה היה מצבה הכלכלי רע מאוד.
+ עיקר התקציב הופנה לבנייה, לפתוח המדינה ולקליטת עולים מכל רחבי העולם, ועל
+ האזרחים היה להסתפק במועט.
+ הוכרז על משטר צנע.
+ כל משפחה קיבלה פנקס נקודות, כמות הנקודות כמספר הנפשות במשפחה.
+ בנקודות אלה יכולנו לקנות מספר מצומצם של מצרכי מזון וגם ביגוד.
+ להוריי היה שטח של דונם סביב הבית וכך יכולנו לאזן את התפריט: שתלנו גינת
+ ירק, נטענו עצי פרי והקמנו לול תרנגולות שאותן האבסנו בשאריות מזון ובירק
+ שלקטנו בשדות.
+ גם אני תרמתי למאמצי הצנע: הייתי שבה מבית הספר ומיד יוצאת לחצר לעשב להשקות
+ ולהאכיל את התרנגולות.
+\end_layout
+
+\begin_layout Standard
+מאורע מעציב זכור לי ממלחמת העצמאות.
+ היה לי מדריך בתנועת הנוער מוסה היה שמו שאותו אהבתי מאד.
+ הוא נהרג בקרבות בגליל.
+ כשהתקיימה הלוויתו היינו בבית הספר ולמדנו כרגיל.
+ בקשנו להפסיק את הלמודים כדי להשתתף בלוויה ואיש מהמורים לא אישר זאת.
+ כל כך נפגעתי שמיד כתבתי פתק אותו העברתי בסתר בין התלמידים ובקשתי מהם לקום
+ וצאת בלי אישור.
+ המורה שלי ראה בפתק חוצפה מצידי וגם קריאה למרד וזרק אותי מבית הספר.
+ ללויה לא הלכנו.
+ לאחר מספר ימים החזירו אותי לבית הספר.לעולם לא אסלח למוריי על אטימות לבם.
+\end_layout
+
+\begin_layout Standard
+סכום פרק חיי בקרית חיים: היו לי ילדות ובחרות נפלאים, שם בקריה, שלאחריהם
+ התגייסתי לצבא לנח"ל --- נוער חלוצי לוחם, וביחד עם חברי הגענו להקים את קיבוץ
+ נחל עוז מול עזה העיר.
+\end_layout
+
+\begin_layout Subsection
+מעבר לקיבוץ נחל עוז
+\end_layout
+
+\begin_layout Standard
+בנחל עוז הכרתי את סבא לייבוש, ומאז ועד היום אנחנו ביחד, חיים בנחל עוז.
+ בשנים הראשונות גרנו בצריף עץ בחדר קטן ובו מיטה ארון וכסא.
+ שירותים לא היו.
+ הם היו בחוץ בחצר והמקלחת היתה משותפת --- אגף לבנים ואגף לבנות.
+ עבדנו קשה, הקמנו קבוץ לתפארת, חיינו בצניעות ובלילות שרנו ורקדנו בחדר האוכל.
+ במרוצת השנים הקבוץ התרחב, נוספו חברים ונולדו ילדים.
+ עברנו לחדר בנוי עם שירותים ומטבחון.
+ ילדינו גדלו בלינה משותפת לטוב ולרע.
+ זו היתה האידיאולוגיה: חינוך משותף אולטימטיבי גם ביום וגם בלילה.
+ לאחר כ-
+\numeric on
+20
+\numeric off
+ שנים בתי החברים הורחבו והילדים עברו לישון עם ההורים.
+\end_layout
+
+\begin_layout Subsection
+חגים בנחל עוז
+\end_layout
+
+\begin_layout Standard
+החג המרגש ביותר הוא חג השבועות, שבו יצאו חברי הקיבוץ עם ילדיהם לשדות לקציר
+ החיטה הראשון.
+ קצרו בתחילה עם מגל וחרמש ולאחר מכן הגיע הקומביין וזרם גרעיני הזהב נשפך
+ מתוכו.
+\end_layout
+
+\begin_layout Standard
+חג נוסף הוא חג המשק, התאריך בו הגענו לקיבוץ, והוא נחוג מידי שנה בארוחה חגיגית
+ והעלאת זיכרונות וספורים מרגשים.
+\end_layout
+
+\begin_layout Subsection
+המשפחה המורחבת
+\end_layout
+
+\begin_layout Standard
+לי שלושה בנים, שלוש כלות ושישה נכדים, והדבר המרגש אותי ביותר הוא לראות ולחוות
+ את גידולם והתפתחותם של נכדיי.
+ אני משתדלת להיות במחיצתם ככל שניתן.
+\end_layout
+
+\begin_layout Subsection
+מציאות וחלום
+\end_layout
+
+\begin_layout Standard
+היה לי חלום בנעורי להקים קבוץ ולחיות בו חיי שיתוף, חברות אמיצה וערבות הדדית.
+ החלום הוגשם.
+ חלומי ותקוותי לעתיד לבוא, שאהיה בריאה, אאריך ימים הרבה ואזכה לראות את נכדיי
+ מגשימים את חלומותיהם שלהם.
+\end_layout
+
+\begin_layout Chapter
+סבא אברהם לוי --- "לייבוש"
+\end_layout
+
+\begin_layout Section
+פרטים אישיים
+\end_layout
+
+\begin_layout Description
+שם: אברהם לוי
+\end_layout
+
+\begin_layout Description
+שמות
+\begin_inset space ~
+\end_inset
+
+חיבה: אומיק, לייבוש
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+57
+\end_layout
+
+\begin_layout Description
+מקצוע: מהנדס
+\end_layout
+
+\begin_layout Description
+בת-זוג: רחל לוי
+\end_layout
+
+\begin_layout Description
+ילדים: נתי, גיא ואיתי לוי
+\end_layout
+
+\begin_layout Description
+אחים: גבעונה שגב ז"ל, רבקה לוי
+\end_layout
+
+\begin_layout Section
+ראיון עם סבא לייבוש
+\end_layout
+
+\begin_layout Subsubsection
+מהו מוצאך המשפחתי?
+\end_layout
+
+\begin_layout Standard
+אבי עלה בגיל מאד צעיר לארץ מרוסיה, והוא וסבא שלי, ואחיו ואחיותיו התיישבו
+ בכפר גנים, שהיה אזור של פרדסים שהם נטעו.
+ אימי הגיעה ארצה בעלייה השלישית מרוסיה.
+\end_layout
+
+\begin_layout Subsubsection
+האם ידוע לך מקור שמך?
+\end_layout
+
+\begin_layout Standard
+אני קרוי על שם סבי אברהם יהודה לייב, שמת ברוסיה לפני מלחמת העולם הראשונה.
+\end_layout
+
+\begin_layout Subsubsection
+היכן ומתי נולדת? 
+\end_layout
+
+\begin_layout Standard
+אני נולדתי בקפריסין בתקופה שאבי עבד שם בשליחות של מפעל בארץ בתחום של פרדסנותץ
+ משפחתי שהתה בקפריסין כארבע שנים, ובתקופה זו אני נולדתי.
+\end_layout
+
+\begin_layout Subsubsection
+האם אתה מכיר את סיפור עליית משפחתך ארצה?
+\end_layout
+
+\begin_layout Standard
+סבי זוסמן רטושנה, היה יהודי דתי מסורתי, שעלה לבדו לארץ ב-
+\numeric on
+1906
+\numeric off
+ במטרה לבדוק האם תוכל משפחתו כולה – אשתו חיה וילדיהם שושנה, נחמה, נתן, ציפורה
+ ומשה לעזוב את פולין ולהתיישב בפתח תקווה.
+ לאחר שבירר את תנאי החיים בארץ, העלה סבי את בני משפחתו אחריו, ואף את אחיו
+ ואביה של אשתו.
+ הם התיישבו בכפר גנים ובפתח תקווה ועסקו בנטיעת פרדסים.
+ לאחר תקופת שהות בארץ החליטה המשפחה לשנות את שמה להלוי.
+ רק נתן אבי, העדיף להחליפו ללוי.
+ 
+\end_layout
+
+\begin_layout Standard
+נתן גדל ועבד בפתח תקווה, ושם הכיר את טובה אימי.
+ טובה היתה הבת הצעירה במשפחתה, והיא למדה בצעירותה גננות בסמינר בקייב.
+ מלחמת העולם הראשונה והסבל הרב שהיה כרוך בה )רעב, פחד(, הניעו אותה להצטרף
+ לקבוצת צעירים שנקראה "מעבר", ואשר החליטה לעזוב את אוקראינה ולעזוב לארץ
+ ישראל )בין חברי הקבוצה היה לוי אשכול(.
+ טובה עלתה לארץ ב-
+\numeric on
+1923
+\numeric off
+, ופגשה בין ותיקי פתח תקווה את נתן.
+ היתה זו אהבה ממבט ראשון.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+היכן גרת בילדותך?
+\end_layout
+
+\begin_layout Standard
+כשחזרה משפחתי מקפריסין גרנו בכפר גנים, ובהיותי בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+6
+\numeric off
+ אבי נפטר ממחלה.
+ לאחר מכן עברנו לפתח תקוה, ובגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+10
+\numeric off
+ עברנו לגור בתל אביב.
+ בתל אביב למדתי בבית חינוך לילדי עובדים, ובבית הספר התיכון "תיכון חדש".
+ בכל שנות נעורי הייתי בתנועת הנוער "התנועה המאוחדת", ואך טבעי היה שאתגייס
+ לצבא במסגרת גרעין נחל.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+האם זכורים לך משחקים, שירים, חברים מילדות?
+\end_layout
+
+\begin_layout Standard
+אהבתי לשחק עם חבריי בגולות )שלהן קראנו בנדורות(, בפורפרות ובסטנגה.
+ שיחקתי עם ילדי שכונת המגורים, ילדי בית הספר וילדי תנועת הנוער.
+ בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+13
+\numeric off
+ קנו לי אופניים, וידעתי לרכב עליהם עם כל מיני פעלולים )ראה הסברים מפורטים
+ של המשחקים בפרק "משחקי ילדות"(.
+\end_layout
+
+\begin_layout Subsubsection
+מה ידוע לך על קורות משפחתך בזמן מלחמת העולם השניה?
+\end_layout
+
+\begin_layout Standard
+בזמן מלחמת העולם השניה רוב משפחת אבי היו בארץ ישראל.
+ בני משפחת אימי שנותרו ברוסיה שרדו במלחמה, לבד מכמה שנהרגו בהיותם חיילים
+ בצבא האדום.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+אילו זכרונות יש לך הקשורים לאירוע הסטורי?
+\end_layout
+
+\begin_layout Standard
+אני זוכר שב-
+\numeric on
+29
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בנובמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1947
+\numeric off
+ היתה הצבעה באו"ם על תכנית החלוקה.
+ בתל אביב בכיכר מוגרבי התאספו המונים ואני ביניהם, והמתינו לתוצאות ההצבעה.
+ שנודעו תוצאות ההצבעה על ההחלטה החיובית, פרצה שמחה גדולה וכולם יצאו בריקודים.
+ ב-
+\numeric on
+15
+\numeric off
+ במאי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1948
+\numeric off
+ ביום שישי אחר הצהריים ישבתי ליד מקלט הרדיו ושמעתי את קריאת הכרזת המדינה
+ על ידי דויד בן גוריון.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/leybush.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבא לייבוש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+מי הדמות שהשפיעה עליך יותר מכול?
+\end_layout
+
+\begin_layout Standard
+לדעתי זאת אימי טובה, שהיתה אישה חזקה, ישרה וטובת לב שגידלה אותי ואת שתי
+ אחיותיי אחרי מות אבי ב-
+\numeric on
+1940
+\numeric off
+, כשהייתי בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+6
+\numeric off
+.
+ אימא פרנסה את ילדיה בעבודות שונות.
+ בעודנו בפתח תקווה היא עבדה במפעל יכין בקילוף של אשכוליות, ואחר בתל אביב
+ היא הפכה שותפה במזנון באולם האוהל, שם הוצגו הצגות שונות, ואף הושמעו קונצרטים
+ של הפילהרמונית )נדמה לי כי כאן התחילה אהבתי הגדולה למוסיקה, כי בתור בנה
+ של טובה, האחראית על ניקיון האולם, הייתי חופשי להאזין ולצפות בחזרות ובקונצרטים(.
+ אחר, לאחר ששותפה מעל בשותפות ביניהם, היא עבדה במזנון של תנובה והאכילה לקוחות
+ קבועים באוכל צמחוני.
+ אני אזכור תמיד את מסירותה לילדיה, את אומץ ליבה ואת תושיותה.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+אילו מנהגים אתה זוכר?
+\end_layout
+
+\begin_layout Standard
+המקום בו חייתי את רוב שנותיי הוא קיבוץ נחל עוז, שהייתי שותף להקמתו.
+ מנהגים הזכורים לי מהקיבוץ הם אספות קיבוץ בכל שבוע, קבלות שבת בחדר האוכל,
+ קציר עומר, סדר פסח שבו היו קוראים את ההגדה המקומית, חגי בר מצוה לבנים וחתונות.
+\end_layout
+
+\begin_layout Subsubsection
+מה היה החלום שלך כשהיית נער צעיר?
+\end_layout
+
+\begin_layout Standard
+החלום שלי היה ללמוד הנדסה לתואר ראשון.
+ החלום התגשם.
+\end_layout
+
+\begin_layout Chapter
+קיבוץ נחל עוז --- צומת משפחתי
+\end_layout
+
+\begin_layout Standard
+בקיבוץ נחל עוז, השוכן ליד עזה, גרים הורי אבי – סבי אברהם לוי וסבתי רחל לוי.
+ סבא וסבתא היו בני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+19
+\numeric off
+ כשהם ייסדו ב-
+\numeric on
+1953
+\numeric off
+ את נחל עוז כקיבוץ הראשון של הנח"ל.
+ הם התחתנו בו, גידלו את משפחתם בו, מילאו בו תפקידים רבים וחשובים )מזכיר,
+ מנהלת חשבונות, אקונומית, וכו'(, ועד היום הם חיים שם בשמחה ובחופש.
+ בקיבוץ זה נולדו וגדלו אבי ושני אחיו )נתי הבכור הוא הבן הראשון של הקיבוץ(,
+ ולקיבוץ זה עברו אימי ומשפחתה, כשהיתה אימי בכיתה ה'.
+ נחל עוז הוא המקום שבו הוריי גדלו, למדו, התחנכו, ועבדו, וגם הכירו, התאהבו
+ ולבסוף התחתנו.
+ 
+\end_layout
+
+\begin_layout Section
+מהו קיבוץ נחל עוז?
+\end_layout
+
+\begin_layout Standard
+בשביל סבא וסבתא רחל ולייבוש זהו בית.
+ הבית שיצרו יחד, שבו הם מוקפים בשכנים קרובים שהם חברי ילדות, המקום של זכרונות
+ חייהם, המקום בו הם עובדים ושייכים בהווה, המקום שבו הם מקווים לעתיד של שלום
+ עם שכניהם בעזה, המקום בו הם שמחים לארח את נכדיהם.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+בשביל אבא ואימא
+\emph default
+ זהו הבית שבו גדלו.
+ מקום שעמוס בזכרונות ילדותם, שעליהם הם מספרים לי ומראים לי בביקורים: חדר
+ האוכל שבו נהגו כל חברי הקיבוץ לאכול יחד, ולחגוג בשותפות את החגים, בתי הילדים
+ בו היו הילדים ישנים ביחד בילדותם, הרפת בה עבדו, מחסן הבגדים שבו פעמיים
+ בשנה קיבלו זה את בגדיו של זה, ומשק הילדים שבו טיפלו הוריי יחדיו ושם התאהבו.
+ פעמים רבות אנו משוחחים על חיי הקיבוץ ועל הסיבה שאיננו גרים בו.
+ אני שומע מהורי על הערכים שהם תמיד האמינו בהם – שותפות, שוויון וצניעות,
+ אך גם על הביקורת שלהם על דרך היישום שלהם בחיי הקיבוץ.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+בשביל סבא וסבתא
+\emph default
+ רוחה ואורי, נחל עוז הוא המקום שבו בחרו לחיות חיי ערכים לאחר החיים בעיר
+ ולגדל את חמשת ילדיהם באוירה שקטה וכפרית.
+ זהו המקום שבו למדו והתפתחו, עבדו בעבודות מעניינות, והמקום שאליו קשורים
+ זכרונות של קהילתיות, של דאגה לזולת, של חיים משותפים ושל חברים.
+ נחל עוז הוא גם המקום שבו דאגו להורים המזדקנים יעקה וחנה קולודני, וזה המקום
+ שבו הם מבקרים את המחותנים ואת קברי ההורים.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+בשבילי,
+\emph default
+ נחל עוז הוא המקום שבו אני מבקר בשבתות או בחופשים, כדי להתנתק מהמסגרת של
+ המשפחה הגרעינית, המצומצמת, ולהיות יותר עם עצמי, עם סבתא וסבא ולפעמים גם
+ עם בת דודתי המבוגרת ממני בשנתיים אביגייל.
+ 
+\end_layout
+
+\begin_layout Standard
+כשאני מבקר בנחל עוז בשבתות באים איתי הוריי ואחותי הקטנה, ושם אנו משוחחים
+ עם סבא וסבתא, אוכלים ארוחות צהריים וערב, משחקים, אוספים אגוזים בחצר, ויוצאים
+ לטיולים קצרים ברחבי הקיבוץ.
+ בחופשים, בזמן שאני בנחל עוז בלי הורי ואחותי, אני, סבי, סבתי ואביגייל הולכים
+ לסרטים, הולכים למסעדות, שוחים בבריכה, והכול באוירה חמה ונעימה של אהבה,
+ קירבה ושמחה.
+ לאחר כמה ימים בנחל עוז, באים הורי ואחותי כדי להחזיר אותי הביתה, ואני נפרד
+ מסבא וסבתא, חוזר לביתי, ותמיד מתגעגע ומחכה בקוצר רוח לביקור הבא.
+ 
+\end_layout
+
+\begin_layout Section
+תולדות קיבוץ נחל עוז
+\end_layout
+
+\begin_layout Standard
+על ההיסטוריה של קיבוץ נחל עוז אפשר ללמוד ממאמרו של סבא לייבוש, הנמצא בספר
+ 'סיפורי קיבוצים':
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+22/7/1951
+\numeric off
+ הגיעו חיילי צבא הנח"ל )נוער חלוצי לוחם( למקום שבו כיום נמצא קיבוץ נחל עוז.
+ נערך אז טקס רשמי של עליה על הקרקע, ובו ניתן גם שם זמני לשטח עליו השתלט
+ צבא הנח"ל: "נחלאים א' מול עזה".
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+29/9/1953
+\numeric off
+ הפך השטח "נחלאים א' מול עזה" לישוב אזרחי בטקס רשמי רב משתתפים, וניתן לישוב
+ השם "נחל עוז", כדי לציין את היות המקום כנחל איתן, ואת הקשר לצבא הנח"ל ולעיר
+ עזה.
+\end_layout
+
+\begin_layout Standard
+השנים הראשונות להקמת הקיבוץ הוקדשו לפעילויות משקיות וחברתיות: נקבעו כללי
+ הארגון, פותחו והורחבו ענפחי השדה, הוקמו ששה בתי מגורים ונבנו מבני משק רבים:
+ לולים, רפת, מוסך, אסם תבואות, סככת מכונות ומכבסה.
+\end_layout
+
+\begin_layout Standard
+המערכת הבטחונית הייתה גם היא חלק בלתי נפרד מחיי הקיבוץ, בשל הקרבה לגבול
+ עוין.
+ מדיי ערב, בעונת קציר החיטים, יצאו עובדי השדה לאסוף את שקי התבואה, כדי שלא
+ יהיו מועדים לגנבה.
+ שלוש השנים הראשונות, עד למבצע סיני, היו מלוות במתח בטחוני רב.
+ ב-
+\numeric on
+7/11/1953
+\numeric off
+, נרצח בן הקיבוץ הראשון, יעקב טוכמן, בעת סיור בשדות המשק.
+ הוא הובא למנוחות בעיר מולדתו רחובות, ולזכרו הוקם גלעד על גבעה ממזרח לנחל
+ עוז.
+ ב-
+\numeric on
+4/4/1954
+\numeric off
+ הופגזה נחל עוז לראשונה על ידי המוצב המצרי, ומאז הייתה נתונה לסכנת ההפגזות,
+ שחזרו פעמים רבות.
+ ההפגזות התחילו עוד לפני שנבנו מקלטים וחברי הקיבוץ נאלצו להסתתר בשוחות שנחפרו
+ באדמה.
+ כל ההפגזות היו מלוות בפגיעות ברכוש, וחלקן אף בפגיעות בחברי קיבוץ שנפגעו
+ קשה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/nahal_oz_paper.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+כתבה על נחל עוז ---
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+10/2/1956
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כשהידיעה על מצבה הבטחוני החמור של נחל עוז נודעה, התקבצו עובדי מועצת פועלי
+ ירושלים וחברים נוספים, ובאו לנחל עוז בכדי לסייע בחיזוק הביצורים, בהקמת
+ גדרות וביציקת עמדות הגנה.
+ ב-
+\numeric on
+29/4/1956
+\numeric off
+ נרצח חבר הקיבוץ רועי רוטברג, שיצא אל הגבול, רכוב על סוסתו, כדי לגרש מסתננים
+ שחדרו לקצור בשדות המשק.
+ הוא לא היה מודע למארב שטמנו לו, והוא נחטף ונהרג.
+ למחרת כרתה נחל עוז את הקבר הראשון בקיבוץ, ליד הגלעד שנבנה לזכרו של יעקב
+ טוכמן.
+\end_layout
+
+\begin_layout Standard
+לאחר שנכבשה עזה במבצע סיני התמלאה נחל עוז בציפיות לעתיד של שלום ושחרור מהעול
+ הביטחוני.
+ השלום עדיין לא הגיע בשלמותו, אך תחושת הרגיעה הביאה איתה תנופה של התפתחות
+ של המשק ושל החברה, יחד עם רפיון שהביא לעזיבה של חברים את הקיבוץ, אשר חסרונים
+ ליווה את הקיבוץ שנים רבות לאחר מכן.
+ בשנים הבאות טופח הנוי בקיבוץ, נטעו עצים, נשתלו גנים ודשאים, נסללו שבילים,
+ הוקם חדר אוכל חדש במקום הצריף הישן, והוקמו בתי ילדים.
+ הקיבוץ השתלב בפעילויות המועצה האזורית שער הנגב, במפעליה ובבית החינוך האזורי.
+\end_layout
+
+\begin_layout Standard
+בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1997
+\numeric off
+ עבר הקיבוץ תפנית גדולה – נעשה ניסיון לשנות רבים מהנוהגים של דרך החיים הקיבוצית
+ המסורתית, ולהתאימה לרצונות העכשויים של התושבים.
+ מעבר להתארגנות הפנימית של הקיבוץ, שמיועדת להעניק חיוניות חדשה, מצויה גם
+ תמיד בנחל עוז התקווה לשלום מלא ולשיתוף פעולה עם השכנים ברצועת עזה.
+\end_layout
+
+\begin_layout Standard
+מתוך "סיפורי קיבוצים", ערך "נחל עוז – ראשון קיבוצי הנחל", עמודים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+140--143
+\numeric off
+.
+\end_layout
+
+\begin_layout Part
+משפחת אמי
+\end_layout
+
+\begin_layout Chapter
+מוצא המשפחה ומקור שמות המשפחה
+\end_layout
+
+\begin_layout Standard
+אימי, אפרת לוי, היא בת לרחל ואורי ליבנה )במקור לודבינובסקי( ואחות בכורה
+ לגיל, חן, והתאומות יערה והדר.
+\end_layout
+
+\begin_layout Standard
+משפחת אימי היא משפחה שמקורותיה מעורבבים.
+ פלג אחד של המשפחה )הפלג אליו השתייכו הוריו של סבי(, יצא מהשפלה המזרחית
+ בפולין )רוסיה הלבנה(, ואילו האחר )הפלג אליו שייכת אימא של אימי(, ראשיתו
+ בקהילות ספרד העתיקות, שגורשו ב-
+\numeric on
+1492
+\numeric off
+ בגירוש ספרד.
+ 
+\end_layout
+
+\begin_layout Section
+מקור שמות המשפחות
+\end_layout
+
+\begin_layout Subsection
+מצד סבא, אביה של אימי
+\end_layout
+
+\begin_layout Subsubsection
+שמוקלר
+\end_layout
+
+\begin_layout Standard
+זו שם משפחתה של אמו של סבי.
+ מקור השם מהמונח הפולני "שמוקלרץ", שפירושו אורג, והתייחס לאדם אשר עוסק באריגה,
+ עיבוד של בדים או יוצר קישוטים.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+לודבינובסקי
+\end_layout
+
+\begin_layout Standard
+לודבינובסקי או ליטבינובסקי הוא שם המשפחה של אביו של סבי.
+ פירוש השם: "איש ליטא" )ליטאי(.
+ לודבי=ליטא, נובסקי=מהמקום.
+ כלומר, איש שבא מליטא.
+ השם מצביע על מקורה של המשפחה מליטא.
+ 
+\end_layout
+
+\begin_layout Subsection
+מצד סבתא, אמה של אימי
+\end_layout
+
+\begin_layout Subsubsection
+בכר
+\end_layout
+
+\begin_layout Standard
+זהו שם ממוצא ספרדי, שהיה שם משפחתה של אמה של אמי.
+ כנראה שמוצאה של המשפחה מהעיר הספרדית בכר )
+\lang english
+Bejar
+\lang hebrew
+(, בחלק המערבי של ספרד, בקרבת הגבול הפורטוגזי.
+ העיר מוקפת חומה עתיקה למדי.
+ לאחר גירוש ספרד, יצאה המשפחה לספרד ועברה לבולגריה, ושם אימצה את שם העיר
+ לשם המשפחה.
+ פירוש עממי לשם בכר הוא "בין כבוד רבים".
+\end_layout
+
+\begin_layout Subsubsection
+גירון
+\end_layout
+
+\begin_layout Standard
+גירון היה שם משפחתה של סבתא של סבתא רבה שלי.
+ מוצא השם בעיר גירונה )חרונה( שבספרד.
+ לאחר גלות ספרד עברה המשפחה לבולגריה.
+\end_layout
+
+\begin_layout Subsubsection
+קולודני
+\end_layout
+
+\begin_layout Standard
+זהו שם משפחתו של אבי סבתי.
+ מקור השם בעיר הפולנית קולודנו.
+ לעיר ניתן שם זה משום שהיתה מרכז מסחרי לתעשיית עץ ומנסרות.
+ כנראה מוצא המשפחה מעיר זו.
+ אפשרות נוספת היא כי קולודני נובע מהמושג הפולני "קולודץ" --- באר, הכוונה
+ היא ליהודים שעסקו בחטיבת עצים ובשאיבת מים.
+\end_layout
+
+\begin_layout Chapter
+גילגולה של משפחת ליבנה מהעיר לקיבוץ ובחזרה
+\end_layout
+
+\begin_layout Standard
+סבא אורי נולד בארץ בכפר סבא למשפחת לודבינובסקי – לאביו שמחה לודבינובסקי
+ ולאימו פנינה לודבינובסקי )שמוקלר(.
+ כבר בילדותו הוא הכיר בבית ספר ברנר את סבתי רחל )רוחה(, שעלתה עם הוריה יעקב
+ וחנה קולודני )בכר( לארץ בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1946
+\numeric off
+, בסיום מסע בריחה מאירופה הנאצית.
+\end_layout
+
+\begin_layout Standard
+סבא וסבתא התחתנו ב-
+\numeric on
+2/4/1968
+\numeric off
+ , ואימי, ביתם הבכורה, ושני אחיה הגדולים גיל וחן, נולדו בבית שבו אנו גרים
+ כעת.
+ לאחר כשבע שנים של חיים בעיר ילדותם, החליטו סבא וסבתא לנסות את חיי הקיבוץ.
+ סבתא מספרת כי "המירוץ אחר הקיום והישגים חומריים )כסף וחפצים(, התחרות הבלתי
+ פוסקת בין האנשים, אנוכיות השכנים, כל אלו עוררו בנו מחשבות ורצון לשנות.
+ נוסף על כך הדאגה לילדים הקטנים, והסביבה הרעשנית, שהיו בה סכנות כה רבות
+ )כבישים ומכוניות(, אף היא עודדה אותנו לחפש חיים במקום אחר ובצורה אחרת".
+\end_layout
+
+\begin_layout Standard
+מכפר סבא הם החליטו לעבור לקיבוץ גבים, שם נולדו דודותי התאומות יערה והדר.
+ לאחר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+ שנים, עם חמשת ילדיהם, עברה משפחת ליבנה לקיבוץ נחל עוז, קיבוץ שכן לגבים,
+ ושם השתקעה.
+ 
+\end_layout
+
+\begin_layout Standard
+סבא מצא את מקומו במפעל המתכת עוזת, וסבתא עבדה כמורה ומנהלת חטיבת הביניים,
+ ולאחר מכן כספרנית.
+\end_layout
+
+\begin_layout Standard
+בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1996
+\numeric off
+, כשילדיהם בגרו, החליטו סבי וסבתי לחזור לכפר סבא.
+ בהתחלה גרו ברחוב ברנר, בביתם הישן )כיום ביתינו(, ואחר בבית החדש שבנו בחצרה
+ של הסבתא רבה שלי, פנינה לודבינובסקי.
+\end_layout
+
+\begin_layout Standard
+בית זה משמש כיום כמרכז המשפחה.
+ אני ואחותי שמחים לבקר בו, לאכול בו ולהתארח בו עם כל בני המשפחה, דודים ובני
+ דודים בחגים ובשבתות.
+ בית זה והבית השכן לו – ביתה של דודתי שושנה )אחות סבי(, קרובים מאוד אל ביתינו,
+ והם הבתים השניים שלי ושל אחותי.
+ הם נותנים לנו חוויה של משפחתיות רחבה, של ביטחון, של דאגה, של שמחה ושל אהבה
+ גדולה.
+ 
+\end_layout
+
+\begin_layout Chapter
+סבא אורי ליבנה
+\end_layout
+
+\begin_layout Section
+תעודת זהות
+\end_layout
+
+\begin_layout Description
+שם: אורי
+\end_layout
+
+\begin_layout Description
+שם
+\begin_inset space ~
+\end_inset
+
+משפחה: ליבנה )לודבינובסקי(
+\end_layout
+
+\begin_layout Description
+שם
+\begin_inset space ~
+\end_inset
+
+חיבה: אש
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+66
+\end_layout
+
+\begin_layout Description
+שנת
+\begin_inset space ~
+\end_inset
+
+לידה:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\end_layout
+
+\begin_layout Description
+עיסוק
+\begin_inset space ~
+\end_inset
+
+נוכחי: הנדסאי מכונות
+\end_layout
+
+\begin_layout Description
+מקום
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+נוכחי: ניצנים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1
+\numeric off
+, כפר סבא
+\end_layout
+
+\begin_layout Description
+בת
+\begin_inset space ~
+\end_inset
+
+זוג: רחל )רוחה( ליבנה
+\end_layout
+
+\begin_layout Description
+הורים: שמחה ופנינה לודבינובסקי
+\end_layout
+
+\begin_layout Description
+ילדים: אפרת לוי, גיל ליבנה, חן ליבנה, יערה הנקין והדר ליבנה )בקרוב קלורפלד(.
+\end_layout
+
+\begin_layout Description
+נכדים: יעקב, עימנואל, וארי ליבנה, עלי ורות לוי, גל ואור ליבנה, בר הנקין.
+\end_layout
+
+\begin_layout Description
+אחים: פנחס לודבינובסקי ז"ל, שושנה
+\end_layout
+
+\begin_layout Description
+מוצא
+\begin_inset space ~
+\end_inset
+
+משפחתי: פולין
+\end_layout
+
+\begin_layout Description
+מקור
+\begin_inset space ~
+\end_inset
+
+השם: אורי נולד בחג החנוכה, הידוע גם בשם "חג האורים", ולכן קראו את שמו אורי.
+\end_layout
+
+\begin_layout Description
+מעבר
+\begin_inset space ~
+\end_inset
+
+מקומות
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+שונים
+\begin_inset space ~
+\end_inset
+
+במהלך
+\begin_inset space ~
+\end_inset
+
+החיים: אורי נולד ב-
+\numeric on
+18
+\numeric off
+ לדצמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+ בכפר סבא.
+ כשהיה בן 4 עברו הוא ומשפחתו למגדיאל )כיום הוד השרון(, שם הוא למד עד כתה
+ ב'.
+ כשהגיע אורי לכיתה ג' עברה משפחתו חזרה לכפר סבא, שם הוא למד בבית ספר ברנר.
+ בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+24
+\numeric off
+ אורי התחתן עם רחל ובשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1975
+\numeric off
+ הם עברו לקיבוץ גבים.
+ אחרי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+ שנים הם עברו לקיבוץ נחל עוז, שם הם חיו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+22
+\numeric off
+ שנים.
+ בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1996
+\numeric off
+ חזרו אורי ומשפחתו לכפר סבא ובנו את ביתם, שם הם חיים עד היום.
+ 
+\end_layout
+
+\begin_layout Section
+זכרון היסטורי
+\end_layout
+
+\begin_layout Standard
+אורי זוכר את ערב פרוץ מלחמת ששת הימים.
+ הוא מספר שכבר הרבה אנשים היו מגוייסים למילואים.
+ הוא עדיין לא היה מגויס ועבד במפעל בכפר סבא.
+ באותו היום פרצה מלחמת ששת הימים.
+ כוחות צה"ל נכנסו לסיני ועבר מטוס ירדני מסוג האנטר כדי להפציץ את העיר נתניה,
+ ובדרכו חזרה שלח טילים לעבר המפעל שבו עבד אורי.
+ כתוצאה מהיריות שני אנשי מפעל נהרגו ועשרות נפצעו.
+ אורי הצליח לקפוץ לתוך תעלת ניקוז ובכך הציל את עצמו.
+ בכל זאת אורי נפצע מרסיסים בראש ובכתף.
+ לאחר טיפול בבית החולים מאיר, הוא חזר הביתה והתגייס למלחמה.
+ 
+\end_layout
+
+\begin_layout Section
+זכרונות מהילדות
+\end_layout
+
+\begin_layout Standard
+אורי זוכר משקל מיוחד לשקילת ביצים שהיינו משתמשים בו בלול לקביעת סוג הביצים.
+ "אני זוכר", מספר סבא בראיון שערכתי עימו, "שהיה לוח מיוחד לכיבוס הבגדים,
+ את הכביסה היו מרתיחים בדוד גדול בחצר והיו מדליקים מתחתיו גזרי עץ.
+ אימי נהגה לבשל תפוחי אדמה בקליפתם ולאכול אותם עם דג מלוח.
+ נהגנו לאכול חמין לכבוד שבת, שהיה בתוכו בשר בקר עם עצמות זנב, תפוח אדמה,
+ ושעועית, והוא היה מתבשל על פתיליה במשך כל הלילה והיה מפיץ ריח משגע בכל
+ הבית".
+\end_layout
+
+\begin_layout Chapter
+סבתא רחל )רוחה( ליבנה
+\end_layout
+
+\begin_layout Section
+תעודת זהות
+\end_layout
+
+\begin_layout Description
+שם: רחל ליליאן ליבנה )קולודני(
+\end_layout
+
+\begin_layout Description
+שם
+\begin_inset space ~
+\end_inset
+
+חיבה: רוחה, רוחל'ה
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+66
+\numeric off
+ וחצי, גמלאית
+\end_layout
+
+\begin_layout Description
+מקום
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+נוכחי: ניצנים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1
+\numeric off
+ כפר סבא, בחצר ביתם של הורי בעלי אורי.
+\end_layout
+
+\begin_layout Description
+בן
+\begin_inset space ~
+\end_inset
+
+זוג: אורי ליבנה
+\end_layout
+
+\begin_layout Description
+ילדים: אפרת לוי, גיל ליבנה, חן ליבנה, יערה הנקין והדר ליבנה
+\end_layout
+
+\begin_layout Description
+נכדים: יעקב, עימנואל וארי ליבנה, עלי ורות לוי, גל ואור ליבנה, ובר הנקין.
+ 
+\end_layout
+
+\begin_layout Description
+אחים: ירחמיאל )אמיל( ויוסף )ז'וז'ו( קולודני
+\end_layout
+
+\begin_layout Description
+הורים: יעקב וחנה קולודני
+\end_layout
+
+\begin_layout Section
+ראיון עם סבתא רוחה
+\end_layout
+
+\begin_layout Subsubsection
+מהו מוצאך המשפחתי?
+\end_layout
+
+\begin_layout Standard
+אני בת למשפחה מעורבת.
+ מוצאה של אימי הוא ספרדי – אבות אבותיה היו מגולי ספרד )
+\numeric on
+1492
+\numeric off
+( מהערים חרונה ובזאר.
+ משם נדדו והתיישבו בבולגריה בעיר פלובדיב.
+ מוצאו של אבי הוא אשכנזי מאוקראינה )פולין לשעבר( מהכפר הורודץ.
+\end_layout
+
+\begin_layout Subsubsection
+מהו מקור שם משפחה והשם הפרטי?
+\end_layout
+
+\begin_layout Standard
+אני קרויה על שם סבתי מצד אימי, רחל גירון, שם משפחתי הקודם קולודני קרוי על
+ שם כפר פולני בשם קולודץ.
+\end_layout
+
+\begin_layout Subsubsection
+מתי והיכן נולדת?
+\end_layout
+
+\begin_layout Standard
+נולדתי בעיר ניס שבדרום צרפת בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+.
+ ב-
+\numeric on
+1946
+\numeric off
+ עליתי לארץ מז'נבה שבשוויץ.
+ גרתי חצי שנה במושב צופית, אצל דודי, ואח"כ עברתי לגור בכפר סבא ברחוב חצרות
+ הדר שהוקם עבור הפליטים שהגיעו ארצה עם סיום המלחמה.
+ ב-
+\numeric on
+1975
+\numeric off
+ עברתי לגור בקיבוץ גבים ומשם לקיבוץ נחל עוז.
+ ב-
+\numeric on
+1996
+\numeric off
+ חזרנו לגור בכפר סבא, בתחילה ברחוב ברנר ואחר כך ברחוב ניצנים.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+מה זכור לך מהימים הראשונים בארץ?
+\end_layout
+
+\begin_layout Standard
+עליתי לארץ כשהייתי בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+3
+\numeric off
+ שנים.
+ הורי סיפרו לי שהיינו תקופה קצרה במחנה המעפילים בעתלית.
+ כיוון שהיו בידינו סרטיפיקטים שניתנו על ידי הבריטים, יכולנו לעזוב את המחנה
+ בהקדם.
+ במשך חצי שנה לא העזתי לדבר כלל.
+ שפת אימי היתה צרפתית, ולא הבנתי את הקורה סביבי.
+ רק לאחר שהתחלתי להבין את השפה העזתי לדבר וסרבתי בכל תוקף לדבר צרפתית.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+האם זכורים לך משחקי ילדות, שירים, חברים, אהבה ראשונה?
+\end_layout
+
+\begin_layout Standard
+משחקי הילדות שאהבתי היו קלאס, גולות, קפיצה על חבל ומחבואים.
+ חברת ילדותי הראשונה היתה ילדה ששמה חיה סגל, שגם היא הגיעה לשיכון מרומניה
+ ולא ידעה עברית כמוני.
+ חבר ילדות נוסף שהכרתי כשהייתי בכיתה ג' היה אורי לודבינובסקי, שהיום הוא
+ בעלי.
+ שנינו היינו חברים בתנועת הנוער העובד עד גיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+18
+\numeric off
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+מה היו קורותייך במלחמת העולם השניה?
+\end_layout
+
+\begin_layout Standard
+נולדתי בזמן מלחמת העולם השניה, לאחר בריחת המשפחה מפאריס לדרום צרפת החופשית.
+ בספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+ בהיותי בת כחודש הצליחו הורי להבריח את הגבול מצרפת לשוויץ.
+ שלוש שנים הייתי פליטה בז'נבה, שבה לראשונה התאחדה המשפחה.
+ כל משפחתינו הגרעינית ניצלה.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+אילו זכרונות יש לך הקשורים לאירוע הסטורי?
+\end_layout
+
+\begin_layout Standard
+זיכרון ראשון הוא כשהייתי כבת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+5
+\numeric off
+.
+ ראיתי שיירה של ג'יפים שעברה בשיכון העולים שלנו, והכריזה ברמקולים על הקמת
+ מדינת ישראל.
+ הזיכרון השני הוא כשהייתי כבר בכיתה ח', באחד הערבים החלה ההפגזה על קלקיליה.
+ עלינו על גג הבית ועקבנו אחר הקורה.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+אילו זכרונות יש לך מן היומיום בילדות?
+\end_layout
+
+\begin_layout Standard
+אני זוכרת כי בתקופת הצנע בראשית שנות ה-
+\numeric on
+50
+\numeric off
+, היה נהוג לקבל מצרכים בסיסיים כמו סוכר, מרגרינה, אורז בהקצבה, באמצעות תלושים.
+ יותר מכל אהבתי את הלחם שהוכנסו לתוכו חתיכות שוקולד, או פרוסת לחם מרוחה
+ במרגרינה ועליה מונחים זיתים ירוקים.
+ אני גם זוכרת כלים וחפצים מיוחדים כמו פתילית נפט, שהיתה מתקן בעל ארבע רגליים
+ שאימי נהגה לבשל עליו.
+ אני זוכרת גם ארגז מרושת, בו הנחנו ביצים מופרות, אשר בקעו מהם אפרוחים צהובים,
+ מנוקדים בגבם בארבע נקודות שחורות.
+ הארגז היה מונח במקלחת הקטנה בדירתינו בת שני החדרים בשיכון.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+האם את זוכרת מנהגים מיוחדים?
+\end_layout
+
+\begin_layout Standard
+בבית נהג אבי לערוך קידוש כל יום שישי לפני ארוחת הערב.
+ בשכונה חגגנו כולם יחד את חג הפורים.
+ אימי עזרה להכין תחפושות, הילדים עברו מבית לבית וקיבלו משלוח מנות )בדרך
+ כלל סוכריות או עוגיות(, וכל הרחוב צהל ושמח.
+ 
+\end_layout
+
+\begin_layout Standard
+בקיבוץ אהבתי את חג הפסח, בו ישבנו יחדיו וקראנו ושרנו מתוך ההגדה של פסח המקומית.
+ חג נוסף היה חג השבועות, בו יצאנו לשדות המשק, והילדים וחברי המשק העלו ביכורים,
+ רקדו ושמחו.
+ אני זוכרת היטב את חג הביכורים בו הוצגו התינוקות שנולדו במשך השנה – ביכורי
+ פרי הבטן- כאשר אורי הציג לפני כולם את בנותינו התאומות לבושות בלבן.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+מי הדמות שהשפיעה עלייך ביותר?
+\end_layout
+
+\begin_layout Standard
+הדמות העיקרית שהשפיעה עלי היתה זו של אימי חנה קולודני.
+ היא היתה אישה קטנת קומה, נמרצת, אופטימית, אמנית וציירת.
+ היה מעניין וכיף להיות בסביבתה.
+ בילדותי נהגתי לנסוע איתה לחופשת קיץ של חודש בצפת או מטולה, כמנהג ה"ווקאנס"
+ הצרפתי.
+ את החודש הקדישה לציור ואני שמחתי להיות איתה.
+ בזכותה ניצלה כל המשפחה בשואה.
+ )בעקבות משפט זה נפתחה החקירה שעליה ארחיב בפרק "סיפורו של סיר"(.
+\end_layout
+
+\begin_layout Subsubsection
+מהו החלום שלך?
+\end_layout
+
+\begin_layout Standard
+להיות מנצחת של תזמורת.
+\end_layout
+
+\begin_layout Chapter
+דודתי שושנה
+\end_layout
+
+\begin_layout Section
+תעודת זהות
+\end_layout
+
+\begin_layout Description
+שם: שושנה
+\end_layout
+
+\begin_layout Description
+שם
+\begin_inset space ~
+\end_inset
+
+משפחה: לודבינובסקי
+\end_layout
+
+\begin_layout Description
+שמות
+\begin_inset space ~
+\end_inset
+
+חיבה: שוש, שושקה.
+\end_layout
+
+\begin_layout Description
+גיל:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+61
+\numeric off
+ )כמו המדינה(
+\end_layout
+
+\begin_layout Description
+שנת
+\begin_inset space ~
+\end_inset
+
+לידה: 
+\numeric on
+1948
+\end_layout
+
+\begin_layout Description
+עיסוק
+\begin_inset space ~
+\end_inset
+
+נוכחי: ביוכימאית
+\end_layout
+
+\begin_layout Description
+הורים: פנינה ושמחה לודבינובסקי
+\end_layout
+
+\begin_layout Description
+מקום מגורים נוכחי: ניצנים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1
+\numeric off
+ כפר סבא
+\end_layout
+
+\begin_layout Description
+אחים: פנחס לודבינובסקי ז"ל, אורי ליבנה
+\end_layout
+
+\begin_layout Description
+מוצא
+\begin_inset space ~
+\end_inset
+
+משפחתי: פולין
+\end_layout
+
+\begin_layout Description
+מקור
+\begin_inset space ~
+\end_inset
+
+השם: שושנה נקראה על שם דודתה רייזלה, אשר נספתה בשואה.
+ פירוש שמה בעברית )במקור ביידיש( הוא שושנה.
+ כשאימה של שושנה היתה בהריון, באה אליה רייזלה בחלום ואמרה לה לקרוא את שמה
+ של התינוקת על שמה.
+ 
+\end_layout
+
+\begin_layout Description
+מעבר
+\begin_inset space ~
+\end_inset
+
+מקומות
+\begin_inset space ~
+\end_inset
+
+מגורים
+\begin_inset space ~
+\end_inset
+
+שונים
+\begin_inset space ~
+\end_inset
+
+במהלך
+\begin_inset space ~
+\end_inset
+
+החיים: שושנה נולדה שלושה שבועות לפני קום המדינה במגדיאל )כיום הוד השרון(.
+ היא ומשפחתה גרו בצריף קטן ליד פרדס, וכשהגיעה לגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+3
+\numeric off
+, הם עברו לכפר סבא, לבית הנוכחי.
+ שושנה מספרת שבאותם ימים כל האזור היה מלא בפרדסים ולא היו דרכים סלולות וכבישים.
+ 
+\end_layout
+
+\begin_layout Section
+זכרונות ילדות
+\end_layout
+
+\begin_layout Standard
+לשושנה היו הרבה חברים מהשכונה ומהסביבה.
+ לא היו להם צעצועים או משחקים, אז הם שיחקו בכדור ב"מחניים", קפצו על חבל,
+ שיחקו ב"קלאס" וב"חמש אבנים", או סתם אילתרו משחקים שונים.
+ שושנה היתה גם בתנועת הנוער "הנוער העובד והלומד" ושם היא היתה בפעילויות
+ שאותן היא מאוד אהבה.
+ 
+\end_layout
+
+\begin_layout Standard
+בפסח שושנה ומשפחתה נהגו להחליף את הכלים בבית.
+ מאחר ולא היה סט כלים נפרד לפסח, היה צריך להכשיר את הכלים.
+ כילדה, שושנה זוכרת שאביה היה מרתיח בחצר דוד גדול על גחלים, זורק לתוכו אבן,
+ ומכניס פנימה את הסכו"ם כדי להכשירם.
+\end_layout
+
+\begin_layout Standard
+אימה של שושנה היתה מנקה ומצחצחת את הבית, כל הבגדים הוצאו מהארונות לאוורור,
+ הכל נשטף ונוקה וכל חדר שהיה עובר נקיון יסודי, אסרו להיכנס אליו עם לחפ עד
+ סוף החג, כדי שלא ייראה שום חמץ בבית.
+ 
+\end_layout
+
+\begin_layout Standard
+בערב ליל הסדר שושנה תמיד לבשה שמלה ונעליים חדשים, אותם קיבלה מדודתה של אימה,
+ שגרה בארה"ב ושהיתה שולחת חבילת בגדים פעם בשנה.
+\end_layout
+
+\begin_layout Section
+זכרונות הסטוריים
+\end_layout
+
+\begin_layout Standard
+במבצע קדש הייתי בת שמונה.
+ מקלטים לא היו אז ולכן אבי חפר בחצר שוחה ומעליה הניח פחים, וזה היה המקלט
+ שלנו.
+ זכור לי שישבנו במקלט עם השכנים שלנו, המקלט היה משותף לנו ולשכנים, ואנשי
+ הג"א עברו וצעקו לכבות את האור בבתים.
+ האפלה נעשתה על ידי צביעת החלונות בצבע שחור.
+ 
+\end_layout
+
+\begin_layout Standard
+במלחמת ששת הימים הייתי בשנה הראשונה באוניברסיטה.
+ בתקופת ההמתנה – שלושה שבועות – לפני המלחמה, כולם היו מגויסים ולא היתה תחבורה
+ סדירה.
+ נהגים פרטיים היו עוצרים בתחנות ולוקחים אנשים טרמפים.
+ אני זוכרת שחזרתי מהאוניברסיטה בטרמפים.
+ היתה הרגשה של אחדות, כולם עזרו לכולם, כל ישראל ערבים זה לזה.
+ כל העם היה מאוחד במאבק משותף.
+ היתה בארץ אוירה מאוד מיוחדת, אוירה של חיבור ואהבה בין אנשים שלא הכירו אחד
+ את השני.
+ 
+\end_layout
+
+\begin_layout Standard
+בבוקר שפרצה המלחמה לא נסעתי לאוניברסיטה.
+ בחצר היתה לנו שוחה חפורה באדמה מכוסה בכמה פחים.
+ בעלה של השכנה היה מגויס, והיה לה תינוק בן כמה שבועות, באזעקה ישבנו כולנו
+ בשוחה הזו.
+ 
+\end_layout
+
+\begin_layout Standard
+בשעה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+11
+\numeric off
+ בבוקר אימא ואני היינו במושבה, ופתאום עבר מעלינו מטוס בטיסה נמוכה מאוד ברעש
+ אדיר, ולאחר מכן שמענו פיצוץ.
+ היה זה מטוס ירדני שחדר לשטחינו )היחיד שחדר לשטח האוירי של ישראל במלחמת
+ ששת הימים(, והפציץ את בית החרושת "אלבר" ליד כפר סבא.
+ אחי אורי עבד באותה עת במפעל ונפצע קלות בראשו מרסיסים.
+ 
+\end_layout
+
+\begin_layout Standard
+את כל הלילות הבאים בילינו במקלט בנוי בבית דירות )בבית בו אני גר כיום(.
+ כל משפחות הבניין היו במקלט בלילה.
+ 
+\end_layout
+
+\begin_layout Standard
+לאחר כמה ימים כשנכבשה קלקיליה, אני זוכרת שכולנו הלכנו ברגל לקלקיליה.
+ כל העיר כפר סבא צעדה לקלקיליה.
+ בשנים הבאות לאחר המלחמה נסענו בכל שבת, אימא ואני, לשוק הירקות בקלקיליה.
+ המוני אנשים הגיעו לשם לקניות.
+ עד שהכל פסק עם האינתיפאדה בשנות השמונים.
+ 
+\end_layout
+
+\begin_layout Part
+סיפורי עליה ארצה ומאורעות המשפחה בשואה
+\end_layout
+
+\begin_layout Chapter
+גילויים חדשים
+\end_layout
+
+\begin_layout Standard
+דרך רבת תהפוכות עברו המשפחות קולודני ולודבינובסקי )שמוקלר( עד הגעתן ארצה.
+ בחרתי לספר את סיפורן, ואת קורות עלייתם של סבתות וסבי רבה שלי – סבתא פנינה
+ לודבינובסקי )שמוקלר( שנפטרה לפני שנה, ושזכיתי להכירה, וסבתא חנה וסבא יעקב
+ קולודני, שנפטרו עוד לפני שנולדתי, ואשר ככל שאני שומע עליהם יותר, ככה אני
+ מבין כמה יכולתי לאהוב אותם.
+ במהלך הראיונות שלי התברר לי כי פרטים רבים בקשר לבריחתם של קרובי משפחתי
+ מאירופה הנאצית, וגורל בני המשפחה שנשארו, לא היו ידועים עד כה.
+ מתוך השאלות ששאלתי, התגלו פרטים חדשים, והם מופיעים כאן לראשונה כחלק מההיסטוריה
+ של משפחתי.
+\end_layout
+
+\begin_layout Section
+סיפורה של סבתא רבה פנינה לודבינובסקי ומשפחתה
+\end_layout
+
+\begin_layout Standard
+סבתא פנינה )אז פנינה שמוקלר( עלתה ארצה מפולין בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1939
+\numeric off
+, בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+29
+\numeric off
+, ערב פרוץ מלחמת העולם השניה.
+ היא הותירה מאחוריה אבא, אימא חורגת, אחות בכורה וארבעה אחים חורגים.
+ היא עלתה לארץ במסגרת תנועת נוער שנקראה "דרור", ואשר בה הכשירו את הצעירים
+ לקראת העליה לארץ.
+ חמש שנים היתה סבתא פנינה בהכשרה זו, ובמסגרתה הכירה את סבי שמחה.
+ יחד הם עזבו את פולין ויצאו במסע ארוך – בהתחלה במשאית לרומניה, ואחר בשייט
+ באוניה בלתי-ליגאלית שנקראה "אטראטו", אל ארץ ישראל.
+ 
+\end_layout
+
+\begin_layout Standard
+לרוע מזלם, כשהיו קרובים לנמל חיפה, נתפסו המעפילים הבלתי חוקיים בידי הבריטים,
+ ועל מנת להסתיר את זהותם היהודית, השליכו את כל תעודותיהם המזהות לים.
+ הם ניסו בכול כוחם למנוע את סילוקם מחופי ישראל, ולכן עצרו את אונייתם וכל
+ הלילה צעקו בקולי קולות "לא נזוז מפה!".
+ לאחר לילה של מאבק, הצליחה התנגדותם והבריטים נכנעו להם והרשו למעפילי אטראטו
+ לעלות לנמל חיפה.
+ סבא שמחה וסבתא פנינה התחילו את חייהם בארץ בקיבוץ רמת רחל, ובקיבוץ זה נולד
+ להם בנם הבכור פנחס )שנהרג בהיותו בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+19
+\numeric off
+ באימוני קרב בצה"ל(.
+ לאחר כמה שנים של חיים קיבוץ הם החליטו לעבור לכפר סבא, ושם נולדו בנם – סבי
+ אורי ובתם- דודה רבה שלי, שושנה.
+ 
+\end_layout
+
+\begin_layout Standard
+את קורותיה של סבתא פנינה, מילדותה בפולין, ללא אם, בגידולה של הסבתא, ועד
+ עלייתה לארץ, זכתה המשפחה לשמוע מסיפוריה, שאותם אמסור כאן במילותיה שלה )ראה
+ הפרק הבא: סבתא פנינה --- ילדות, עליה והחיים בארץ(.
+\end_layout
+
+\begin_layout Standard
+אולם, על קורותיה של משפחתה, שנותרה בפולין, לא היה ידוע לנו עד כה דבר.
+ "אימי", מספרת דודתי שושנה, בראיון שערכתי איתה, "לא ידעה מעולם מה עלה בגורל
+ משפחתה.
+ עדים שהגיעו ארצה בתום המלחמה סיפרו כי המשפחה כולה נספתה, אך היא מעולם לא
+ הצליחה לחקור ולגלות עובדות ממשיות לגבי הקורות אותם, ולגבי מקום וזמן מותם.
+ 
+\end_layout
+
+\begin_layout Standard
+לפני כמה חודשים מצאתי באינטרנט רישום של כל שמות בני משפחתה של אימי, שהיו,
+ כך התברר, בגטו פינסק, ונספו בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+, כאשר הוא הושמד על יד הנאצים.
+ גיליתי ברישומים את כל בני משפחתה של אימי, שעליהם לא ידענו דבר שנים רבות
+ – אביה אשר )בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+53
+\numeric off
+(, אימה החורגת איטקה )בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+50
+\numeric off
+(, וארבעת אחיה החורגים – יחיאל )
+\numeric on
+16
+\numeric off
+(, מרקל )
+\numeric on
+13
+\numeric off
+(, יהודית )
+\numeric on
+11
+\numeric off
+(, וליבע )
+\numeric on
+9
+\numeric off
+(, ואת גילם בזמן מותם.
+ מרגש במיוחד עבורי היה למצוא את הרישומים אודות אחותה הבכורה של אימי – רייזלה
+ )
+\numeric on
+31
+\numeric off
+(, ואודות בעלה שלום )
+\numeric on
+40
+\numeric off
+(, ושתי בנותיהם התינוקות – חנה )בת שנה( ופסיה )בת שנתיים(.
+ רק באותו רגע נודע לי כי שם משפחתה של רייזלה לאחר נישואיה היה בולנסקי, וכי
+ היא הייתה אם לשתי בנות תינוקות, שאימי אפילו לא זכתה להכיר.
+ הגילוי הזה ריגש אותי מאוד, כיוון שאימי , אשר מלחמת העולם השניה ניתקה אותה
+ ממשפחתה, נתנה לי את שמי על שם אחותה האהובה רייזלה, שפירוש שמה בעברית )המקור
+ באידיש( הוא שושנה.
+ אימי נהגה לספר לי כי בזמן ההריון איתי הופיעה יום אחד אחותה בחלום ואמרה
+ לה 'אני וכל בני משפחתי נספנו בשואה.
+ אני סומכת עלייך שתזכרי אותנו ושתדעי מה לעשות'.
+ אימי הבינה את כוונתה של רייזלה, והחליטה לקרוא את שמי על שמה".
+\end_layout
+
+\begin_layout Standard
+לפי המידע שמצאה דודתי שושנה, היא מילאה דפי עדות ליד ושם, על שם בני משפחתה.
+ )ראה נספח(.
+ היה זה כמה חודשים לאחר שסבתא פנינה נפטרה בשיבה טובה בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+98
+\numeric off
+, מבלי לדעת מה עלה בגורל משפחתה.
+ מבחינת דודתי שושנה, היה גילוי זה מחוות כבוד ופרידה מאימא אהובה.
+ 
+\end_layout
+
+\begin_layout Chapter
+סבתא פנינה – ילדות, עליה ארצה, והחיים בארץ )ראיון מלפני
+\family roman
+\series bold
+\shape up
+\size huge
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+20
+\numeric off
+ שנה(
+\end_layout
+
+\begin_layout Section
+סיפורי ילדות
+\end_layout
+
+\begin_layout Standard
+נולדתי בפינסק ברוסיה הלבנה למשפחה דתית.
+ אמי נפטרה בלידתי ואני גדלתי עד גיל שש בבית סבתי, גולדה פייגל.
+ היא הייתה שמנה ותמיד הלכה עם מטפחת על ראשה.
+ סבתא זו הייתה דמות מיוחדת במינה.
+ היא ניהלה את כל הבית וכולם היו סרים למשמעתה, וכל מה שאמרה היה קדוש – אסור
+ היה לסרב לה.
+ אפילו הבנים הנשואים היו חייבים לשמוע בקולה.
+ אף על פי כן, אהבנו אותה מאוד וקראנו לה "הבובה".
+ "הבובה" הייתה אשה דתיה מאוד.
+ בכל יום חמישי הייתה אופה חלות ולחם ומביאה לתלמידי הישיבה.
+ היא הייתה הולכת בין הבתים ואוספת כסף להכנסת כלה או לצדקה.
+\end_layout
+
+\begin_layout Standard
+סבי יעקב, בעלה של גולדה פייגל היה בעל זקן ארוך ולבן, וקצת שמנמן.
+ יעקב היה סופר סת"ם – כותב מגילות, מזוזות, והוא גם היה בודק וטליתות וציציות.
+ היה יושב בחדרו בכל שעות היום סגור ומסוגר.
+ הסבתא, "הבובה" לא הרשתה לאף אחד להיכנס לחדרו בטענה שאם יעקב יטעה ברישום
+ המגילות זה יהיה חמור מאוד.
+ לאנשים מבחוץ אסור היה להתקרב אליו מפני שהיה קדוש.
+ בכל פעם שהיה יוצא מחדרו פינו האנשים את הדרל ביראת כבוד.
+ סבא לא הכיר את כל נכדיו והיה מופיע רק בארועים מיוחדים כגון בריתות ונישואים.
+\end_layout
+
+\begin_layout Standard
+בית סבא וסבתא היה בית עץ בעל קומה אחת עם גינה מסביב, ש"הבובה" גידלה בה ירקות
+ לכלכלת הבית.
+ אף פעם לא ראיתי את סבא וסבתא ביחד.
+ סבתי תמיד דיברה בכבוד על סבא.
+\end_layout
+
+\begin_layout Standard
+סבתי רצתה לשמור על בריאות נכדיה והכריחה אותנו לבלוע תרופה נגד תולעים בכל
+ ראש חודש עברי ואוי לנכד שלא הגיע אליה לקבל את התרופה.
+ אני תמיד ננזפתי כשבאתי אחרונה.
+ לסבתא היו חמישה-עשר נכדים, והיא תמיד זכרה את תאריכי יום ההולדת של כולם.
+ המתנות שנתנה היו סיכות, גרביים, קישוטים למיניהם, והיא רצתה לתת לכל אחד
+ תשומת לב.
+ אני תמיד רציתי לקבל גרביים לבנים וקצרים.
+\end_layout
+
+\begin_layout Standard
+הוריי נולדו שניהם בפינסק והם הכירו זה את זה במועדון מפלגת הבונד.
+ לאבי הייתה חנות נעליים בשוק שבאמצע העיר.
+ היו בה נעליים פשוטות לדייגים ומגפיים.
+ משפחתי גרה ברחוב בפבריצ'נה, בית מספר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+20
+\numeric off
+.
+ זה היה רחוב ללא כביש, מכוסה עפר, שבשני צדדיו היו מדרכות.
+ הבתים ברחוב היו עשויים מעץ בעלי קומה אחת, וחצר גדולה שבה היו עצי פרי שונים.
+ היו לנו שכנים פולנים, שהיחסים אתם היו טובים.
+\end_layout
+
+\begin_layout Standard
+אבי נהג ללכת ללמוד משניות בבית המדרש.
+ הוא היה אדם פתוח אך חסר חוש הומור.
+\end_layout
+
+\begin_layout Standard
+התחלתי ללמוד בגיל שמונה, בבית הספר העממי של הבונד.
+ בית הספר היה ציוני, ונקרא תל-חי.
+ למדתי בו פולנית, קצת עברית, חשבון וכל המקצועות האחרים.
+ היו לי חברות אך ורק יהודיות.
+ כשגמרתי בית ספר יסודי התחלתי לעבוד בבית חרושת לגירים.
+\end_layout
+
+\begin_layout Section
+תקופת ההכשרה
+\end_layout
+
+\begin_layout Standard
+בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+11
+\numeric off
+, הצטרפתי לתנועת הנוער הציונית "הדרור".
+ בעיני אבי לא מצא חן הדבר, ועם בעיני סבתי, שקראה לי משומיידסטה )משומדת(.
+\end_layout
+
+\begin_layout Standard
+בתנועה היה מועדון והתקיימו בו הרצאות על ארץ ישראל ועל הקיבוץ.
+ אני זוכרת את הרצאת האבל על הירצחו של חיים ארלוזרוב.
+ כיבו את החשמל במועדון ודיברו על דמותו.
+\end_layout
+
+\begin_layout Standard
+בשבתות נהגנו לטייל ביערות שהקיפו את העיר, וליד הנהר פינה שהתחבר לדניפר,
+ שם שטנו בסירות.
+ השיחות בתנועה התקיימו ביידיש, המדריכים היו מבוגרים ודיברו איתנו על ההכנה
+ לעליה ולהתיישבות בקיבוץ.
+\end_layout
+
+\begin_layout Standard
+בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1933
+\numeric off
+ יצאתי להכשרה במייליצ'יץ', עיר קטנה ליד ביאליסטוק, שם הייתי כשנה וחצי, ובה
+ היכרתי את בעלי שמחה, שהגיע מאבגוסטוב, ליד גבול גרמניה.
+ את כל ההכשרות עברנו יחד.
+\end_layout
+
+\begin_layout Standard
+היו בקבוצה כשלושים איש, והתנאים היו קשים.
+ לא הייתה עבודה ולכן המקום נעזב.
+ עברנו לסקודל, עיירה קטנה ליד גרודנו, שם היינו בערך שנתיים.
+ הבנים היו הולכים לנסר עצים, והבנות עסקו במשק בית אצל היהודים.
+ אני עבדתי בבית חרושת לחרסינה.
+ משם נדדנו לביאליסטוק – עיר גדולה, שם הייתה קיימת הכשרה גדולה.
+ התחנה האחרונה בהכשרות הייתה וילנה, שם הייתי כשנתיים.
+ במשך היום עבדנו בעבודות שונות )אני עבדתי בבית חרושת לשוקולד(, ובערבים התנהלו
+ הרצאות על הארץ, מצבה, והקיבוצים.
+ פעמיים בשנה היה מגיע שליח מהארץ, ומראה תמונות במיוחד על עין-חרוד.
+\end_layout
+
+\begin_layout Standard
+יום אחד הגיע שליח מהארץ, והחליט שהחולים שבינינו יעלו לארץ ראשונים.
+ היתר נבחרו על ידי החברים לפי התנהגותם.
+ נבחרתי לעלות יחד עם שמחה שהיה חברי, ומאוד שמחתי כשהגיע תורנו לעלות.
+ שמחה נפרד מהוריו, הגיע לפינסק, התחתנו, וחיכינו יחד לעליה.
+\end_layout
+
+\begin_layout Section
+ההעפלה
+\end_layout
+
+\begin_layout Standard
+הגיע מכתב מהמרכז בוארשה שעלינו להתכונן לעליה.
+ לקחנונ איתנו רק את הדברים ההכרחיים כאילו אנו נוסעים לטיול, מתוך החשש שניתפס
+ )כי התארגנותנו הייתה בלתי חוקית(.
+ חפצנו העיקריים נשארו בוארשה, וכיוון שהיה זה ב-
+\numeric on
+1939
+\numeric off
+ והמלחמה פרצה, כל חפצינו אבדו.
+\end_layout
+
+\begin_layout Standard
+במאי,
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1939
+\numeric off
+, עלינו על רכבת לרומניה, לעיר נמל, נסיעה שנמשכה כיום.
+ בנמל חיכתה האוניה 'אטראטו' שהוכנה על ידי המוסד לעליה ב'.
+ עלה איתנו שליח מוארשה, וחיכה לנו בה שליח של המוסד מהארץ.
+ הייתה זו אוניית מסע שהובילה בהמות, היא הייתה מלוכלכת מאוד.
+ ישנו בבגדנו וסבלנו מחוסר במים.
+ לכל אחד הוקצבה חצי כוס מים מתוקים ביום.
+ אכלנו בעיקר לחם עם סרדינים.
+ ההרגשה הייתה קשה, סבלנו ממחלת ים, והיו סערות קשות שהרטיבו אותנו לגמרי.
+ כך הפלגנו שבוע ימים.
+ כיוון שעל האניה היו רק חלוצים צעירים, יכולנו להתמודד עם הקשיים.
+\end_layout
+
+\begin_layout Standard
+האוניה התקרבה לחיפה, אך עדיין לא ראינו את הכרמל.
+ נשמעו יריות והתברר שהתקרבה אלינו אוניית מלחמה בריטית.
+ הטראטו נעצרה, והחיילים הבריטיים עלו על האוניה.
+ התנהל ויכוח בין הבריטים למפקדי האוניה.
+ ברמקול נשמעה הודעה מפי אנשי ההגנה שנתפסנו, וסוכם שהאניה תגיע לחיפה.
+ הייתה בהלה גדולה באניה וירדנו הבחורות ואני ביניהן לבטן האניה וחיכינו.
+ האניה הגיעה לנמל חיפה ועגנה.
+ הוזעק רופא לאניה, כיוון שרבים לא הרגישו טוב.
+ את החולים הורידו מייד.
+ אני ושמחה נשארנו על האניה כ-
+\numeric on
+24
+\numeric off
+ שעות.
+ החלה השתוללות כדי למשוך תשומת לב והתחלנו לצעוק "לא נזוז מפה".
+\end_layout
+
+\begin_layout Standard
+הבריטים היו מאוד מאופקים ורק שאלו אותנו מהיכן הגענו, ואמרנו שאנו מגרמניה
+ )חשבנו שכך נוכל לרדת בקלות(.
+ באמצע הלילה הגיע איש הסוכנות היהודית שהביא עימו לחמניות ובקבוקי שתיה.
+ הוא ביקש שנהיה שקטים, ובבוקר נוכל לרדת מהאניה.
+ כנראה שניתנו לנו סרטיפיקטים.
+ הועברנו באוטובוסים לבת-גלים, שם צילמו הבריטים כל אחד, לקחו טביעות אצבעות
+ ושאלו מהיכן באנו.
+\end_layout
+
+\begin_layout Section
+הקליטה בארץ
+\end_layout
+
+\begin_layout Standard
+שהינו שלושה ימים בבת-גלים )שהיה מחנה בריטי( ללא כל מעש.
+ לאחר מכן הגיע איש הסוכנות ושאל כל אחד לאן ברצונו ללכת.
+ אלו שהיו להם מכרים בקיבוצים ביקשו להצטרף אליהם.
+ אנחנו לא ידענו לאן ללכת, ושלחו אותנו לקיבוץ רמת-רחל יחד עם עוד כמאה איש.
+ נסענו מבלי שידענו דבר על המקום.
+ הגענו בערב וקיבלו אותנו בחגיגיות, ארוחת ערב וברכות.
+ ביום הראשון נתנו לנו חדר אך למחרת העבירו אותנו לאוהל.
+ באוהל הייתה מיטה רעועה והבגדים המועטים נשארו במזוודה מתחת למיטה.
+ היו לילות סערה בהם האוהל היה עף ברוח, ואז נאלצנו להיכנס לבית אימון של אפרוחים,
+ כדי לא לקפוא מקור.
+ את הבחורים שלחו לעבודה במפעלי ים המלח לשבוע רצוף.
+ מכיוון שאני לא ידעתי עברית, עבדתי ראשית במכבסה, ואחר כך עברתי לבית-תינוקות
+ )עברית למדתי לאט לאט משמחה(.
+\end_layout
+
+\begin_layout Standard
+במהרה נתקלנו בבעיות רבות.
+ הוותיקים ברמת רחל היו מגדוד העבודה, והם זכו ליחס מיוחד.
+ הרגשנו שהם לא אוהבים אותנו ושאיננו רצויים.
+ הותירו לנו את העבודות הקשות ביותר והרגשנו כאילו אנחנו בנים חורגים.
+ רמת רחל התחלקה לשתי חברות שלא היה קשר ביניהן.
+ הסוכנות היהודית החליטה שיש צורך לשלוח אנשים לבריגדה היהודית.
+ חברי רמת רחל הוותיקים החליטו שהעולים החדשים חייבים להתגייס.
+ החלה תסיסה בקרבנו, ולאחר התערבות מבחוץ החליטו לערוך הגרלה.
+ לא הסכמנו, והחלטנו כולנו )מאה איש( לעזוב את רמת רחל.
+ עברנו לכפר סבא ב-
+\numeric on
+1942
+\numeric off
+, כשאיתנו גם בננו הבכור פנחס.
+ גרנו בחצר בית של ותיקים )דודו של שמחה( בצריף רעוע בעל חדר אחד ושרותים בחוץ.
+ עבדתי במשק בית ושמחה עבד בפרדס.
+ בינתיים נולד הבן אורי.
+\end_layout
+
+\begin_layout Standard
+עברנו למגדיאל ליד כפר סבא למשך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+ שנים וגם שם גרנו בצריף בו טיילו נחשים ועכברים.
+ שמחה עבר לעבוד באטליז.
+\end_layout
+
+\begin_layout Standard
+חזרנו לכפר סבא לבית בו אני גרה עכשיו וכאן נולדה בתי שושנה ???? שמחה עבד
+ בעבודות שונות עד אשר עבר לעבוד בבית חולים ליולדות כגנן.
+\end_layout
+
+\begin_layout Standard
+בני הבכור, פנחס, נפל בשרותו הצבאי, ושמחה בעלי נפטר תקופה קצרה לאחר מכן מחמת
+ יגון ומחלה.
+\end_layout
+
+\begin_layout Chapter
+סיר בישול ומסע שורשים משפחתי
+\end_layout
+
+\begin_layout Standard
+כשראיינתי את אימי לעבודתי זו, ביקשתי ממנה להסביר על חפץ כלשהו בעל משמעות
+ עבורה.
+ תשובתי החלה בירור עמוק שחרג מעבר לעבודתי.
+ 
+\end_layout
+
+\begin_layout Section
+הראיון
+\end_layout
+
+\begin_layout Subsubsection
+איזה חפץ הוא בעל משמעות עמוקה בשבילך?
+\end_layout
+
+\begin_layout Standard
+סיר בישול פשוט.
+\end_layout
+
+\begin_layout Subsubsection
+מה תיאורו?
+\end_layout
+
+\begin_layout Standard
+סיר בישול אפור עם שתי ידיות שחורות, אחת מהן שבורה, מכסה אפור, בינוני בגדלו.
+\end_layout
+
+\begin_layout Subsubsection
+מדוע הוא חשוב לך? מדוע בחרת דווקא אותו?
+\end_layout
+
+\begin_layout Standard
+הסיר הזה היה שייך במשך שנים רבות לסבתא שלי, אמא של אמא, שקראו לה סבתא חנה,
+ ולסבא יעקב בעלה.
+ הם היו אנשים מאד מיוחדים: הם גם היו מאד משכילים בתחומים כגון ספרות, מוזיקה,
+ אמנות ויהדות וגם היו אנשים מאד צנועים ובעלי ערכים.
+ במלחמת העולם השניה, כשהנאצים כבשו את פריז הם ברחו מצרפת, ולאחר מסע ארוך
+ )דרך מחנה פליטים בשוויץ, ובנפרד מילדיהם( הם עלו לארץ.
+ הם התיישבו בכפר סבא, וכאן עסקו בחינוך ולימוד עברית לעולים חדשים, ואפילו
+ הקימו את הספרייה האקדמית בבית ברל.
+ עד סוף חייהם אהבו ספרים, ועבדו כספרנים בספריות שונות.
+\end_layout
+
+\begin_layout Standard
+כשהם הזדקנו ולא יכלו יותר לחיות בכוחות עצמם הם עברו לגור אתנו בקיבוץ נחל
+ עוז.
+ בתור ילדה היה לי קשר מאד מיוחד עם שניהם.
+ עם סבא היינו משוחחים הרבה על ספרים, והמתנות שקיבלתי ממנו היא תמיד ספרים
+ ועלים סוכריות קטנות.
+ היה בינינו, אפילו, קשר טלפתי, כך שהיינו יודעים באותו רגע ששנינו חושבים
+ זה על זה )אז עוד לא היה טלפון והיינו מספרים זה לזה על הרגעים האלה במכתבים(.
+ עם סבתא הייתי מאד אוהבת לשוחח, לצחוק ולהאכיל חיות )תמיד היא הייתה מפזרת
+ אוכל לציפורים(.
+\end_layout
+
+\begin_layout Standard
+סבא נפטר כשהייתי בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+12
+\numeric off
+, והיה לי קשה מאוד להיפרד ממנו.
+ לשמחתי, סבתא האריכה ימים, והייתה לי הזכות לבקרה, לדאוג לה ולהנות במחיצתה.
+ לאחר שהיא נפטרה, נשארו בביתה מעט כלים וחפצים.
+ אני ביקשתי כמה מהם: ציורי חיות שלה )היא הייתה ציירת(, ארונית קטנה ואת הסיר.
+ היום הסיר אמנם בלוי קצת ושבור, אך כל עוד ניתן להשתמש בו, הוא יהיה תמיד
+ אחד הכלים השימושיים והאהובים בבית.
+\end_layout
+
+\begin_layout Subsubsection
+איפה נוצר החפץ? כיצד הגיע לידך?
+\end_layout
+
+\begin_layout Standard
+החפץ נוצר בישראל והוא מהתוצרת הראשונה של מפעל סולתם.
+ הוא היה אחד מהחפצים הבודדים בבית הצנוע והפשוט של סבא וסבתא, והוא הגיע לידיי
+ לאחר שהם נפטרו כמתנת זיכרון.
+\end_layout
+
+\begin_layout Subsubsection
+באיזו תקופה נוצר החפץ?
+\end_layout
+
+\begin_layout Standard
+הסיר נוצר בסוף שנות ה-
+\numeric on
+40
+\numeric off
+ או ה-
+\numeric on
+50
+\numeric off
+ בישראל.
+ הוא אופייני לתקופתו כי הוא סיר בישול מודרני, אך עדיין פשוט, לא מפואר, זול,
+ כלומר – כלי שמשפחה של פליטים, שהגיעו חסרי כל לארץ, יכולה לרכוש אותו.
+\end_layout
+
+\begin_layout Subsubsection
+איפה הוא נמצא בבית? ממתי הוא אצלך?
+\end_layout
+
+\begin_layout Standard
+החפץ נמצא אצלי כ-
+\numeric on
+15
+\numeric off
+ שנה והוא נמצא במטבח.
+ הוא משמש לבישול.
+\end_layout
+
+\begin_layout Subsubsection
+האם החפץ מתקשר לסיפור, אירוע או זיכרון?
+\end_layout
+
+\begin_layout Standard
+הסיר לא מתקשר לסיפור מסוים, אבל הוא מתקשר לזכרונות מהחוויות המשותפות עם
+ סבא וסבתא שלי.
+ הוא מתקשר למראה המטבח הקטן והפשוט שלהם, לאוכל שהם היו נוהגים להכין )כשהיינו
+ ילדים קטנים חיכינו לאורז, לצלעות הכבש ולקציצות שסבתא הייתה מכינה לנו, ואני
+ איני יודעת להכינם(, אך יותר מכל לשיחות שהיינו משוחחים, ולקרבת הלב שביננו.
+\end_layout
+
+\begin_layout Subsubsection
+האם החפץ מסמל משהו עבורך?
+\end_layout
+
+\begin_layout Standard
+הסיר מסמל את הקשר המיוחד ביני ובין סבא וסבתא שלי.
+ הוא מזכיר לי את האישיות המיוחדת שלהם את החוויות שזכורות לי מהם, ועבורי
+ הוא מעניק בנוכחותו קשר עמוק לילדות שלי ולאנשים שהם אהובים עליי למרות שאינם
+ כבר.
+\end_layout
+
+\begin_layout Section
+תחילתו של מסע חיפוש שורשים --- בעקבות בריחתה של משפחת קולודני מצרפת במלחמת
+ העולם השניה
+\end_layout
+
+\begin_layout Standard
+לאחר ראיון זה הבנתי שאימי הייתה קשורה מאוד לסבא ולסבתא קולודני, שהיא אהבה
+ אותם, בילתה הרבה במחיצתם, והושפעה מהם במשיכתה לספרים, לאומנות ולבעלי חיים.
+ למדתי גם על הקשר הטלפתי הקסום שהתקיים בין אימי לסבא שלה )שעליו גם קראתי
+ בעבודת השורשים של אימי, וגם ראיתי את העדות לו במכתבו של סבא קולודני אליה(.
+\end_layout
+
+\begin_layout Standard
+השלב הבא היה כשראיינתי את סבתי, סבתא רוחה, ביתם הצעירה ביותר של חנה ויעקב
+ )קדמו לה אמיל ויוסף( על הוריה ועל הקורות אותם.
+ גם סבתא חזרה והזכירה את אימה כדמות העיקרית שהשפיעה עליה, והיא אף ציינה
+ כי בזכותה ניצלה כל המשפחה בשואה.
+ סבתא המשיכה וסיפרה על בריחתה של המשפחה מצרפת, עם הכיבוש הנאצי: כיצד התפצלה
+ המשפחה לחלקים – סבא יעקב לבדו, סבתא חנה וביתה התינוקת )סבתא שלי(, ושני
+ האחים הקטנים לבדם, עוברים מבית ילדים אחד למשנהו, ירחמיאל ויוסף שהיו אז
+ רק בני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+8
+\numeric off
+ ו-
+\numeric on
+4
+\numeric off
+.
+ סבתא סיפרה לי על אירועים שונים ממסלולי הבריחה, כיצד נפגשה לבסוף המשפחה
+ בשוויץ במחנה פליטים, וכיצד עלו לארץ והתגוררו לראשונה במחנה הפליטים עתלית.
+ 
+\end_layout
+
+\begin_layout Standard
+ככל שסבתא סיפרה, כך התברר לכולנו שקיימים הרבה דברים שהיא לא יודעת על סיפור
+ בריחתה שלה, של אחיה ושל הוריה.
+ חלקם של הדברים לא ידועים לה, כיוון שהיתה אז תינוקת, וחלקם הוסתרו ונשמרו
+ בסוד כיוון שבחרו להניח את העבר הקשה מאחור ולא לשוחח עליו.
+ לאחר הראיון שלה איתי החליטה סבתא לצאת למסע שורשים אישי.
+ עבודת השורשים שלי היתה עבורה תמריץ לערוך עבודת מחקר, שבה מתוך קריאה של
+ חומר הסטורי, ראיונות עם אחיה הבוגרים, וסידור כל הפרטים הידועים לה עד כה,
+ היא תצליח לראשונה לספר בשלמותו את סיפור החיים שלה, שהוא הסיפור של משפחתה.
+ את עבודת מחקר זו אציג כאן.
+\end_layout
+
+\begin_layout Part
+יד זיכרון
+\end_layout
+
+\begin_layout Section
+הקדמה
+\end_layout
+
+\begin_layout Standard
+לא זכיתי להכיר את סבא רבה שמחה ואת בנו, דודי רבה פנחס.
+ פנחס נפטר בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+19
+\numeric off
+, באימוני קרב בצבא.
+ מותו של פנחס הסב כאב רב לשמחה אביו, והוא נפטר שנתיים לאחר מכן.
+\end_layout
+
+\begin_layout Standard
+כל שנה אני והוריי עולים לקברם של פנחס ושמחה ביום הזיכרון לחללי צה"ל, אך
+ מאחר שסבתא פנינה ז"ל , דודתי שושנה וסבי אורי לא נוהגים לדבר עליהם, אני
+ והוריי לא יודעים עליהם כמעט דבר – מי היו, מה אהבו, איך היו החיים במחיצתם.
+ בעבודתי זאת החלטתי לבצע תחקיר ולגלות מי היו אנשים אלו באמת.
+ 
+\end_layout
+
+\begin_layout Section
+סבא רבה שמחה לודבינובסקי
+\end_layout
+
+\begin_layout Standard
+על קורותיו ודמותו שמעתי מפי סבי אורי בנו ומפי דודתי שושנה ביתו.
+ 
+\end_layout
+
+\begin_layout Standard
+סבא אורי מספר: "אבא שמחה נולד באבגוסטוב, עיירה קטנה בפולין.
+ את לימודיו החל בחדר, ולאחר מכן למד בבית ספר יסודי ותיכון, בו למדו עברית
+ ומקצועות כללים.
+ כשהגיע לארץ שלט בשפה, מה שהיה לו לעזר רב.
+ בגיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+18
+\numeric off
+ יצא להכשרה מטעם תנועתו, שנקראה "דרור", ושם הכיר את אימי פנינה, וביחד הם
+ העפילו ביחד בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1939
+\numeric off
+.
+ 
+\end_layout
+
+\begin_layout Standard
+סבא שמחה היה גבוה, רזה ושחום, והוא היה אדם שקט, עדין ורגוע, ואהב מאוד מוסיקה.
+ הוא ניגן במפוחית פה ומנדולינה שירי ארץ ישראל.
+ הוא נהג לשקוע בכתיבה ובקריאה, מה שהשרה אוירה נעימה בבית.
+ 
+\end_layout
+
+\begin_layout Standard
+הייתי קשור אליו מאוד.
+ הוא נהג לעזור לי בהכנת שיעורי הבית, ללכת איתי לראות משחקי כדורגל וסרטי
+ מערבונים.
+ יותר מכל אהבתי לשחק איתו שחמט, משחק שהוא לימד אותי.
+ נאבקתי קשה לנצחו.
+ הוא לימד אותי רבות ועזר לי להגיע להישגים במשחק השחמט.
+ 
+\end_layout
+
+\begin_layout Standard
+דודה שושנה מספרת: "הדמות שהשפיעה עליי בילדותי יותר מכל הייתה אבי.
+ בילדותי לא ידעתי לבטא את האות ש', והייתי מבטאת אותה כמו "סין".
+ אבי ישב איתי בסבלנות רבה ולימד אותי להגות את האות נכון.
+ כשהתחלתי ללמוד בבית הספר, אבי היה זה שלימד אותי לכתוב חיבורים, הוא ישב
+ איתי ובדק את השיעורים שלי, הלך לבית הספר יחד עם אימי לאספות הורים, והיה
+ בקשר טוב עם המורים.
+ כל המורים שלי מאוד אהבו אותו.
+ 
+\end_layout
+
+\begin_layout Standard
+לאבי היה כתב יד מאוד יפה, והיה מתנסח בצורה נהדרת.
+ במקום עבודתו הוא היה מנסח תמיד את המכתבים עבור כולם.
+ אבי קרא הרבה, תמיד הביא הביתה ספרים לקריאה, ומאוד עודד אותי לקרוא.
+ מאוד כאב לו שאני כילדה העדפתי לשחק, וכשהייתי קצת יותר גדולה ללכת לפעילויות
+ בנוער העובד והלומד, ולא לשבת בבית ולקרוא.
+ 
+\end_layout
+
+\begin_layout Standard
+אבי ניגן במנדולינה ומאוד אהב לשמוע פרקי חזנות.
+ ממנו ירשתי את האהבה לפרקי חזנות.
+ היה רדיו אחד בבית והייתי יושבת איתו על יד הרדיו ומאזינה".
+ 
+\end_layout
+
+\begin_layout Section
+פנחס לודבינובסקי
+\end_layout
+
+\begin_layout Standard
+על פנחס קראתי בספר לזכרו, וניסיתי לצייר במוחי את דמותו ולעלות את תכונותיו
+ מההספדים שכתבו לו בני משפחתו וחבריו.
+ 
+\end_layout
+
+\begin_layout Standard
+פנחס נולד ב-
+\numeric on
+20/4/1941
+\numeric off
+ ונפטר ב-
+\numeric on
+20/1/1961
+\numeric off
+.
+\end_layout
+
+\begin_layout Standard
+הוא היה מסור למשפחתו, מלא בשמחת חיים, עוזר לכולם, צנוע, עבד קשה ועזר להוריו
+ להתפרנס, וחלומו היה לחיות בקיבוץ.
+ 
+\end_layout
+
+\begin_layout Part
+בחזרה לעתיד
+\end_layout
+
+\begin_layout Chapter
+משחקי ילדות
+\end_layout
+
+\begin_layout Standard
+כשראיינתי את בני משפחתי שאלתי אותם גם על המשחקים, אותם שיחקו עם חבריהם כשהיו
+ צעירים.
+ מכיוון שאני חושב שנושא המשחקים הוא מעניין, ומכיוון שאני חושב שאולי משחקים
+ אלו יתאימו גם לילדים של היום, החלטתי לרשום את המשחקים הזכורים לבני משפחתי,
+ ואת הכללים והחוקים שלהם.
+\end_layout
+
+\begin_layout Section
+בניית עפיפונים מקני סוף )נמסר מפי סבא אורי(
+\end_layout
+
+\begin_layout Standard
+סבא אורי מספר שבילדותו הוא וחבריו היו הולכים לאסוף קני סוף בירקון כדי להכין
+ מהם עפיפונים.
+ הנה שלבי ההכנה:
+\end_layout
+
+\begin_layout Standard
+מייבשים את קני הסוף בחצר.
+\end_layout
+
+\begin_layout Standard
+לאחר שקני הסוף יבשים, חוצים אותם, חותכים אותם באמצע, כך שיהיו באורך של מטר,
+ וקושרים עם חבל בצורת משושה.
+\end_layout
+
+\begin_layout Standard
+מהדקים באמצע המשושה, וקושרים בחבל כדי שיתקבלו קווי המתאר של המשושה.
+ אמורה להתקבל צורה כזו --- 
+\end_layout
+
+\begin_layout Standard
+לוקחים נייר צבעוני, מדביקים אותו למשושה וגוזרים בצדדים.
+ )סבא אורי מספר שבגלל שלו ולחבריו לא היה דבק זמין, הם היו מערבבים קמח עם
+ מים, והעיסה שנוצרה שימשה להם כדבק(.
+\end_layout
+
+\begin_layout Standard
+מכינים זנב לעפיפון – קושרים ריבועי נייר צבעוני לחבל דק, וקושרים אותו כך
+ --- .
+ תפקידו של הזנב הוא לאזן את העפיפון כשהוא באויר.
+\end_layout
+
+\begin_layout Standard
+קושרים חוט ארוך מאוד שבו מחזיקים כשהעפיפון באויר.
+\end_layout
+
+\begin_layout Standard
+לבסוף – הולכים לשדה ומעיפים את העפיפון.
+\end_layout
+
+\begin_layout Section
+דודס )נמסר מפי סבא אורי(
+\end_layout
+
+\begin_layout Standard
+הכנה – מוצאים לוח עץ, שישמש כמחבט.
+\end_layout
+
+\begin_layout Standard
+מוצאים מקל קצר, שאותו מחדדים בשני הקצוות.
+\end_layout
+
+\begin_layout Standard
+אופן המשחק – הולכים למגרש פתוח.
+\end_layout
+
+\begin_layout Standard
+אחד מהשחקנים מקפיץ את המקל הקצר וחובט בו.
+\end_layout
+
+\begin_layout Standard
+השחקנים מנסים לתפוס את המקל הקצר בזמן שהחובט מקיף את המגרש כמה שיותר פעמים.
+\end_layout
+
+\begin_layout Standard
+כל אחד בתורו הוא החובט.
+\end_layout
+
+\begin_layout Standard
+המנצח הוא זה שהספיק להקיף את המגרש הכי הרבה פעמים, בזמן שאחרים מנסים לתפוס
+ את המקל.
+\end_layout
+
+\begin_layout Section
+סטנגה )נמסר מפי סבא לייבוש(
+\end_layout
+
+\begin_layout Standard
+הכנה – מסמנים שני שערים בדופן הרחוב עם שתי אבנים בכל צד
+\end_layout
+
+\begin_layout Standard
+אופן המשחק – אחד משני המשתתפים בועט בכדור ממרחק שאותו קובעים המשתתפים ומנסה
+ להכניסו לשער.
+ השחקן השני צריך לנסות לעצור את הכדור, ולבעוט אותו לשער השני.
+ כל גול מזכה בנקודה.
+ משחקים עד שמחשיך או עד שסתם נמאס.
+\end_layout
+
+\begin_layout Section
+בנדורות )נמסר מפי סבא לייבוש(
+\end_layout
+
+\begin_layout Standard
+הכנה – מציירים על החול צורה של חצי עיגול, ובפינות מניחים שתי גולות )בנדורות(.
+\end_layout
+
+\begin_layout Standard
+אופן המשחק – ממרחק מסוים, שאותו קובעים המשתתפים, כל אחד זורק בנדורה, ומי
+ שפוגע הכי קרוב לחצי העיגול מתחיל במשחק.
+ השחקן הראשון מנסה לפגוע באחת מהבנדורות שבקצוות חצי העיגול, כך שהבנדורה
+ שבקצה תצא אל מחוץ לחצי העיגול והבנדורה שלו תישאר בפנים.
+ אין מנצח.
+ משחקים עד שמתעייפים או עד שאין יותר גולות בצדדים.
+\end_layout
+
+\begin_layout Section
+פורפרות )נמסר מפי סבא לייבוש(
+\end_layout
+
+\begin_layout Standard
+הכנה – בונים את הפורפרה: כורכים חבל מסביב לגליל עץ עם שפיץ בקצה, כדי שיהיה
+ אפשר לזרוק ולסובב את הגליל.
+ מציירים על האדמה מעגל, ומניחים בפנים כמה פורפרות.
+\end_layout
+
+\begin_layout Standard
+אופן המשחק – כל אחד בתורו מסובב את הפורפרה שלו בתוך המעגל, ומנסה להוציא
+ ממנו כמה שיותר פורפרות.
+ כל שחקן שהוציא מספר פורפרות מהמעגל, מקבל אותן אליו.
+ המנצח הוא מי שבסופו של דבר, כשנגמרו הפורפרות במעגל, מחזיק בכמות הגדולה
+ ביותר של הפורפרות.
+\end_layout
+
+\begin_layout Section
+פעלולים על אופניים )נמסר מפי סבא לייבוש(
+\end_layout
+
+\begin_layout Standard
+סוגים שונים של פעלולים:
+\end_layout
+
+\begin_layout Itemize
+לנסוע בלי להחזיק בכידון, אך להחזיק במושב ולקפוץ אחורה בעוד האופניים ממשיכים
+ לנסוע.
+\end_layout
+
+\begin_layout Itemize
+במהלך הנסיעה להחזיק בכידון, ולעלות עם רגל אחת על המושב, ואת הרגל השניה לפשוט
+ אחורה.
+\end_layout
+
+\begin_layout Itemize
+לשבת על הכיסא עם הפנים אחורה, להחזיק בכידון מאחור ולפדל לאחור )זה נורא מבלבל(.
+\end_layout
+
+\begin_layout Section
+פיצוץ פנסים של מחנות הבריטים )נמסר מפי סבתא רחל(
+\end_layout
+
+\begin_layout Standard
+הולכים בלילה למחנות הבריטים, זורקים אבנים על הפנסים שבמחנה עד שהם כבים ונהיה
+ חושך
+\end_layout
+
+\begin_layout Section
+הקפות )נמסר מפי אבא(
+\end_layout
+
+\begin_layout Subsection
+ציוד נדרש
+\end_layout
+
+\begin_layout Standard
+כדור טניס ומגרש פתוח שמסומן בארבע תחנות
+\end_layout
+
+\begin_layout Subsection
+חוקי המשחק
+\end_layout
+
+\begin_layout Standard
+מתחלקים לשתי קבוצות.
+ קבוצה אחת היא זו שזורקת את הכדור, והקבוצה השניה תופסת אותו.
+ הקבוצה שזורקת בוחרת נציג, והוא זורק את הכדור כמה שיותר רחוק, ומתחיל להקיף
+ בריצה את המגרש דרך התחנות.
+ אם הוא משלים הקפה שלמה, יש לקבוצה שלו נקודה.
+ בינתיים הקבוצה שתופסת צריכה לתפוס את הכדור מהאוויר או להחזיר אותו כמה שיותר
+ מהר לתחנה שממנה נזרק הכדור.
+ אם הקבוצה תופסת את הכדור ביד ימין, הנציג שזרק 'נשרף' והקבוצה הזורקת בוחרת
+ נציג אחר.
+ אם הקבוצה תופסת ביד שמאל, כל הנקודות שלה הקבוצה הזורקת נמחקות.
+ אחרי ש'נשרפים' שלושה ילדים, מחליפות הקבוצות צדדים.
+ הקבוצה שצברה את מירב הנקודות – מנצחת.
+\end_layout
+
+\begin_layout Chapter
+מתכונים מסורתיים
+\end_layout
+
+\begin_layout Section
+בואיקוס
+\end_layout
+
+\begin_layout Standard
+זהו מתכון בולגרי מספר הקיבוצים שלפיו אמא מכינה לימי הולדת ולמסיבות.
+\end_layout
+
+\begin_layout Subsection
+מצרכים:
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+1
+\numeric off
+ חבילת מרגרינה
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+2.5
+\numeric off
+ כוסות קמח תופח
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+1
+\numeric off
+ כוס גבינה לבנה
+\end_layout
+
+\begin_layout Itemize
+חצי כפית מלח
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+1
+\numeric off
+ כוס גבינה צהובה מרוסקת
+\end_layout
+
+\begin_layout Itemize
+כוס זיתים מגולענים
+\end_layout
+
+\begin_layout Subsection
+ההכנה:
+\end_layout
+
+\begin_layout Standard
+מערבבים את כל החמרים, פרט לזיתים, ויוצרים מהם כדורים קטנים.
+ בתוך כל כדור טומנים זית.
+ אופים בחום של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+180
+\numeric off
+ מעלות כחצי שעה.
+\end_layout
+
+\begin_layout Section
+עוגת שדה תעופה מטורף
+\end_layout
+
+\begin_layout Standard
+עוגה של סבתא רחל שנחשבת מעולה במיוחד
+\end_layout
+
+\begin_layout Subsection
+מצרכים:
+\end_layout
+
+\begin_layout Itemize
+שתי כוסות מי ברז חמימים +
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1.5
+\numeric off
+ כפות מחוקות נס קפה
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+18
+\numeric off
+ בסקוויטים מסוג פתי-בר
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+100
+\numeric off
+ גרם שוקולד מריר
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+200
+\numeric off
+ גרם מרגרינה רגילה ללא מלח או חמאה
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+1.5
+\numeric off
+ כפות מחוקות קקאו
+\end_layout
+
+\begin_layout Itemize
+חצי כף מחוקה נס קפה
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+2
+\numeric off
+ ביצים
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+1.5
+\numeric off
+ כפות מחוקות סוכר לקצף הביצים
+\end_layout
+
+\begin_layout Itemize
+שקית שמנת לקצפת
+\end_layout
+
+\begin_layout Itemize
+
+\numeric on
+2
+\numeric off
+ שקיות סוכר וניל
+\end_layout
+
+\begin_layout Subsection
+הכנה:
+\end_layout
+
+\begin_layout Enumerate
+בסיר קטן שופכים שתי כוסות מי ברז + הנס קפה.
+ בתבנית מסדרים ריפוד תחתון של שמונה בסקוויטים כאשר הצד המחוספס שלהם מופנה
+ מעלה.
+ על כל בסקוויט שופכים כף מלאה נס קפה ממימי ההרטבה
+\end_layout
+
+\begin_layout Enumerate
+מציבים סיר קטן בתוך מחבת, שבה מעט מים.
+ מחממים, ובסיר שמים את השוקולד, מרגרינה, קקאו, חצי כף הנס קפה.
+ בוחשים כל הזמן עד שהעיסה הופכת לרוטב ואז מסירים מהאש.
+\end_layout
+
+\begin_layout Enumerate
+מקציפים את החלבונים והסוכר לקצף נוקשה
+\end_layout
+
+\begin_layout Enumerate
+מוסיפים את שני החלמונים לרוטב השוקולד שבסיר הקטן, לאחר שהוא הצטנן מעט.
+ בוחשים היטב ושופכים את עיסת השוקולד לתוך הקצף.
+ מערבבים בזהירות עד שהצבע אחיד.
+ שופכים את הקרם על שכבת הבסקוויטים המורטבת ומחליקים אותה
+\end_layout
+
+\begin_layout Enumerate
+מניחים שכבה נוספת של בסקוויטים המורטבים אף הם במי הנס קפה.
+\end_layout
+
+\begin_layout Enumerate
+מקציפים שקית שמנת מתוקה עם סוכר וניל לקצף נוקשה ומורחים את הקצפת על הבסקוויטים.
+ מכסים בניילון נצמד ושמים בקרור לחמש שעות לפחות.
+\end_layout
+
+\begin_layout Section
+אפיו מסורתי
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/recipes/afio.eps
+	display false
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אפיו מסורתי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+אלבונדיגאס
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/recipes/albondigas.eps
+	display false
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אלבונדיגאס
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+פרוסות חצילים )עגולים(
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/recipes/eggplant.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+פרוסות חצילים )עגולים(
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+גפילטע פיש
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/recipes/fish.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+גפילטע פיש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+עוגת אניגמה --- מתכון של ארז וולק )חבר של אבא(
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/recipes/enigma.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+עוגת אניגמה
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+חיי בעוד עשרים שנה
+\end_layout
+
+\begin_layout Standard
+בעוד עשרים שנה, אני מדמיין את עצמי חי במושב, בחווה קטנה עם הרבה חיות: כלבים,
+ חתולים, עזים, כבשים, חזירים, סוסים, תרנגולות, ארנבות ועוד.
+ אני נראה בערך כמו שאני היום, אך הרבה יותר גבוה ובלי חצ'קונים.
+ אני נשוי ואב לשני ילדים, בן ובת, בהם אני מטפל ביחד עם אשתי במסירות רבה.
+ יש לי תואר ראשון במוסיקה, ואני מלמד מוסיקה בבית ספר דמוקרטי, ונגן פעם בשבוע
+ בתזמורת.
+ פעם בחודש, חוץ מההופעות הרגילות של התזמורת, אנחנו מופיעים בחינם בבית אבות,
+ כדי לשמח את הקשישים.
+\end_layout
+
+\begin_layout Standard
+כל יום אני חוזר מוקדם מהעבודה ומקדיש את שאר היום לאשתי ולילדיי )אולי לאשתי
+ קצת פחות(, פרט לימים שבהם אני נוסע בניסאן הכסופה שלי לחזרת תזמורת או למשחק
+ כדורעף עם חברים מהמושב.
+\end_layout
+
+\begin_layout Standard
+הוריי הזקנים נוסעים על אופנוע ברחבי העולם, ועקבותיהם אינם ידועים.
+ רק מדי פעם הם באים לבקר או לעשות בייביסיטר לילדים.
+\end_layout
+
+\begin_layout Standard
+מדי שבוע באים לבקר אותי ואת אשתי וילדיי, אחותי ובעלה, ובביקורים אלו אחותי
+ תמיד מתלוננת על כך שהבית יותר מדיי מבולגן ומאובק.
+ בשבתות, אני ומשפחתי יוצאים לטיולים ברחבי הארץ, או נפגשים עם בני המשפחה
+ המורחבת.
+\end_layout
+
+\begin_layout Standard
+בכל לילה, כשהילדים כבר ישנים, אני ואשתי יושבים יחד ומדמיינים, איך אנחנו
+ ניראה, בתור סבא וסבתא, בעוד עשרים שנים.
+\end_layout
+
+\begin_layout Chapter
+סיכום
+\end_layout
+
+\begin_layout Standard
+בעבודה זו למדתי דברים רבים: למדתי על פרטי העליה של קרובי משפחתי, על קורותיהם
+ בשואה, על ההיכרות ביניהם, על ילדותם, על זכרונותיהם, על מנהגים שאהבו ועל
+ חלומם.
+ כך למדתי להכיר טוב יותר את בני משפחתי – הוריי, סביי וסבתותיי, דודתי, שבהם
+ אני מוקף מלידתי.
+ אך כך גם למדתי להכיר לראשונה דמויות מן העבר, שהלכו לעולמם לפני שנולדתי.
+ בין דמויות אלו היו כמה שהרשימו אותי במיוחד.
+ הראשון או סבא רבא שלי שמחה לודבינובסקי, שאהב מוסיקה וספרים, היה אדם עדין
+ ורגוע, וניגן במנדולינה ומפוחית פה.
+ השניה היא סבתא רבא שלי טובה לוי, שטפלה באומץ לב ובמסירות בשלושת ילדיה הקטנים,
+ לאחר שבעלה נפטר.
+ השלישיים הם סבא וסבתא רבא שלי, חנה ויעקב קולודני, שהיו אנשים משכילים ועדינים,
+ שאהבו מוסיקה, אמנות, ספרים ובעלי חיים, ושאמי הייתה קשורה אליהם מאוד.
+\end_layout
+
+\begin_layout Standard
+ואמנם, בעבודה זו למדתי על משפחתי על ידי כך שחקרתי, ראיינתי, קראתי, גיליתי
+ וכתבתי.
+ אך האם התשובה לשאלה שאיתה התחלתי את העבודה השתנתה כעת? האם השתנתה התשובה
+ לשאלה מי אני באמת?
+\end_layout
+
+\begin_layout Standard
+מצד אחד התשובה לא השתנתה: אני עדיין עלי לוי, ואני עדיין גר בכפר סבא, לומד
+ בבית הספר הדמוקרטי, ובעל אותן תכונות ותחביבים.
+ אבל מצד שני, התשובה אכן השתנתה, משום שנקודת התצפית שלי כלפי עצמי השתנתה.
+ עכשיו ברור לי שמציאות חיי איננה ברורה מאליה:
+\end_layout
+
+\begin_layout Standard
+חלק מזהותי הוא שאני נולדתי בארץ וחי בה וזהו ביתי, והשפה העברית היא שפתי.
+ אך בעבודתי הכרתי קרובים שלא נולדו בארץ, שעברו דרך ארוכה וקשה כדי לחיות
+ כאן, ואשר סבלו בימיהם הראשונים בארץ בשל אי ידיעת השפה.
+ סבתא רבא פנינה לא ידעה עברית כשהגיעה באניית מעפילים ונשלחה לרמת-רחל.
+ סבתא רוחה ידעה רק צרפתית בתור ילדת פליטים קטנה, שמשפחתה ברחה מצרפת במלחמת
+ העולם השניה.
+\end_layout
+
+\begin_layout Standard
+חלק מזהותי הוא שאני חי ושייך למשפחה בריאה ומאושרת, אבל לצערי, בעבודתי הכרתי
+ ילדות אחרת במשפחה אחרת: סבא שלי, אברהם גדל במשפחה ללא אבא.
+ אמא של סבתא רבא שלי פנינה נפטרה בלידתה, ופנינה המסכנה גודלה אצל סבתה, שהייתה
+ אישה אטומה וקשה.
+ סבא שלי אורי ואחותו שושנה, ספגו את מותם של אחיהם ואביהם.
+\end_layout
+
+\begin_layout Standard
+כמו כן, חלק מזהותי הוא שאני תלמיד, אך בעבודתי ראיתי שני ילדים – אמיל וז'וז'ו
+ קולדני, אחיה של סבתי שעברו את ילדותם בבריחה מהנאצים, ולא יכלו להקדיש את
+ זמנם ללמידה.
+\end_layout
+
+\begin_layout Standard
+ולבסוף, חלק מזהותי הוא שאני גר בעיר כפר-סבא, אך בעבודתי למדתי על ילדותם
+ של הוריי, שגרו בקיבוץ וחיו חיים שונים משלי: הם ישנו ללא הוריהם בבית הילדים,
+ עבדו במשק הילדים, אכלו בחדר אוכל יחד עם כל המשפחות בקיבוץ, למדו בבית ספר
+ אזורי, וקיבלו את בגדיהם ממחסן משותף.
+\end_layout
+
+\begin_layout Standard
+בעבודה זו גם למדתי שתחביביי, במיוחד מוסיקה וקריאה, שייכים לרבים מקרוביי:
+ אבי אוהב מוסיקה, מנגן על גיטרה ואוהב לקרוא, אמי מקדישה הרבה מזמנה לקריאה,
+ סבי אברהם מבלה הרבה משעות יומו בשמיעת מוסיקה, וגם לסבתות רוחה ורחל יש אהבה
+ גדולה למוסיקה וקריאה.
+ ראיתי גם שתחביבים אלו היו שייכים לקרובים שלא היכרתי: סבא רבא שלי שמחה אהב
+ מאוד מוסיקה, ניגן במנדולינה ובמפוחית פה, ושמע פרקי חזנות ברדיו, וסבתא רבא
+ חנה קולודני אהבה מאוד להאזין לאופרות ולמוסיקה קלאסית וללוות את ההאזנה בשירה.
+\end_layout
+
+\begin_layout Standard
+בנוסף, גיליתי ששאלת הזהות לא נפתרת גם אצל אנשים מבוגרים.
+ בעקבות עבודתי ראיתי את שושנה, אחות סבי, מחפשת חומר על משפחתה שנספתה בשואה,
+ וגם את סבתי רוחה, הכותבת את סיפור בריחת משפחתה מצרפת, ומבררת אצל אחיה פרטים
+ שלא היו ידועים לה כלל.
+\end_layout
+
+\begin_layout Standard
+שמחתי לגלות את כל הפרטים הללו על משפחתי.
+ אך למרות שסיימתי עבודה זו, אני עדיין בטוח שככל שאגדל, יתבררו לי עוד ועוד
+ פרטים מעניינים נוספים על משפחתי, שאותם אשמור ואזכור לעד, כיוון שמדובר באנשים
+ שאני אוהב, שיקרים לי ושאני קשור אליהם מאוד.
+\end_layout
+
+\end_body
+\end_document
