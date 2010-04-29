@@ -11,7 +11,7 @@
 \tolerance=2000 
 \addtolength{\skip\footins}{20pt} 
 \setlength{\fboxsep}{8pt}
-
+\setlength{\fboxrule}{1pt}
 %%%%%%%%%%% prevent overfull boxes in table of contents %%%%%%%%
 \makeatletter
 %make 3 digit page numbers aligned in TOC
@@ -442,7 +442,7 @@ status open
 \backslash
 L{
 \backslash
-Ovalbox{
+fbox{
 \end_layout
 
 \end_inset
@@ -621,10 +621,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/reading.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -686,10 +712,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/trips.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -997,10 +1049,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/Itai.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -1079,10 +1157,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/efrat.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -1139,10 +1243,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/wedding.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -1501,10 +1631,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/australia_diary.eps
 	display false
 	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -1894,10 +2050,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/pelico.eps
 	display false
 	width 9cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -1966,10 +2148,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/shefi.eps
 	display false
 	width 9cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -2371,14 +2579,40 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/rachel.eps
 	display false
 	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -2508,6 +2742,67 @@ status open
  המים היו מתחממים ובינתיים היינו יושבים על הרצפה ליד התנור, פותחים את דלת
  הברזל שלו ומתבוננים בהתלקחות חומר הבעירה שהיה מרהיב ביופיו וגם הפיץ ריח
  אורנים שהתפשט בחלל הבית.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/rivka_moshe.eps
+	display false
+	width 9cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+רבקה ומשה --- הוריי סבתא רחל
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2703,6 +2998,67 @@ status open
  והעלאת זיכרונות וספורים מרגשים.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/rachel_shavuot.eps
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבתא רחל בחג שבועות
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 המשפחה המורחבת
 \end_layout
@@ -2783,6 +3139,67 @@ status open
 אחים: גבעונה שגב ז"ל, רבקה לוי
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/leybush.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבא לייבוש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 ראיון עם סבא לייבוש
 \end_layout
@@ -2810,7 +3227,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-אני נולדתי בקפריסין בתקופה שאבי עבד שם בשליחות של מפעל בארץ בתחום של פרדסנותץ
+נולדתי בקפריסין בתקופה שאבי עבד שם בשליחות של מפעל בארץ בתחום הפרדסנות.
  משפחתי שהתה בקפריסין כארבע שנים, ובתקופה זו אני נולדתי.
 \end_layout
 
@@ -3026,45 +3443,6 @@ status open
  
 \end_layout
 
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename images/leybush.eps
-	display false
-	width 12cm
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption
-
-\begin_layout Plain Layout
-סבא לייבוש
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsubsection
 מי הדמות שהשפיעה עליך יותר מכול?
 \end_layout
@@ -3105,7 +3483,67 @@ status open
  אחר, לאחר ששותפה מעל בשותפות ביניהם, היא עבדה במזנון של תנובה והאכילה לקוחות
  קבועים באוכל צמחוני.
  אני אזכור תמיד את מסירותה לילדיה, את אומץ ליבה ואת תושיותה.
- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/tova_natan.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+טובה ונתן --- הוריי סבא לייבוש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -3301,10 +3739,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/nahal_oz_paper.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -5621,6 +6085,67 @@ Bejar
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/pnina_simcha.eps
+	display false
+	width 10cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+שמחה ופנינה עם פנחס התינוק
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 דודה שושנה מספרת: "הדמות שהשפיעה עליי בילדותי יותר מכל הייתה אבי.
  בילדותי לא ידעתי לבטא את האות ש', והייתי מבטאת אותה כמו "סין".
  אבי ישב איתי בסבלנות רבה ולימד אותי להגות את האות נכון.
@@ -5673,6 +6198,67 @@ Bejar
 הוא היה מסור למשפחתו, מלא בשמחת חיים, עוזר לכולם, צנוע, עבד קשה ועזר להוריו
  להתפרנס, וחלומו היה לחיות בקיבוץ.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/pinchas.eps
+	display false
+	width 10cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+פנחס לודבינובסקי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
@@ -5847,7 +6433,7 @@ Bejar
 
 \begin_layout Standard
 הולכים בלילה למחנות הבריטים, זורקים אבנים על הפנסים שבמחנה עד שהם כבים ונהיה
- חושך
+ חושך.
 \end_layout
 
 \begin_layout Section
@@ -6119,10 +6705,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/recipes/afio.eps
 	display false
 	width 10cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -6159,10 +6771,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/recipes/albondigas.eps
 	display false
 	width 10cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -6203,10 +6841,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/recipes/eggplant.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -6247,10 +6911,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/recipes/fish.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
@@ -6291,10 +6981,36 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename images/recipes/enigma.eps
 	display false
 	width 12cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
 
 \end_inset
 
