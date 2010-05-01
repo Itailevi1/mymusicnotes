@@ -41,6 +41,15 @@
 \paperfontsize 11
 \spacing double
 \use_hyperref false
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle false
 \papersize a4paper
 \use_geometry false
 \use_amsmath 1
@@ -147,6 +156,67 @@ LatexCommand tableofcontents
 
 \begin_layout Chapter
 תעודת זהות
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/eli.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אני
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -451,7 +521,7 @@ fbox{
 \begin_inset Graphics
 	filename images/childhood.eps
 	display false
-	width 12cm
+	width 10cm
 
 \end_inset
 
@@ -515,6 +585,67 @@ status open
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/cello.jpg
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אני ומורתי לובה
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 האהבה שלי לצ'לו קשורה גם לדמותה של לובה.
  לובה היא מורה מאין כמוה.
  במהלך השנים נקשרתי אליה מאוד, והיא הפכה עבורי ליותר ממורה לצ'לו – לחלק
@@ -561,6 +692,67 @@ status open
 התחלתי לשחק כדורעף לפני כשנתיים וחצי, כשהייתי בכיתה ד'.
  בשנה זו רציתי למצוא לעצמי ענף ספורט לעסוק בו.
  הרבה ילדים בכיתתי המליצו לי על ענף ספורט זה, והחלטתי לנסות וללכת לאימונים.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/volleyball.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+כדורעף
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -639,7 +831,7 @@ fbox{
 \begin_inset Graphics
 	filename images/reading.eps
 	display false
-	width 12cm
+	width 6cm
 
 \end_inset
 
@@ -708,7 +900,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -730,7 +922,7 @@ fbox{
 \begin_inset Graphics
 	filename images/trips.eps
 	display false
-	width 12cm
+	width 6cm
 
 \end_inset
 
@@ -798,6 +990,68 @@ status open
 , בכפר סבא, בדירה בקומת קרקע.
  מבחוץ הוא נראה כמו בית ככל הבתים האחרים, ואין לו ייחוד מסוים, אך בשבילי
  הוא מאוד מיוחד, כי הוא הבית שלי.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/home.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+הבית שלי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -898,7 +1152,62 @@ status open
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/room.jpg
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+החדר שלי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -1067,7 +1376,7 @@ fbox{
 \begin_inset Graphics
 	filename images/Itai.eps
 	display false
-	width 12cm
+	width 10cm
 
 \end_inset
 
@@ -1175,7 +1484,7 @@ fbox{
 \begin_inset Graphics
 	filename images/efrat.eps
 	display false
-	width 12cm
+	width 10cm
 
 \end_inset
 
@@ -1239,7 +1548,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1261,7 +1570,7 @@ fbox{
 \begin_inset Graphics
 	filename images/wedding.eps
 	display false
-	width 12cm
+	width 10cm
 
 \end_inset
 
@@ -1434,6 +1743,67 @@ status open
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/abotigins.jpg
+	display false
+	width 10cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אבוריג'ינים
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 הידע הרחב הזה, שהוא, כאמור, ידע בעל-פה, נקרא 'זמן-חלום', והוא לא רק ידע,
  אלא גם חוק, גם דת, גם צדק מוסרי וגם השרדות כלכלית.
  הוא שמור בסיפורי הבריאה האבוריג'ינים, אשר נתפסים כמצויים בנוף עצמו, ואשר
@@ -1543,6 +1913,67 @@ status open
  קנגרו, צב ארוך צוואר, דמפר )לחם שמכינים בתוך מדורה שמכוסה בחול ואבנים(.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/rhodny.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+רודני ואני
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 נופים
 \begin_inset space ~
@@ -1551,6 +1982,67 @@ status open
 מרהיבים: מפלים, יערות גשם, יערות מונסון, נהרות תנינים, הרים )במיוחד אולורו,
  שזו האבן הגדולה ביותר בעולם(, מדבריות אדומים, שטחים אדירים עם קנגרואים,
  אמואים וולאבים.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/pebbels.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אבני השטן
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -1579,13 +2071,74 @@ status open
 \color inherit
 30,000
 \numeric off
- שנים(, וראינו ציורים מרהיבים של דמויות בריאה מ"זמן חלום" כנו נמראגון איש
+ שנים(, וראינו ציורים מרהיבים של דמויות בריאה מ"זמן חלום" כמו נמראגון איש
  הברק, נחש הקשת בענן, זחלים, דגים, צבים ועוד.
  אני אהבתי מאוד את ציורי הקיר והייתי יושב מולם עם מחברת ומעתיק אותם.
  יום אחד, לקראת סוף הטיול, כשרציתי לדבר עם אבוריג'יני, ולא ידעתי כיצד, ציירתי
  לו על האדמה את הסימנים האבוריג'ינים לקנגרו, אמואים וקזוארי, והוא התלהב
  מאוד והתפעל מחוכמתי.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/rock_paintings.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+ציורי קיר
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -1627,7 +2180,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1649,7 +2202,7 @@ fbox{
 \begin_inset Graphics
 	filename images/australia_diary.eps
 	display false
-	width 8cm
+	width 6cm
 
 \end_inset
 
@@ -1756,15 +2309,70 @@ status open
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+את רות החלטתי לראיין לעבודתי ולשאול אותה על עצמה.
+ זהו הראיון האהוב עלי ביותר:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/ruth.JPG
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-את רות החלטתי לראיין לעבודתי ולשאול אותה על עצמה.
- זהו הראיון האהוב עלי ביותר:
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+רות ואני
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -1990,6 +2598,68 @@ status open
 \end_layout
 
 \begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/pelico.eps
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+פליקו
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 מקרה אחד עצוב זכור לכולנו.
  פעם אחת, אחרי טיול בחוף הים ביפו, רצינו לחזור הביתה ולא שמנו לב שפליקו
  לא נכנסה למכונית.
@@ -2041,72 +2711,6 @@ status open
  
 \end_layout
 
-\begin_layout Standard
-\align center
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-L{
-\backslash
-fbox{
-\end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename images/pelico.eps
-	display false
-	width 9cm
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption
-
-\begin_layout Plain Layout
-פליקו
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 שפי
 \end_layout
@@ -2126,25 +2730,11 @@ status open
 \end_layout
 
 \begin_layout Standard
-שפי הפך בכפר סבא למלך השכונה.
- הוא מהלך לו שליו ובטוח, ונותן לכל אחד ללטף אותו.
- הוא גם מזמין חתולים אחרים, פצועים או רעבים, לבוא ולאכול מהאוכל שלו, ומארח
- אותם על חלונו.
- לכן אנו מכנים אותו "הצדיק".
-\end_layout
-
-\begin_layout Standard
-בשנים שבהן פליקו היתה בבית, שפי קצת שמר מרחק, וחי יותר בחוץ או על השולחנות.
- לאחרונה, שפי מצא לעצמו חברה חדשה, קטנה, לבנה וחמודה- את החברה ליסה.
- 
-\end_layout
-
-\begin_layout Standard
 \align center
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -2166,7 +2756,7 @@ fbox{
 \begin_inset Graphics
 	filename images/shefi.eps
 	display false
-	width 9cm
+	width 6cm
 
 \end_inset
 
@@ -2196,13 +2786,23 @@ status open
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+שפי הפך בכפר סבא למלך השכונה.
+ הוא מהלך לו שליו ובטוח, ונותן לכל אחד ללטף אותו.
+ הוא גם מזמין חתולים אחרים, פצועים או רעבים, לבוא ולאכול מהאוכל שלו, ומארח
+ אותם על חלונו.
+ לכן אנו מכנים אותו "הצדיק".
+\end_layout
+
+\begin_layout Standard
+בשנים שבהן פליקו היתה בבית, שפי קצת שמר מרחק, וחי יותר בחוץ או על השולחנות.
+ לאחרונה, שפי מצא לעצמו חברה חדשה, קטנה, לבנה וחמודה- את החברה ליסה.
+ 
 \end_layout
 
 \begin_layout Section
@@ -2222,6 +2822,68 @@ status open
  אמא הרימה אותה בידינו ונסענו הביתה.
  בבית רחצנו אותה, האכלנו אותה, ונתנו לה את השם ליסה.
  
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/lisa_and_shefi.jpg
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+ליסה ושפי
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2601,7 +3263,7 @@ fbox{
 \begin_inset Graphics
 	filename images/rachel.eps
 	display false
-	width 8cm
+	width 6cm
 
 \end_inset
 
@@ -2748,7 +3410,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -3088,6 +3750,67 @@ status open
 פרטים אישיים
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/leibush1.jpg
+	display false
+	width 6cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבא לייבוש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 שם: אברהם לוי
 \end_layout
@@ -3137,67 +3860,6 @@ status open
 
 \begin_layout Description
 אחים: גבעונה שגב ז"ל, רבקה לוי
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\align center
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-L{
-\backslash
-fbox{
-\end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename images/leybush.eps
-	display false
-	width 12cm
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption
-
-\begin_layout Plain Layout
-סבא לייבוש
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Section
@@ -3318,6 +3980,67 @@ status open
  בכל שנות נעורי הייתי בתנועת הנוער "התנועה המאוחדת", ואך טבעי היה שאתגייס
  לצבא במסגרת גרעין נחל.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/leybush.eps
+	display false
+	width 9cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+סבא לייבוש
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -5598,7 +6321,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pnina_and_eli.eps
 	display false
-	width 8cm
+	width 6cm
 
 \end_inset
 
@@ -6029,7 +6752,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pnina_and_simcha_1933.eps
 	display false
-	width 7cm
+	width 6cm
 
 \end_inset
 
@@ -6175,7 +6898,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -6412,7 +7135,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -6434,7 +7157,7 @@ fbox{
 \begin_inset Graphics
 	filename images/yaakov_hana.eps
 	display false
-	width 9cm
+	width 6cm
 
 \end_inset
 
@@ -6538,7 +7261,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -7920,6 +8643,130 @@ status open
  אך למרות שסיימתי עבודה זו, אני עדיין בטוח שככל שאגדל, יתבררו לי עוד ועוד
  פרטים מעניינים נוספים על משפחתי, שאותם אשמור ואזכור לעד, כיוון שמדובר באנשים
  שאני אוהב, שיקרים לי ושאני קשור אליהם מאוד.
+\end_layout
+
+\begin_layout Part
+נספחים
+\end_layout
+
+\begin_layout Chapter
+הספר "עליקו ופליקו"
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico1.eps
+	display false
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico2.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico3.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico4.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico5.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/elico_pelico6.eps
+	display false
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+דפי מידע על גטו פינסק
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/pinsk1.jpg
+	display false
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/pinsk2.jpg
+	display false
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+דוגמה לדף עדות מיד-ושם
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/page_of_testimony.jpg
+	display false
+	width 10cm
+
+\end_inset
+
+
 \end_layout
 
 \end_body
