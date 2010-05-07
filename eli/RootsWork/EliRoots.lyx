@@ -38,8 +38,8 @@
 
 \graphics default
 \float_placement !h
-\paperfontsize 11
-\spacing double
+\paperfontsize 10
+\spacing onehalf
 \use_hyperref false
 \pdf_bookmarks false
 \pdf_bookmarksnumbered false
@@ -184,7 +184,7 @@ fbox{
 \begin_inset Graphics
 	filename images/eli.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -499,7 +499,7 @@ status open
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -519,9 +519,9 @@ fbox{
 
 
 \begin_inset Graphics
-	filename images/childhood.eps
+	filename images/childhood.jpg
 	display false
-	width 10cm
+	width 12cm
 
 \end_inset
 
@@ -610,7 +610,7 @@ fbox{
 \begin_inset Graphics
 	filename images/cello.jpg
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -720,7 +720,7 @@ fbox{
 \begin_inset Graphics
 	filename images/volleyball.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -831,7 +831,7 @@ fbox{
 \begin_inset Graphics
 	filename images/reading.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -922,7 +922,7 @@ fbox{
 \begin_inset Graphics
 	filename images/trips.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -1019,7 +1019,7 @@ fbox{
 \begin_inset Graphics
 	filename images/home.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -1178,7 +1178,7 @@ fbox{
 \begin_inset Graphics
 	filename images/room.jpg
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -1939,7 +1939,7 @@ fbox{
 \begin_inset Graphics
 	filename images/rhodny.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2010,7 +2010,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pebbels.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2106,7 +2106,7 @@ fbox{
 \begin_inset Graphics
 	filename images/rock_paintings.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2202,7 +2202,7 @@ fbox{
 \begin_inset Graphics
 	filename images/australia_diary.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2340,7 +2340,7 @@ fbox{
 \begin_inset Graphics
 	filename images/ruth.JPG
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2624,7 +2624,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pelico.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2756,7 +2756,7 @@ fbox{
 \begin_inset Graphics
 	filename images/shefi.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -2851,7 +2851,7 @@ fbox{
 \begin_inset Graphics
 	filename images/lisa_and_shefi.jpg
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -3263,7 +3263,7 @@ fbox{
 \begin_inset Graphics
 	filename images/rachel.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -3686,7 +3686,7 @@ fbox{
 \begin_inset Graphics
 	filename images/rachel_shavuot.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -3776,7 +3776,7 @@ fbox{
 \begin_inset Graphics
 	filename images/leibush1.jpg
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -4234,7 +4234,7 @@ fbox{
 \begin_inset Graphics
 	filename images/tova_natan.eps
 	display false
-	width 8cm
+	width 10cm
 
 \end_inset
 
@@ -4869,7 +4869,7 @@ fbox{
 \begin_inset Graphics
 	filename images/uri_and_eli.jpg
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -5343,7 +5343,7 @@ fbox{
 \begin_inset Graphics
 	filename images/roha.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -5845,7 +5845,7 @@ fbox{
 \begin_inset Graphics
 	filename images/shoshke.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -6102,7 +6102,7 @@ fbox{
 \begin_inset Graphics
 	filename images/shoshke_and_pnina.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -6321,7 +6321,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pnina_and_eli.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -6752,7 +6752,7 @@ fbox{
 \begin_inset Graphics
 	filename images/pnina_and_simcha_1933.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -7157,7 +7157,7 @@ fbox{
 \begin_inset Graphics
 	filename images/yaakov_hana.eps
 	display false
-	width 6cm
+	width 8cm
 
 \end_inset
 
@@ -7379,6 +7379,2886 @@ status open
  חומר הסטורי, ראיונות עם אחיה הבוגרים, וסידור כל הפרטים הידועים לה עד כה,
  היא תצליח לראשונה לספר בשלמותו את סיפור החיים שלה, שהוא הסיפור של משפחתה.
  את עבודת מחקר זו אציג כאן.
+\end_layout
+
+\begin_layout Chapter
+הבריחה הגדולה מצרפת --- סיפור מסעה של משפחת קולודני במלחמת העולם השנייה,
+\family roman
+\series bold
+\shape up
+\size huge
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940--1946
+\end_layout
+
+\begin_layout Standard
+סיפרה: רחל ליבנה-קולודני
+\end_layout
+
+\begin_layout Section
+הקדמה
+\end_layout
+
+\begin_layout Standard
+התוודעתי לראשונה לקורות משפחתי במלחמת העולם השניה כאשר הגיעו ילדיי הגדולים
+ לגיל מצוות.
+ במסגרת שנת בר-המצווה בקיבוץ נחל-עוז הם עסקו בחקר "שורשים" ותולדות המשפחה.
+ אפרת, הבכורה, ואחיה גיל וחן, הצליחו לראיין את אימי, חנה קולודני, וזכו לשמוע
+ ממנה את סיפור המשפחה, נדודיה, גורלה והצלתה בשואה.
+ כך למדתי מהם אף אני, וכמוני --- בנותיי הצעירות יערה והדר.
+ 
+\end_layout
+
+\begin_layout Standard
+בילדותי נמנעו הוריי יעקב וחנה קולודני מלספר את תולדותיהם בשנים אלו.
+ אף אחי הבוגרים ממני, אמיל וז'וז'ו, לא סיפרו את הקורות אותם.
+ לכן, רק לפני כשלושים שנה, נודעו לי קטעי סיפורים, חוויות ואירועים, שעברה
+ המשפחה.
+ אלו של אבי ואימי, ואלו של אחי.
+ 
+\end_layout
+
+\begin_layout Standard
+באחד מביקוריו בארץ, נאות אחי הבכור, אמיל, לספר לי, ביתר הרחבה, פרקים ממסעם
+ ברחבי צרפת הכבושה, שלו ושל אחיו הצעיר ז'וז'ו.
+ שני ילדים צעירים, בני שמונה וארבע, שנדדו במשך כשלוש שנים בצרפת, חלק ניכר
+ מהזמן --- ללא הורים, כשהם אינם יודעים מה ילד יום.
+ שלוש שנים נוספות שהתה המשפחה בז'נבה )שוויץ(.
+ את שנותיי הראשונות עשיתי בז'נבה, כך שלא זכור לי דבר.
+ זמן קצר לאחר מכן עלתה המשפחה לארץ.
+ הדחף לדעת, לספר ולתעד את קורות המשפחה נולד בזכות נכדי, עלי, שבקש אף הוא
+ לכתוב עבודת "שורשים" ולעמוד על הקורות את המשפחה בזמן מלחמת העולם השנייה.
+ ניסיתי לאסוף את המידע האפשרי --- מסמכים משפחתיים, שנותרו בידי אחי, קטעי
+ מכתבים, עיתונות ופרסומים רשמיים של ארגונים יהודיים )האוז"ה( ובעיקר ---
+ עדויות אישיות --- של אימי, חנה קולודני, ושל אחי --- ירחמיאל )אמיל( ויוסף
+ )ז'וז'ו( קולודני.
+\end_layout
+
+\begin_layout Standard
+הגורל, המזל, ועימם תושייה, קור רוח ואומץ לב; אנשים טובים שזומנו להם בדרכם,
+ תמיכת ארגונים יהודיים שליוותה אותם --- אלו חברו יחד ולקחו חלק בסיפור המרתק
+ הזה.
+ פעמים הוא נתפס בעיני כבלתי אפשרי, אך כאלו היו פני הדברים.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+רחל )רוחה( ליבנה
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+אפריל 
+\numeric on
+2010
+\numeric off
+, ניסן תש"ע
+\end_layout
+
+\begin_layout Section
+רקע היסטורי --- צרפת במלחמה
+\end_layout
+
+\begin_layout Standard
+צרפת הפכה לארץ ההגירה הראשונה באירופה בשנות העשרים והשלושים של המאה ה-
+\numeric on
+20
+\numeric off
+, עקב רעיונות החופש שלה.
+ רוב המהגרים לא הצליחו להפוך לאזרחים צרפתים ורובם היו בעלי אזרחות זרה ונחשבו
+ "זרים".
+ חלקם הגדול התגורר בפאריס הבירה והשתלב בעיסוקים שונים, בעיקר בתחום המקצועות
+ החופשיים.
+ 
+\end_layout
+
+\begin_layout Standard
+החל מספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1938
+\numeric off
+, תחילת מלחמת העולם השנייה, היהודים שחיו בצרפת נחלקו לשתי קבוצות: ליהודים
+ המקומיים, הצרפתים בעלי אזרחות צרפתית, וליהודים שהגיעו כפליטים, כסטודנטים
+ ממזרח אירופה --- פולין, רוסיה וגרמניה.
+ חלקם הגיעו לצרפת בשנות ה-
+\numeric on
+20
+\numeric off
+, וחלקם הגיעו ערב מלחמת העולם השנייה, כתוצאה מהאנטישמיות והחוקים נגד היהודים.
+ יהודי צרפת "הוותיקים" האמינו, כי הפעולה האנטי יהודית מכוונת כלפי היהודים
+ הזרים בלבד, ופעמים רבות התעלמו מבעיות הפליטים היהודיים, שהיוו את הרוב.
+ רק בקיץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+, התברר לכל, שמדיניות הנאצים ו"ממשלת וישי" לא ראתה הבדל בין יהודי ליהודי.
+ 
+\end_layout
+
+\begin_layout Standard
+המתקפה הגרמנית על צרפת החלה ב-
+\numeric on
+10
+\numeric off
+ במאי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+.
+ תוך חודש הצבא הצרפתי התמוטט בפני הגייסות הגרמניים, וב-
+\numeric on
+10
+\numeric off
+ ביוני עמד האויב בשערי פאריס.
+ נפילת הבירה הביאה לכניעתה של צרפת ולשביתת נשק.
+ בהתאם לתנאים שנחתמו ב-
+\numeric on
+22
+\numeric off
+ ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+, צרפת חולקה לשני אזורים: האזור הצפוני, שהיה תחת שליטה צבאית ישירה של הגרמנים,
+ ואשר גבולו עבר בקו בורדו-ז'נבה )שוויץ(, והאזור הדרומי, הנקרא על שם בירתו
+ וישי )
+\lang english
+Vichy
+\lang hebrew
+(, בו נשמרה מראית עין של שלטון צרפתי, תחת המושל פיליפ פטן, אשר כונן ממשלה
+ חדשה בראשותו.
+ האזור כונה "האזור החופשי" בראשות "ממשלת וישי".
+ 
+\end_layout
+
+\begin_layout Standard
+צרפת הייתה שרויה בהלם מוחלט לנוכח התבוסה המהירה של צבאה.
+ פרט לקומץ קטן, בראשות שארל דה-גול, אשר קרא להתנגדות מלונדון ב-
+\numeric on
+18
+\numeric off
+ ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ והיה לראש ממשלה גולה, ראו הצרפתים את ההתנגדות כבלתי מעשית.
+ זאת, נוכח עוצמתו המופגנת של הצבא הגרמני, אשר שלט על חלקים ניכרים מאירופה
+ )אוסטריה, צ'כוסלובקיה, פולין, הולנד, בלגיה(.
+ רוב הצרפתים התייחסו להתנגדות כמעשה שיש בו הפרת מרותו של המרשל פטן, שייצג
+ את "צרפת החופשית", אך למעשה קרא לשיתוף פעולה עם הגרמנים למען שיקומה של
+ צרפת.
+\end_layout
+
+\begin_layout Standard
+עוד בראשית יוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+, כשהתבררו כישלונות הצבא הצרפתי במערכה, התרחשה בריחה המונית מאזור פאריס
+ דרומה, של יהודים ולא יהודים, באמצעות כלי רכב, עגלות, וברכבות, כדי להגיע
+ לאזורים בטוחים יותר.
+ זוהי "הבריחה הגדולה".
+ מעריכים שכשני שליש מתושבי פאריס נמלטו מהעיר.
+ רבים מהיהודים בחרו להישאר בדרום "החופשי" כביכול, לאחר כיבוש החלק הצפוני
+ של צרפת בידי הגרמנים.
+ באזור זה שלטה ממשלה צרפתית, ללא נוכחות גרמנית, אבל כזו שאימצה את המדיניות
+ הגרמנית הנאצית: היא זו שפרסמה את "חוק היהודים" ב-
+\numeric on
+3
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בנובמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+.
+ נוצרה אוירה אנטי-יהודית.
+ החוקים שפורסמו הגבילו את תנועת היהודים ממקום למקום, נישלו אותם מעיסוקיהם
+ וממעורבותם בחברה הצרפתית.
+ הם נאלצו לשאת תעודות זיהוי, בהם מוטבעת המילה יהודי )
+\lang english
+Juif
+\lang hebrew
+(, הוכרחו להירשם בתחנות המשטרה ולדווח על כל תנועה.
+ חל עליהם איסור לעסוק במקצועות חופשיים.
+ פעמים היו אלה השוטרים הצרפתים, שהסגירו את היהודים לידי הגרמנים והביאו למעצרם
+ ומאסרם במחנות הסגר, אשר הוקמו ברחבי הדרום )כ-
+\numeric on
+26
+\numeric off
+ מחנות( וחיו שם בתנאים קשים מאוד.
+ חשוב לציין, שהיו גם שוטרים צרפתיים, אזרחים מקומיים ואנשי דת נוצריים שעזרו
+ ושידלו יהודים לברוח ממקום מגוריהם לאזורים בטוחים יותר.
+ רבים אף עזרו להסתיר בבתיהם ובמנזרים בעיקר ילדים.
+ 
+\end_layout
+
+\begin_layout Standard
+היהודים שנמלטו "לאזור החופשי" התיישבו בכפרים קטנים, בערים קטנות ובריכוזי
+ היהודים בערים הגדולות כמו ניס, טולוז, ליון ומונפלייה.
+ רובם חיו בתנאים קשים, ומספרם הלך וגדל בכל מקום.
+ חלקם אף הפכו למרכזי התיישבות יהודית.
+ אחרי "הבריחה הגדולה" בקיץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ נערכו מפקדים באוכלוסיה היהודית, והיו מקומות שמספר היהודים בהם גדל פי שלושה
+ )מונפלייה(.
+ במקומות נידחים, באזורים הרריים, שהיו בהם בעיקר כפרים קטנים, מספר היהודים
+ היה קטן יותר )מחוז כרז --- התחנה הראשונה של משפחת קולודני(.
+ רוב הפליטים ו"הזרים" נאסרו במחנות המעצר וההסגר בדרום החופשי.
+ רובם היו מנמלטי "הבריחה הגדולה".
+ 
+\end_layout
+
+\begin_layout Standard
+באזור הצפוני החריפו הגרמנים את הרדיפות במאי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1941
+\numeric off
+.
+ התקיימו מאסרים המוניים ויהודים רבים נשלחו למחנות הריכוז דרנסי וקומפיין
+ )מצפון לפאריס(.
+ לאחר ועידת ואנזה, בה הוחלט על מדיניות "הפתרון הסופי" להשמדת היהודים )ינואר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+(, החלו הגרמנים בביצוע ההחלטה, וכבר במרץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+ יצא משלוח יהודים ראשון מדרנסי למחנה ההשמדה אושוויץ.
+ בסוף אוגוסט
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+ התקיימו מעצרים המוניים גם באזור הדרומי, ומשם נשלחו כ-
+\numeric on
+42,000
+\numeric off
+ יהודים לאושוויץ, כאשר לפני כן הם שהו במחנות הריכוז דרנסי, פיטיליה, קמפין
+ ובו דה-רולנד.
+ 
+\end_layout
+
+\begin_layout Standard
+לאור המצב נערכו הקהילות היהודיות לעזרה והצלה.
+ הוקמו ארגונים נוספים לאילו שהיו קיימים כבר.
+ שני ארגונים גדולים נערכו לפעולה כבר בתחילת הכיבוש.
+ תחילה הם העבירו את מרכזי הפעילות ל"אזור החופשי".
+ הראשון שבהם היה ארגון ה"קאר" --- ועד העזרה לפליטים )
+\lang english
+CAAR - Comité d'aide aux réfugiés
+\lang hebrew
+(, הארגון השני --- "הפדרציה של ארגון הקהילות היהודיות", שבראשה עמד מרק ירבלום
+ )חברו הקרוב של יעקב קולודני(.
+ ארגונים אלה נתמכו על ידי ארגונים יהודיים עולמיים כמו "הג'וינט" --- הוועד
+ היהודי אמריקאי המאוחד לסיוע )נוסד ב-
+\numeric on
+1914
+\numeric off
+ בתחילת מלחמת העולם הראשונה(.
+ זהו ארגון צדקה יהודי שנועד לסייע ליהודים באשר הם, ובעיקר פעל להצלתם תחת
+ איום ומלחמה.
+ הוא סייע בבריחה מאירופה ובהכנת מקומות מסתור ומחבוא.
+ הארגונים פעלו לעזרת הפליטים בכל התחומים --- רישיונות מעבר, מתן כספים, מידע
+ על מקומות מסתור ואפשרויות תנועה באזורים הכבושים.
+ 
+\end_layout
+
+\begin_layout Standard
+סבלו מכל בתקופה זו היו הילדים שהוריהם מתו, נאסרו, או נאלצו לברוח ממקום למקום.
+ ארגון חשוב שעסק בהצלת הילדים בצרפת היה "האוזה" --- 
+\lang english
+OSE
+\lang hebrew
+ --- "ארגון הסעד לילדים".
+ מטרתו הייתה להציל את הילדים שנאסרו עם הוריהם והובאו לתחנות המעצר והריכוז,
+ וכן לטפל בילדים היתומים ואלו שהוריהם נאלצו להשאירם במקום בטוח ונמלטו, בחפשם
+ אחר מקום מסתור.
+ באביב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1941
+\numeric off
+ היו קיימים שבעה בתי ילדים שהוקמו על ידי ה"אוזה".
+ כבר ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ הוקמו שלושת בתי הילדים הראשונים ב"דרום החופשי", חלקם בטירות ישנות ובמבנים
+ שנשכרו לצורך זה על ידי הארגון.
+ ה"אוזה" הציל אלפי ילדים, דאג למחסורם ולחינוכם.
+ כאשר גברה הסכנה, דאג לפיזורם של הילדים בבתי כפריים צרפתיים נוצריים ובמנזרים
+ שהיו מוכנים לעזור.
+ מנהלי בתי ילדים )ביניהם פליקס שבריאה בשבאן( מורים ומחנכים צרפתיים, שפעלו
+ ב"אוזה", זכו בחלקם להימנות בין חסידי אומות העולם --- אנשים שבטוב ליבם,
+ אומץ וקור רוח עזרו לילדים בתקופה קשה.
+ הם הצילו אלפי ילדים )ביניהם אמיל וז'וז'ו קולודני( וזכו להוקרה מטעם "יד
+ ושם" ומדינת ישראל.
+ 
+\end_layout
+
+\begin_layout Section
+נדודי משפחת קולודני --- תחנות במסע הבריחה.
+ פאריס-ז'נבה-ארץ ישראל
+\end_layout
+
+\begin_layout Subsection
+"הבריחה הגדולה" --- היציאה מפאריס ביוני
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\end_layout
+
+\begin_layout Standard
+יעקב וחנה קולודני הגיעו לצרפת לפני מלחמת העולם השנייה.
+ יעקב הגיע לפאריס ב-
+\numeric on
+1926
+\numeric off
+ מהורודץ, כפר קטן במחוז וולין שבאוקראינה, אז בשטחה של פולין.
+ הוא היה בן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+24
+\numeric off
+, ומכיוון שהיה מועמד לגיוס לצבא הפולני, בחר לצאת לברלין ולהמשיך לפאריס ללימודים
+ גבוהים באוניברסיטת סורבון הידועה.
+ הוא למד שפות שמיות עתיקות )בבלית, אשורית(, גיאולוגיה וביולוגיה.
+ יחד עם לימודיו הוא היה פעיל בקהילה היהודית בפאריס, לימד עברית וניהל את
+ הספרייה המרכזית של "הפדרציה של החברות היהודיות בצרפת", והיה רכז העבודה
+ התרבותית שלה )עד אוקטובר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+(.
+\end_layout
+
+\begin_layout Standard
+חנה, לבית בכר, הגיעה מפלובדיב, בולגריה, ב-
+\numeric on
+1928
+\numeric off
+.
+ היא הייתה כבת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+26
+\numeric off
+, ומורה למקצועות המתמטיקה ופיסיקה בכיתות חטיבת הביניים.
+ היא למדה אמנות בסורבון והייתה לציירת.
+ אף היא הייתה פעילה בקהילה היהודית בפאריס, עבדה במוסד ילדים "פטרונז'", שהוקם
+ ונוהל על ידי הברונית גינצבורג בחסות הברונית דה-רוטשילד.
+ הם חיו בפאריס ברובע ה-
+\numeric on
+19
+\numeric off
+, רובע בלוויל, ברחוב אטלס מספר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+19
+\numeric off
+, שבו התגוררו בעיקר יהודים מפולין ומרוסיה.
+ ביניהם רבים היו סטודנטים ופעילי תנועות ציוניות, כמו "החלוץ", תנועה שבה
+ יעקב קולודני היה אחד הפעילים.
+ היו להם שני בנים: אמיל )ירחמיאל( אז כבן שמונה וחצי, וז'וז'ו )יוסף שמעון(,
+ אז כבן ארבע וחצי.
+ המלחמה בצרפת החלה במאי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+, כאשר הגרמנים ניצבו בשערי פאריס הבירה כבר ב-
+\numeric on
+10
+\numeric off
+ ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+.
+\end_layout
+
+\begin_layout Standard
+באביב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ )מאי( גויס יעקב לצבא הפולני שהוקם בצרפת, כיוון שהיה אזרח פולני.
+ הוא נשלח לאזור ברטיין לעיר קיברון, שם התארגנו והתאמנו החיילים.
+ ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ הועברו החיילים מבורדו לאנגליה באניות.
+ בבית בפאריס, חנה ובניה אמיל וז'וז'ו, נהגו להקשיב לרדיו, בו הודיעו על פלישות
+ הגרמנים ללוקסנבורג, בלגיה והולנד.
+ ז'וז'ו בן הארבע וחצי שאל בדאגה "ואם גם האמריקאים יצטרפו למלחמה?".
+ אמיל זוכר שנהג ללכת לבית הספר שבתיקו הייתה מונחת מסכת גז.
+ באמצעות המוסד בו עבדה חנה נודע לה כי הוקם בית ילדים בשבאן, באזור החופשי.
+ 
+\end_layout
+
+\begin_layout Standard
+עם גבור הסכנה, בשבוע הראשון של יוני, ימים ספורים לפני כניסת הגרמנים לפאריס,
+ עזבו חנה ובניה את ביתם ברחוב אטלס.
+ כיוון שאי אפשר היה לקחת חפצים רבים, האם ארזה מזוודה קטנה וכמה מצרכים בסיסיים
+ )נקניק וקילו סוכר(.
+ שלושתם פנו לעבר תחנת הרכבת בפאריס, תחנת אוסטרליץ )ע"ש קרב שניהל נאפוליון
+ ב-
+\numeric on
+1805
+\numeric off
+ כנגד רוסיה ואוסטריה(.
+ בתחנה היו אנשים רבים.
+ זו הייתה הרכבת האחרונה שיצאה מפאריס דרומה.
+ חנה חשבה שאין לה סיכוי להצליח ולעלות על הרכבת העמוסה בפליטים, יהודים ולא
+ יהודים, ולא ידעה מה לעשות.
+ אחד מעובדי הרכבת הגיע ושאל אותה: "גברת למה את מחכה?!" היא השיבה "לנס"...
+ הוא עזר לה ולקח אותה לקרון, בו היו חולים ופצועים.
+ התריסים הורדו והרכבת יצאה לכיוון אורליאן.
+ בדרך נראו פליטים רבים, חלקם במכוניות, חלקם --- על עגלות.
+ מטרתם הייתה בריחה לכיוון הגבול עם ספרד, דרך הרי הפירנאים.
+ פעמים הופגזה הרכבת על ידי מטוסים גרמניים ונוסעיה נאלצו לרדת ממנה ולהסתתר
+ בשולי המסילה, בין העצים, בשדות.
+ עם סיום ההפגזה עלו על הרכבת והמשיכו בדרכם.
+ היציאה הגדולה מפאריס וסביבתה לכיוון דרום מכונה "הבריחה הגדולה".
+\end_layout
+
+\begin_layout Subsection
+לה-סוטרן )
+\lang english
+La Souterraine
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+הרכבת הגיעה למרכז צרפת, עד לגבול שהפריד בין צרפת הכבושה לבין האזור החופשי,
+ שבו שלטה ממשלת וישי )ממשלה צרפתית תחת חסות הגרמנים(, ליד כפר ושמו לה-סוטרן
+ במחוז קרז )
+\lang english
+Creuses
+\lang hebrew
+(.
+ היה לילה, הורידו את הנוסעים, ביניהם חנה ושני בניה, והם נשארו משני צידי
+ המסילה עד הבוקר.
+ השלושה הגיעו בבוקר לכפר לה-סוטרן, ומשם נסעו באוטובוס לכפר שכן ששמו סנט
+ פייר דה פורסק )
+\lang english
+Saint Pierre de Fursac
+\lang hebrew
+(, אשר על הנהר גרטמפ.
+ הכפר היה חקלאי באופיו וגידלו בו פרות ברפתות, היו בו שדות מרעה ויערות.
+ באזור היו כפרים קטנים וכמעט שלא היו בו יהודים.
+ הכפר סנט פייר דה פורסק נקרא על שם האציל בעל האדמות, דה פורסק, שבנה את טירתו
+ שבאן בקרבת הכפר.
+ חנה פנתה לראש הכפר והוא עזר לה להשתכן בחנות עזובה.
+ היא תלתה סדין על חלון הראווה, ששימש כווילון, וריפדה את הרצפה בקש ששימש
+ כמיטות.
+ היא למדה לנסר עצים שישמשו לבישול --- אמיל זוכר שתמיד נפצעה באצבעותיה בזמן
+ הניסור.
+ בזמן שהותם בכפר זה, היו הילדים עדים למראות הצבא הצרפתי המובס, אשר נסוג
+ דרומה, לאזורים שלא נכבשו על ידי הגרמנים.
+ החיילים המובסים צעדו רגלית לצידי מכוניות צבאיות ואזרחיות של הנמלטים.
+ הם היו בדרכם לחצות גשר חשוב בניסיונם להגיע דרומה.
+ אמיל היה עד להתקפות מטוסי אויב איטלקיים, שצללו על השיירות הארוכות )איטליה
+ הצטרפה למלחמה לצד הגרמנים ביוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+(.
+ באחד המקרים איים עליו כלב זאב, שגרם לו להיצמד בפחד לאחד מקירות האבן ברחוב,
+ וכך היה נוכח להתקפה אוירית כזו )הוא היה כבן שמונה וחצי(.
+ זמן מה לאחר שהגיעו לכפר, הצטרף אליהם אבי המשפחה יעקב.
+ הצבא הפולני שאליו התגייס הגיע לעיר בורדו ומשם הועבר, דרך תעלת למאנש, לאנגליה,
+ כדי להצטרף ללוחמים באנגליה תחת פיקודו של הגנרל שארל דה-גול )לימים נשיא
+ צרפת(.
+ יעקב החליט להישאר בצרפת וחיפש את משפחתו, ולאחר ימים רבים של צעדה והליכה
+ הוא פגש אותם בכפר.
+ האזור שבו ישבו --- מחוז קרז והכפר סנט פייר דה-פורסק --- נכלל באזור של צרפת
+ החופשית, תחת שלטון וישי.
+ בשל פרסום חוק היהודים ב-
+\numeric on
+3
+\numeric off
+ באוקטובר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+, נדרשו היהודים להירשם במשטרות המקומיות.
+ היהודים הזרים, שלא היו אזרחים צרפתים, נאסרו והוכנסו למחנות מעצר והסגר ונמנעה
+ מהם תנועה חופשית ועיסוק במקצועות חופשיים.
+ בתעודות הזהות שלהם נתבע המונח "יהודי".
+ המשטרה הצרפתית ערכה רשימות של יהודים זרים וחיפשה אחריהם.
+ באחד הימים פגשה חנה שוטר צרפתי, שהייתה לו רשימה של יהודים.
+ הוא ביקש את עזרתה בקריאת השמות וזיהוים.
+ חנה הציצה ברשימה ולתדהמתה ראתה ששמה מופיע בראש הרשימה, יעקב נזכר שני ואחריו
+ --- בניהם אמיל וז'וז'ו.
+ היא פנתה מיד למזכירות הכפר וביקשה תעודות מעבר דרומה.
+ את שני הבנים השאירו בבית הילדים שבאן, שרק הוקם והיה מבין ראשוני בתי הילדים
+ שהקים ארגון "אוזה" )ארגון הסעד לילדים(.
+ חנה ויעקב עלו במהירות לרכבת, יצאו לטולוז ומשם לעיר הדרומית מונפלייה.
+ כנראה שיעקב וחנה נסעו לטולוז בניסיון לעבור את הגבול לספרד, אך לא הצליחו,
+ ולכן המשיכו בדרכם למונפלייה.
+\end_layout
+
+\begin_layout Subsection
+שבאן --- בית הילדים )
+\lang english
+Chabanne
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+הארגון היהודי-צרפתי אוז"ה, ארגון הסעד והרווחה לילדים, שכר טירה ישנה, שבאן,
+ שנבנתה על יד אציל האזור קונט דה-פורסק, לא רחוק מהכפר סנט פייר דה פורסק.
+ הארגון הקים בטירה בית ילדים ליהודים ולילדים זרים, שהגיעו כפליטים לאזור
+ מצרפת ומחוצה לה.
+ חלקם היו יתומים וחלקם הושארו על ידי הוריהם, בניסיונם למצוא מקום מגורים
+ חדש ופרנסה.
+ שבאן הוא בית הילדים מבין הראשונים שהוקמו על ידי אוז"ה בצרפת החופשית, כבר
+ ב-
+\numeric on
+1939
+\numeric off
+.
+ מנהל הבית היה פליקס שבריאה, ואיתו שתי מורות מקומיות.
+ אמיל וז'וז'ו, בניהם של חנה ויעקב קולודני, הוכנסו לשבאן, כאשר הוריהם נאלצו
+ לברוח דרומה לכיוון טולוז ומונפלייה.
+ הם נשארו בבית הילדים כשנה וחצי, מקיץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ ועד סוף שנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1941
+\numeric off
+.
+ הם נמנו על הקבוצה הראשונה שהגיעה לשבאן.
+ בכפר סנט פייר דה פורסק היה בית ספר יסודי ובו שתי כיתות ושני מורים.
+ הילדים מבית הילדים בגילאי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+6--12
+\numeric off
+ למדו בבית הספר של הכפר, המבוגרים יותר עבדו ואילו הצעירים, וביניהם ז'וז'ו,
+ שגילם נמוך משש, נשארו בבית הילדים וטופלו על ידי מדריכים.
+ אמיל, הבכור, למד באחת הכיתות בכפר.
+ מורתו הייתה גברת זילברשטיין, אימו של אנאטול, חברו הקרוב.
+ הוא מספר, כי במהרה החלו ילדי הכפר לקנא בילדי הפליטים מבית הילדים, משום
+ שהם הצליחו בלימודיהם וזכו לציונים גבוהים יותר מהם.
+ אמיל זוכר כי הוא ישב ליד בנו של איכר מהכפר, שהיה זקוק לעזרה בלימודים.
+ הוא הכין עבורו את שיעורי הבית, בעיקר בחשבון, ובתמורה קיבל פרוסה עבה של
+ לחם שחור.
+ כשטעה בחישוביו, דרש בן הכפר את לחמו בחזרה ושם אותו במדף השולחן שלו, וזאת
+ כשעיניו הרעבות של אמיל עוקבות אחר מעשהו...
+\end_layout
+
+\begin_layout Standard
+היה קר מאוד בחורף, מנת המזון הייתה קטנה, הלחם ניתן במשורה, ירקות ובשר היו
+ נדירים, כך שרוב הזמן הילדים נותרו רעבים.
+ לעיתים הם יצאו בקבוצות לשדות לחפש משהו לאכול: היו עוקרים גזר, צנונית, קוטפים
+ תפוחים, וכך משביעים את רעבונם.
+ האיכרים ראו את מעשיהם בעין לא יפה ונהגו לרדוף אחריהם, לפעמים בעזרת כלבים.
+ ילדי בית הילדים בהחלט לא היו רצויים בכפר.
+ היה אפילו חשד )חנה חשדה( שהטבח והאקונום נהגו לגנוב מצרכים ובכך מנעו מהילדים
+ את המזון, שהיה מיועד עבורם.
+ 
+\end_layout
+
+\begin_layout Standard
+הילדים נהגו לשבת על מדרגות בית הילדים בשבאן ולחכות, שמישהו יבוא לבקרם.
+ אמיל זוכר ביקור קצר של יעקב אביהם בשבאן.
+ הוא הופיע יום אחד, כשהם ישבו על המדרגות.
+ האב לקח את שני בניו למסעדה בסנט פייר דה פורסאק.
+ הם היו רעבים ומיד התנפלו על המזון הטעים שהוגש להם: בשר, צ'יפס ועוגה.
+ בפגישה מיוחדת זו נתן יעקב לאמיל הבכור אטלס כיס קטן והבטיח לשוב ולקחת אותם
+ משם )שנים לאחר מכן, אמיל --- פרופ' לגיאוגרפיה --- מצא אטלס כזה משנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ בשוק הפשפשים בליון(.
+ כאשר נפרד יעקב מבניו, ביקש בנו הקטן ז'וז'ו "חבק אותי חזק"...
+ הוא פחד שלא יראה עוד את אביו.
+ האב מעולם לא שכח מילים אלו.
+ אפשר לשער מה הייתה הרגשתו, כשהשאיר את ילדיו והלך לדרכו, מבלי שידע מתי יזכה
+ לראותם שוב.
+ 
+\end_layout
+
+\begin_layout Standard
+בית הילדים בשבאן נשאר פתוח עד
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+.
+ כאשר הסתיים שלטון וישי, שלטון הצרפתים בחסות הגרמנים, באה המשטרה לעצור את
+ הילדים ולא מצאה איש.
+ אביה של המורה הצרפתייה של בית הילדים היה שוטר, הוא העביר לה ידיעה כי באותו
+ הערב תבוא המשטרה הצרפתית לעצור את הילדים והמחנכים.
+ כולם ברחו ליערות והגיעו לכפרים שבסביבה.
+ היו שהגיעו לכפר לה סוטרן )המקום בו ירדו חנה קולודני ובניה מהרכבת "בבריחה
+ הגדולה"(, ואחרים פוזרו בקרב משפחות צרפתיות ואף אומצו על ידם.
+ מרבית הילדים חיו תחת שמות בדויים, כיוון שקשה היה להחביא ולהסתתר בכפרים
+ הקטנים, בהם הכירו אנשים איש את רעהו.
+ המנהל פליקס שבריה ואחת המורות הצרפתיות זכו להיכלל בין חסידי אומות העולם,
+ תואר שניתן למצילי יהודים בזמן מלחמת העולם השנייה.
+ הם זכו להוקרה בתואר זה על ידי יד-ושם בירושלים ומדינת ישראל.
+ 
+\end_layout
+
+\begin_layout Standard
+אמיל קולודני זכה לפגוש את אירן פלסו בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+2001
+\numeric off
+, כאשר התקיים כינוס "ילדי שבאן", והיא בת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+91
+\numeric off
+.
+ 
+\end_layout
+
+\begin_layout Standard
+שם גם פגש את חברו אנאטול זילברשטיין, שהיה לרופא והוא כבן שבעים.
+ ממסמך שהתקבל מהאגודה למען המחקר ושמירת האמת ההיסטורית על תנועת התנגדות
+ ב --- 
+\lang english
+Creuse
+\lang hebrew
+, התברר לאמיל שחברו רולף רוטשילד, יליד גרמניה, נספה באושוויץ.
+ הוריו הכלואים במחנה הריכוז ריבסלט )
+\lang english
+Rivesaltes
+\lang hebrew
+( ביקשו כי בנם רולף יועבר מבית הילדים שבאן ויהיה עמם.
+ הוא נתפס על ידי המשטרה הצרפתית בראשון לספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+, הועבר למחנה ויחד עם כל משפחתו הובל לדרנסי ומשם לאושוויץ.
+ הוריו של רולף לא תיארו לעצמם שהם דנו אותו בעקיפין למוות למען איחוד המשפחה,
+ כחלק ממדיניות הנאצים כלפי היהודים.
+ 
+\end_layout
+
+\begin_layout Subsection
+מונפלייה )
+\lang english
+Montpellier
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+אמיל וז'וז'ו קולודני הושארו בבית הילדים שבטירת שבאן מיוני
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ ועד נובמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1941
+\numeric off
+ --- כשנה וחצי.
+ 
+\end_layout
+
+\begin_layout Standard
+הוריהם, חנה ויעקב, נאלצו לברוח מסנט פייר דה פורסק, לאחר שהופיעו ברשימת המבוקשים
+ על ידי המשטרה הצרפתית.
+ הם נדדו לאזור החופשי לטולוז )?( ומשם הגיעו לעיר הדרומית מונפלייה.
+ הם מצאו דירה קטנה ליד תחנת הרכבת, לאחר שקיבלו את עזרת יהודי העיר וארגון
+ הג'וינט, הן במידע והן בעזרה כספית.
+ יעקב נרשם מיד ללימודים באוניברסיטת מונפלייה בפקולטה למדעים למשך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4
+\numeric off
+ סימסטרים )היה בידו אישור לימודים לשנים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940-1941
+\numeric off
+(.
+ כמו כן המשיך בפעילותו הציבורית, הן בהוראת עברית, בארגון ספריה וניהולה והן
+ בעזרה לפליטים שהגיעו לעיר, זאת מטעם הפדרציה של הארגונים היהודיים בצרפת.
+ הארגון עזב את פאריס עם כניסת הגרמנים ועבר למונפלייה בראשות מרק ירבלום )ידידו
+ של יעקב(.
+ יעקב המשיך בפעילות זו עד ספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+, אז נאלץ לברוח לז'נבה, שוויץ.
+ חנה אשתו אף היא עזרה ופעלה בקרב הפליטים היהודים הרבים שהגיעו לעיר.
+ במונפלייה היו מרוכזים סטודנטים רבים מצרפת וממדינות שונות באירופה, שברחו
+ לאזור החופשי.
+ חלקם ניסו להגיע לספרד, חלקם נלחם בקרב המחתרת הצרפתית )"הרזיסטנס"(.
+ הפעילים )ביניהם חנה(, בעזרת הצלב האדום, הצליחו להוציא ילדים שהושמו עם הוריהם
+ במחנות מעצר והסגר בדרום החופשי.
+ הם הועברו למקומות מוגנים --- בתי ילדים, משפחות צרפתיות ובעיקר מנזרים נוצריים.
+ הילדים אמיל וז'וז'ו הובאו משבאן על ידי הוריהם בנסיעת לילה אחת למונפלייה
+ בנובמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1941
+\numeric off
+.
+ הם זוכרים את חייהם במונפלייה כתקופה שקטה, טובה, בה למדו בבית ספר מקומי
+ במשך שנה שלמה, נסעו לשפת הים, ישבו בבתי קפה.
+ זו הייתה אחת התקופות שחשו ככל הילדים.
+ הם הצליחו בלימודיהם ואף זכו להוקרה --- ז'וז'ו קיבל פרס הצטיינות על שם ...
+ אלזס.
+ 
+\end_layout
+
+\begin_layout Standard
+השקט נמשך עד אוגוסט
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+ עם כניסת הגרמנים למונפלייה.
+ המצוד אחר היהודים החל.
+ יהודים, בעיקר בעלי נתינויות זרות, גורשו למחנה הריכוז דרנסי )מצפון לפאריס(.
+ בעיקר היו סלקציות של ילדים.
+ המגורשים נשלחו מדרנסי וקומפין למחנות ההשמדה בפולין.
+ 
+\end_layout
+
+\begin_layout Standard
+אנשי הקהילה היהודית במונפלייה נהגו להביא שמיכות ומזון לרכבות שיצאו עמוסי
+ מגורשים, מבוגרים וילדים, לדרנסי.
+ באחת הפעמים, חנה הלכה לתחנת הרכבת וראתה את הקרונות העמוסים ואת האנשים הניבטים
+ מהחלונות.
+ היא הבינה מיד במה מדובר והחליטה עם יעקב שזה הזמן להימלט ממונפלייה, זאת
+ בטרם תלכוד אותם המשטרה הצרפתית, ששיתפה פעולה עם הכובשים הנאצים.
+ חנה ויעקב החליטו לחזור לפאריס הכבושה, אך הם שינו את החלטתם.
+ 
+\end_layout
+
+\begin_layout Standard
+אחת העדויות המרתקות, שאמיל וז'וז'ו זוכרים, קשורה להחלטה זו.
+ הבנים )אמיל כבן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+10.5
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+וז'וז'ו כבן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+7
+\numeric off
+( זוכרים שמברק, או גלויה, הגיע לידי הוריהם במונפלייה.
+ חברם הטוב ביותר, עוד מימי חייהם בפאריס, אהרון קרמר, שלח להם את המברק, ובו
+ הוא מזהיר אותם מפני חזרה לפאריס הכבושה על ידי הנאצים.
+ באותם הימים הקשר בין האנשים התנהל באמצעות מכתבים, גלויות, מברקים, שנשלחו
+ בדואר.
+ בדרך כלל נמנעו מהזדהות ברורה בשל פחד מהצנזורה.
+ נהגו לכתוב ברמזים ועשו ככל שביכולתם להסוות את שמותיהם ומיקומם, כדי שלא
+ יעלו על עקבותיהם.
+ כמובן שלא נמסרו כתובות, אלא פעלו באמצעות תאי דואר בסוכנויות, ללא שמות וכתובות.
+ לטלפן פחדו )חששו ממלשינים ומשתפי פעולה(.
+ אמיל וז'וז'ו זוכרים היטב את נוסח המברק --- גלויה, אבל לא היה להם שמץ של
+ מושג --- מתי ומהיכן נשלחה אל הוריהם במונפלייה.
+ 
+\end_layout
+
+\begin_layout Standard
+הם זכרו היטב, שהמברק נכתב באמצעות צופן, בו נרשם: "ז'אק פרואה לא יבוא לפאריס".
+ ז'אק היה כינויו ושמו הפרטי של יעקב.
+ שם משפחתו הוסב מקולודני לפרואה.
+ מקור השם במילה פרואה --- שפירושה קר בצרפתית.
+ ואילו ברוסית, קר הוא "חולודה".
+ מכאן הקירבה בין השם קולודני לחולודה.
+ "יעקב קולודני" הפך בתעודות הזהות המזויפות ל"ז'אק פרואה", ובשם זה נמלט שנה
+ לאחר מכן מהעיר ניס לז'נבה, שוויץ.
+ כל השנים הייתה זו תעלומה שלא נפתרה: מתי ומהיכן נשלח מברק מוצפן זה, שהציל
+ את המשפחה?
+\end_layout
+
+\begin_layout Standard
+בשנת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+2004
+\numeric off
+ התבררה התעלומה ביד המקרה.
+ אחותם הצעירה של אמיל וז'וז'ו, רחל ליליאן, החיה כיום בכפר סבא, פגשה באחד
+ מביקוריה בקיבוץ חולתא, באופן מקרי, את האחיינית של אהרון קרמר אידה צוקרמן.
+ אידה היא ממקימי הקיבוץ הצפוני ששכן לחוף אגם החולה לפני ייבושו בשנות ה-
+\numeric on
+50
+\numeric off
+.
+ בשיחה איתה על מכרים משותפים, הסתבר שאשתו של אהרון קרמר, ניוטה, היתה דודתה.
+ אהרון וניוטה ובנם דני )בן גילו של אמיל( חיו בפאריס והיו מפעילי הקהילה היהודית.
+ אהרון היה משורר אידי ועיתונאי --- שיריו תורגמו לעברית על ידי המשורר נתן
+ יונתן.
+ הסתבר מפיה כי אהרון נתפס על ידי הגרמנים בפאריס באקציה הגדולה בקיץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+ ונשלח למחנה הריכוז פטיויה )מדרום לפאריס(.
+ הוא נשלח משם לאושוויץ ונספה במחנה ההשמדה.
+ בחוברת זיכרון לדמותו, שנערכה על ידי בני משפחתו בארץ מובאים שיריו וכן מכתבים
+ ששלח לבני משפחתו בפאריס ולחבריו, בהם נקובים התאריכים שבהם נשלחו המכתבים
+ והגלויות.
+ המברק נשלח לחנה ויעקב קולודני ב-
+\numeric on
+18/8/1942
+\numeric off
+ מפיטיוויה למונפלייה.
+ כך הוא הציל את חייהם ומנע מהם לחזור לפאריס.
+ הם המשיכו בבריחתם לכיוון צפון --- ללונגוין וגרנובל.
+ ניוטה קרמר עלתה לישראל ב-
+\numeric on
+1950
+\numeric off
+ עם בנה דני, לאחר שהצליחו להתחבא בפאריס.
+ היא ובנה נהגו להתארח בביתה של משפחת קולודני בכפר סבא.
+ היא גם זו שאיפשרה לחנה וביתה רחל להתארח אצל אחייניתה, אידה צוקרמן, בקיבוץ
+ חולתא בתקופת חופשת הקיץ.
+ כך נרקם הקשר ונפתרה התעלומה שנסתרה מעיני המשפחה שנים רבות.
+ 
+\end_layout
+
+\begin_layout Subsection
+מיו )
+\lang english
+Millau
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+עם הפלישה הגרמנית למונפלייה באוגוסט
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+ והתגברות סכנת ההסגרה, בעיקר של ילדים, חנה ויעקב קולודני החליטו להבריח את
+ שני בניהם אמיל וז'וז'ו ממונפלייה.
+ הם הביאו אותם בנובמבר לעיר קטנה מיו, המפורסמת בתעשיית העור שלה, וכיום מצוי
+ בה הגשר הגדול ביותר בעולם.
+ 
+\end_layout
+
+\begin_layout Standard
+היה סתיו קשה מאוד, ההורים עזבו הכול בדירה הקטנה במונפלייה ונסעו באוטובוס
+ למיו.
+ במיו הם הכניסו את הבנים לבית ספר מקומי עם פנימייה.
+ הלילות היו קשים במיוחד.
+ אמיל בן ה ---
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+10
+\numeric off
+ וז'וז'ו בדיוק בן שבע שכבו מיטה ליד מיטה, כאשר אמיל מגן על אחיו הצעיר ופעמים
+ אינו מצליח להתעורר וללוותו לשירותים באמצע הלילה.
+ 
+\end_layout
+
+\begin_layout Standard
+הם נשארו במיו עד חג המולד בדצמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+.
+ הוריהם לא היו איתם במיו.
+ ז'וז'ו זוכר את יום הולדתו השביעי שנחגג במיו.
+ כדי לחגוג ובעיקר כדי להתחמם, ההורים לקחו את בניהם לבית קפה מקומי.
+ ליד שולחנם התיישבו קצינים גרמניים.
+ אחד מהם הבחין בילד בעל התלתלים הבלונדיים ועיניים ירוקות, היושב עם הוריו
+ בקרבת שולחנו.
+ הוא קם ממקומו וניגש אליהם.
+ הקצין הגרמני פנה בגרמנית ליעקב ואמר, כי לו בן בגילו של ז'וז'ו, דומה לו
+ והוא מתגעגע אליו מאוד.
+ יעקב החוויר וגמגם כי אינו דובר גרמנית, אלא צרפתית )הוא הבין גרמנית היטב(.
+ תקף אותו פחד נוראי --- גרמני לידם והם --- יהודים נמלטים.
+ הקצין רצה להעניק לז'וז'ו מתנה ליום הולדתו אך הוא סרב בכל תוקף.
+ ההורים ניסו לשדלו לקבל את המתנה, אך ללא הואיל.
+ הפחד שאחז את כולם זכור להם היטב.
+ הם המשיכו להעמיד פנים כי הם ממשפחה צרפתית היושבת בניחותא בבית קפה.
+ 
+\end_layout
+
+\begin_layout Standard
+הבנים אף זוכרים, כי בהיותם לבד במיו, אדם לא מוכר להם היה בא בימי חמישי,
+ לוקח אותם מהפנימייה ומביא אותם לבית קפה, קונה להם שוקו, מטייל איתם, ואחר
+ כך מחזיר אותם לפנימייה.
+ היה זה בוודאי שליח ההורים, שחזרו למונפלייה והכינו את המשך בריחתם לכיוון
+ העיר גרנובל.
+ 
+\end_layout
+
+\begin_layout Standard
+לאחר חג המולד הם עזבו את מיו, לאחר שהוריהם באו לקחתם בדרכם לגרנובל.
+ יעקב קיבל היתר מעבר ממונפלייה לגרנובל --- הדבר נרשם בתעודת הזהות שלו, בה
+ מצויין במפורש כי הוא יהודי וזר.
+ בידי ז'וז'ו תעודה מהמוסד בו למד ובו מצוין תאריך סיום לימודיו ב-
+\numeric on
+23/12/1942
+\numeric off
+ --- יום לפני חג המולד.
+\end_layout
+
+\begin_layout Subsection
+לנגוין )
+\lang english
+Langogne
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+ההורים יצאו ממונפלייה בדרכם לכיוון גרנובל.
+ הם עצרו בעיירה הקטנה לנגוין מצפון מזרח למיו, מצאו דירה קטנה על הכביש שנכנס
+ לעיירה ולקחו את הילדים מהמוסד במיו.
+ הילדים הוכנסו לבית ספר מקומי.
+ המשפחה הספיקה להיות בלנגוין כחודש.
+ המשטרה המקומית הצרפתית דרשה מהם להתייצב מייד בתחנה.
+ היה ברור שצריך להימלט מייד.
+ הם לקחו איתם מזוודה קטנה, עלו לרכבת ונסעו נסיעת לילה לגרנובל, עיר באלפים
+ הצרפתים.
+ הם הגיעו לגרנובל ב-
+\numeric on
+20
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בינואר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+, כאשר בתעודת הזהות של יעקב מוטבעת חותמת המציינת את צאתם ממונפלייה והגעתם
+ לגרנובל.
+ אין כל אזכור על שהותם הקצרה בלנגוין.
+ יתכן מאוד ושהותם במקום הייתה לא חוקית ורישומם לא היה מצוי בידי המשטרה.
+ 
+\end_layout
+
+\begin_layout Subsection
+גרנובל )
+\lang english
+Grenoble
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+בגרנובל הם נשארו מספר שבועות )כחודש(.
+ הם התגוררו במלונות שונים בעיר.
+ יעקב פעל במסגרת הארגונים היהודיים והיה אחראי על משלוח כספים לפליטים יהודים.
+ הכספים נשלחו כנראה על ידי ארגון הג'וינט, שדאג לחלץ ולהעביר את הנמלטים ממקום
+ למקום.
+ אמיל, בנו הבכור, נזכר שנהג ללוותו לסניף הדואר, בו שלח את הכספים.
+ ביום הם נהגו לטייל ברחובות העיר, לא הלכו לבית הספר, ישבו בבתי קפה עם אימם
+ חנה, וחיכו לבואו של האב מפעילותו.
+ הם פחדו ללכת לקולנוע ולמקומות ציבוריים אחרים.
+ לילה אחד, לאחר כחודש לשהותם בגרנובל, הגיע לביתם שוטר מתחנת המשטרה המקומית.
+ למזלם, היה השוטר אדם ישר וטוב.
+ הוא בא להזהירם באילו הדברים: "היום אתם בסדר, תעודות המעבר תקפות, אך למחרת
+ בבוקר יפוג תוקפן.
+ אבוא בבוקר לבדוק..." היה ברור שמיד צריך לברוח, ושוב לצאת לדרך.
+ הם השיגו דרכונים בעזרת המחתרת הצרפתית --- "הרזיזטנס", עלו על הרכבת ונסעו
+ מגרנובל לעיר ניס שבדרום צרפת, בה שלטו האיטלקים, בני בריתם של הגרמנים.
+ בפברואר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+ הם הגיעו לניס.
+ 
+\end_layout
+
+\begin_layout Subsection
+ניס )
+\lang english
+Nice
+\lang hebrew
+(
+\end_layout
+
+\begin_layout Standard
+האיטלקים, בני בריתם של הגרמנים, נכנסו לניס ב-
+\numeric on
+11
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בנובמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1942
+\numeric off
+.
+ היהודים זכו באזור האיטלקי ליחס טוב יותר.
+ הם לא נרדפו והמשטרה האיטלקית לא הפעילה מעצרים.
+ משפחת קולודני הגיעה לניס בפברואר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+ והשתכנה בדירה קטנה ברחוב הלוי, לא רחוק מ"טיילת האנגלים", על שפת הים.
+ הם חיו כחצי שנה חיים רגילים, שקטים, והמשיכו לעסוק בפעילויותיהם בארגונים
+ היהודים.
+ הבנים למדו בבית ספר רגיל באווירה שקטה ובטוחה.
+ המצב השתנה בסוף יולי
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+, אז הגיעה לניס חטיבה ממונעת של גרמנים, שהתמקמה מסביב לעיר.
+ 
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+4
+\numeric off
+ בספטמבר הגרמנים חיברו פקודת מבצע כוללת שנושאה הכנות לביצוע הצעדים נגד היהודים
+ באזור הכיבוש האיטלקי.
+ הכוונה היא לטהר את האזור מיהודים, שירוכזו במחנות ההסגר והמעצר בהשגחת קצין
+ האס.אס.
+ ברונר.
+ נותן הפקודה היה אדולף אייכמן, שנתפס בארגנטינה על ידי המוסד הישראלי, עמד
+ למשפט בארץ והוצא להורג.
+ הכוונה הייתה לשלחם ממחנות ההסגר למחנה הריכוז דרנסי ומשם לאושוויץ, להשמדה.
+ 
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+8
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בספטמבר נכנעה איטליה לבעלות הברית, לאחר ניצחונם בצפון אפריקה, ויצאה מהמלחמה.
+ ב-
+\numeric on
+10
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בספטמבר נכנס קומנדו של כוחות הביטחון הגרמנים לניס.
+ בשעה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+15:30
+\numeric off
+ של אותו היום החל המצוד הגדול אחר יהודי ניס, בעיקר בלילות.
+ זמן קצר לפני כן למשפחת קולודני נולדה רחל-ליליאן, אחות לאמיל וז'וז'ו, שנולדה
+ ב-
+\numeric on
+16
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+באוגוסט
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+, פחות מחודש לפני כניסת הגרמנים לניס.
+\end_layout
+
+\begin_layout Standard
+בעקבות מאסרה של ידידת המשפחה צילה גרינברג במצוד הגדול בניס, חנה ויעקב שוב
+ מתכוננים לצאת במהירות.
+ הם מכניסים את שני הבנים למנזר בעיר, שם הם מסתתרים עם עוד מספר ילדים.
+ במנזר התחילה התארגנות ליציאת שיירת ילדים לכיוון ז'נבה שבשוויץ --- מדינה
+ שהייתה נייטרלית ולא השתתפה במלחמת העולם.
+ חנה הורתה לבניה לחכות לפתק ממנה ורק אז יוכלו לצאת מהמנזר עם השליח שיבוא
+ לקחתם.
+ ההורים נרשמו כאזרחים פולנים בשמות בדויים.
+ עם תינוקת כבת חודש בידיהם, הם יוצאים מניס, אף הם לכיוון ז'נבה.
+ הקשר עם בניהם נותק, והמשפחה מתחלקת ומתפרקת שוב.
+ 
+\end_layout
+
+\begin_layout Subsection
+ז'נבה --- שוויץ
+\end_layout
+
+\begin_layout Subsubsection
+א.
+ הבריחה מצרפת לשוויץ
+\end_layout
+
+\begin_layout Standard
+משפחת קולודני מתפצלת לקראת הבריחה מניס לעבר הגבול השויצרי, כדי להגיע לז'נבה.
+ 
+\end_layout
+
+\begin_layout Standard
+חנה לקחה את ביתה התינוקת כבת חודש, נסעה בכרכרה מביתה שברחוב הלוי בניס, הגיעה
+ לתחנת הרכבת, ושם, מחויכת, עברה בין שורות של חיילים גרמנים שניצבו בתחנה.
+ היא נשאה תעודת זהות מזויפת על שם גרן )שם משפחת סבתה היה גרון על שם העיר
+ גירונה-חרונה בספרד, מקום מוצא המשפחה(.
+ עם הרבה מזל וקור רוח הצליחה לעלות על הרכבת שנסעה למרסיי ומשם לגרנובל ---
+ בכוונה להגיע לגבול צרפת-שוויץ.
+ שוויץ הייתה נייטרלית ולא השתתפה במלחמת העולם השנייה, אך אפשרה רק לילדים
+ עד גיל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+15
+\numeric off
+ ולהורים בעלי תינוקות להיכנס לתחומה.
+ פעמים רבות הוחזרו יהודים נמלטים לידי המשטרה הצרפתית ולידי הגרמנים, רבים
+ מהם לא נשארו בחיים.
+ 
+\end_layout
+
+\begin_layout Standard
+יעקב נסע לבדו מניס ברכבת קטנה ואיטית שחצתה את האלפים הצרפתיים לכיוון 
+\lang english
+Degne
+\lang hebrew
+.
+ בדרך הוא ירד בטעות באחת התחנות ונתקף בהלה גדולה.
+ אדם זר דרש ממנו את כל כספו.
+ שוטר צרפתי הבחין בו, ניגש אליו ודרש לראות תעודת זהות או ויזה.
+ התעודה הייתה מזויפת.
+ כאשר נשאל לשמו הוא גמגם וענה כי אינו יודע...
+ שמו בתעודה המזהה היה ז'ק פרואה --- שם בדוי שאימץ לעצמו.
+ השוטר גער בו, לעג לו כי ייטיב לעשות אם ילמד את שמו ודרש ממנו לעלות מיד
+ בחזרה לרכבת.
+ כך ניצל.
+ יעקב הגיע לגרנובל ושם הסתתר.
+ 
+\end_layout
+
+\begin_layout Standard
+ההורים נפגשו על פי תאום מראש בגרנובל, ויחד הם עברו את הגבול ב-
+\numeric on
+4
+\numeric off
+ באוקטובר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+.
+ חנה הייתה אחראית לשיירה של אמהות ואבות בעלי תינוקות ולילדים ללא הורים.
+ הסימן המוסכם שניתן לשיירה, כדי שתוכל לעבור את הגבול, היה צלצול פעמוני הפרות,
+ שרעו בסביבה.
+ הם רצו מהר כשתינוקות בזרועותיהם, ודרך פרצה בגדר התגלגלו במורד ההר, עד שהגיעו
+ לתחתית העמק.
+ כדי למנוע בכי תינוקות שיסגירו אותם, האכילו את הקטנים בשוקולד, שגרם להם
+ להיות שקטים.
+ בתחתית העמק חיכו להם שוטרים שוויצרים, שהפנו אותם לתחנת משטרה ולמחנה מעצר.
+ 
+\end_layout
+
+\begin_layout Standard
+הילדים אמיל וז'וז'ו עברו את הגבול יחד עם שיירת ילדים.
+ הקבוצה התארגנה כבר במנזר בניס, בו שהו שני הילדים, לאחר שסכנה ריחפה על ראשם
+ בשל המצוד שערכו הגרמנים.
+ ב-
+\numeric on
+21
+\numeric off
+ בספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+ הם עלו לרכבת מניס לנסיעת לילה.
+ השיירה מנתה בראשיתה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+8
+\numeric off
+ ילדים.
+ זו הייתה כביכול נסיעת ילדים לחופשה באלפים.
+ הם לקחו איתם ציוד מועט ופוזרו בקרונות הרכבת , שניים בכל קרון.
+ הילדים לוו במדריכה אחראית, שישבה בקרון אחר.
+ הקרונות היו מלאים בחיילים גרמניים.
+ אמיל היה אז כבן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+11
+\numeric off
+ וחצי, וז'וז'ו כבן
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+8
+\numeric off
+.
+ היה קר, הם רעבו והיו מפוחדים מאוד.
+ נאמר להם לא לדבר עם איש, לא לדבר ביניהם ולא לזוז מהמקום.
+ ז'וז'ו ישן בתא החפצים של הקרון, כאשר אמיל היה מתחתיו, סומך על אחיו הבכור
+ שישמור עליו.
+ בגרנובל עלו שני ילדים שהצטרפו לשיירה ובשאמברי --- שלושה ילדים נוספים.
+ הרכבת הגיעה לבון סט.
+ דידיה )
+\lang english
+Bons st.
+ Didier
+\lang hebrew
+(, הנמצאת בין טונון )
+\lang english
+Thonon
+\lang hebrew
+( לאנמס )
+\lang english
+Annemasse
+\lang hebrew
+(, קרוב לגבול השוויצרי.
+ השיירה חיכתה בתוך אסם של חווה הנמצאת ליד הגבול, למשאית שתיקח אותם קרוב
+ לגבול.
+ הם המתינו והמתח גבר כאשר שמעו פטרול גרמני עובר ממש ליד האסם בו היו.
+ ב-
+\numeric on
+22
+\numeric off
+ לספטמבר בשעה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+3
+\numeric off
+ לפנות בוקר, הגיע מבריח גבולות בליווי שני אנשים נוספים.
+ הוא חתך את חוטי התייל ליד אבן הגבול מספר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+157
+\numeric off
+, סמוך לגי )
+\lang english
+Gy
+\lang hebrew
+(.
+ המבריחים קיבלו את שכרם ונעלמו.
+ היה קר וגשום, הילדים נאלצו לצעוד לבדם כמה קילומטרים לעבר הגבול, כשהם שקטים
+ ומפוחדים, רטובים ורעבים.
+ אחרי צעדה של כשעתיים בבוץ, עצר אותם לפתע חייל.
+ הם חשבו אותו לחייל גרמני וחשבו כי הגיעו לסוף דרכם --- הם יוחזרו לצרפת ויימסרו
+ לידי הגרמנים! אך היה זה חייל שוויצרי, לבוש מדים הדומים לאלו הגרמנים.
+ מסעם הסתיים ליד אבן גבול מספר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+187
+\numeric off
+.
+ הם הגיעו לשוויץ: הסתיימה בריחה של שלוש וחצי שנים, מקיץ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1940
+\numeric off
+ עד ספטמבר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+ב.
+ ז'נבה
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+22
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בספטמבר הילדים הגיעו ראשונים לשוויץ, הם נמצאו בקרבת ז'נבה.
+ הם הועברו ממקום למקום, מתחנת משטרה אחת לשנייה, ואחר כך למחנה מעצר ולמחנה
+ פליטים )מפוסט דה גי למחנה קרופט 
+\lang english
+Cropettes
+\lang hebrew
+(, שם נתנו להם פינה למנוחה, ומצע קש לשינה.
+ ב-
+\numeric on
+23
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+בספטמבר מועבר ז'וז'ו לבית חולים בשל מחלת עור קשה )סקביאס(.
+ הוא עובר ארבעה ימים של טיפול קשה, אך נהנה משינה על סדינים לבנים ונקיים
+ ומאוכל טוב וטעים.
+ 
+\end_layout
+
+\begin_layout Standard
+ב-
+\numeric on
+16
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+באוקטובר הם הועברו למחנה ורנבה )
+\lang english
+Varenbe
+\lang hebrew
+(, שם הם קיבלו שמיכה אחת, כשבשעת שינה הם חובקים זה את זה.
+ הם זוכרים כי מישהו הפתיע אותם, ושם שני תפוחי עץ גדולים בכובעו של ז'וז'ו.
+ הילדים עדיין לא פגשו את הוריהם.
+ באחד הימים, כאשר ז'וז'ו ביקר בתאי השירותים אשר גבלו בשירותים של מחנה צמוד,
+ הוא שמע קול מוכר.
+ היה זה שיעול מתמיד שאביו נהג להשמיע באופן קבוע.
+ הוא המתין וראה את אביו מעבר לגדר.
+ שניהם היו במחנות פליטים, עדיין נפרדים זה מזה.
+ 
+\end_layout
+
+\begin_layout Standard
+הימים חלפו, התהלכו במחנה שמועות שסוכנים ומרגלים גרמנים עוקבים אחר פליטים
+ יהודים במגמה לצוד אותם ולשלחם לצרפת, למחנות הריכוז.
+ הילדים הוזהרו שלא לדבר עם איש, לא להתלונן ולא לספר דבר, היו אחוזי פחד וחשד.
+ מקרה מוזר קרה להם כאשר ליד הגדר בין שני המחנות, הם הבחינו בזוג מבוגרים
+ הנושאים תינוקת שנראו כהוריהם, וחשבו כי אלו הם מתחזים.
+ הם לא התקרבו ולא ניגשו אליהם.
+ אך אלו היו הוריהם ואחותם רחל ליליאן, שעברו את הגבול בין צרפת לשוויץ ב-
+\numeric on
+4
+\numeric off
+ באוקטובר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1943
+\numeric off
+, באמצעות תעודות מזוייפות.
+ אחרי תקופה קצרה, שוב הפרידו בין הילדים להוריהם.
+ 
+\end_layout
+
+\begin_layout Standard
+יעקב האב נשלח למחנה עבודה ליד באל )
+\lang english
+Bale
+\lang hebrew
+(.
+ האם חנה נשלחה לאשפוז ארוך בבית חולים בשל מחלת השחפת בה לקתה.
+ שני הבנים הגדולים , אמיל וז'וז'ו, הועברו למרכז אנרי דוננט, שהיה במלון קרלטון
+ )מלון שארח את באי ועידות "חבר הלאומים" בז'נבה עד פרוץ מלחמת העולם השנייה(.
+ ה"ג'וינט" שכר את המלון כדי לשכן בו ילדים ואמהות מבין הפליטים שבאו מצרפת,
+ בלגיה ומדינות כבושות אחרות.
+ כיום שוכנים בו משרדי "הצלב האדום" ומוזיאון הארגון.
+ 
+\end_layout
+
+\begin_layout Standard
+שני הבנים השתייכו כל אחד לקבוצת הגיל שלו ולוו על ידי מדריכים.
+ רחל התינוקת הושמה בבית התינוקות, שפעל בסוויטת המלון, בקומה העליונה, בה
+ נהג להתארח קיסר חבש היילה סילאסי בעת גלותו מחבש.
+ מידי פעם היו הבנים מבקרים את אחותם הקטנה, כשהם זוכרים את ידיה הכחולות,
+ בשל הקור העז ששרר שם.
+ היא הייתה בבית התינוקות כ-
+\numeric on
+8--10
+\numeric off
+ חודשים.
+ 
+\end_layout
+
+\begin_layout Standard
+לאמיל וז'וז'ו זכורה התקופה בקרלטון, בו שהו כ-
+\numeric on
+11
+\numeric off
+ חודשים, כאחת הטובות בזמן המלחמה ולאחריה.
+ הם זוכרים טיולים, בילוי בבתי קפה, ומשחקים ללא כל מחויבות של לימודים.
+ אמיל זוכר את המשחקים ההיסטוריים: קרבות "האתונאים" מול "הספרטנים", "הרומאים"
+ מול "הגאלים", כשהם בונים בריקאדות בפרוזדורי המלון ונלחמים זה בזה.
+ אלו הסתיימו תמיד בהתערבות המדריכים ובעונשים.
+ 
+\end_layout
+
+\begin_layout Standard
+המשפחה התאחדה לאחר שוב האב ממחנה העבודה והאם מבית החולים.
+ בעזרת הארגונים היהודים והקהילה היהודית בז'נבה הם עברו לגור בשכונת עוני
+ ליד תחנת הרכבת.
+ התנאים היו קשים, אך הם היו חופשיים! הילדים הלכו לבית ספר --- ז'וז'ו לבית
+ ספר יסודי ואמיל לחטיבת הביניים.
+ לראשונה הם היו לבושים כיאות בתלבושת אחידה מסודרת.
+ יעקב נרשם ללימודים באוניברסיטת ז'נבה לצורך הכנת דוקטורט, וכמו כן המשיך
+ בפעילותו בהוראת העברית ובארגון ספריות.
+ חנה המשיכה בפעילותה למען ילדי הפליטים היהודיים.
+ 
+\end_layout
+
+\begin_layout Standard
+אמיל חגג את בר המצווה שלו בבית הכנסת בז'נבה.
+ הוא קרא בקול גדול את "פרשת ושלח" מספר שמות, בה נכתב על יציאת מצריים ועל
+ ההצלה הגדולה של בני ישראל.
+ הוא זוכר עד היום את ההתרגשות הגדולה שאחזה בו --- זו הייתה "יציאת מצריים"
+ אמיתית של כל המשפחה, לאחר שלוש שנים בצרפת וכשלוש שנים בז'נבה, יציאה שארכה
+ שש שנים ארוכות וקשות.
+ 
+\end_layout
+
+\begin_layout Standard
+באפריל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1946
+\numeric off
+ עלתה משפחת קולודני לארץ ישראל.
+\end_layout
+
+\begin_layout Subsection
+המסע לארץ המובטחת --- ארץ ישראל
+\end_layout
+
+\begin_layout Standard
+משפחת קולודני עזבה את ז'נבה ב-
+\numeric on
+14
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+באפריל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1946
+\numeric off
+.
+ מרק ירבלום, מראשי פדרציית ארגון הקהילות היהודיות בצרפת, עזר להם בהשגת סרטיפיקאט
+ים --- רישיונות עליה חוקיים, אשר ניפקה ממשלת המנדט הבריטי.
+ כניסת עולים בלתי לגאליים לארץ ישראל נאסרה ורבים נעצרו במחנות בקפריסין,
+ או הוחזרו לאירופה.
+ 
+\end_layout
+
+\begin_layout Standard
+הנסיעה מז'נבה למרסיי נעשתה ברובה במכונית.
+ המשפחה חזרה לצרפת לאחר היעדרות של למעלה משנתיים וחצי.
+ לאחר שהגיעו לעיר, שוכנו העולים המיועדים במחנה מעבר במזרגס.
+ הנסיעה לנמל נעשתה במשאיות צבאיות, שם ציפתה להם האוניה "שמפוליון" )מגלה
+ ומפענח כתב החרטומים המצרי שליווה את נפוליאון במסעו מצריימה(.
+ על האוניה העלו כ-
+\numeric on
+200
+\numeric off
+ עולים לגאליים.
+ רובם היום ניצולי מחנות הריכוז, שאורגנו על ידי הסוכנות היהודית.
+ העלו גם נוסעים סמויים, שהסתתרו בתוך מזוודות ענקיות.
+ העלייה לאוניה לוותה במאבקים בין המשטרה הצרפתית לקבוצות פליטים.
+ עצירה ראשונה הייתה בביזרט )
+\lang english
+Bizerte
+\lang hebrew
+( שבתוניס, ולאחריה אלכסנדריה במצריים, ולבסוף --- חיפה.
+ 
+\end_layout
+
+\begin_layout Standard
+הם הגיעו ב-
+\numeric on
+25
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+באפריל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+1946
+\numeric off
+ והתקבלו בתשואות רמות, כשהראשונים לברכם היו הסווארים הסלוניקאים שעבדו בנמל.
+ משם הם הוסעו למחנה המעצר בעתלית, שם הצטופפו בכניסה אנשים רבים שקראו בשמות
+ הבאים.
+ זו הפעם הראשונה שהילדים ראו מרחוק את דודיהם, שבאו לפגשם בשערי המחנה ---
+ שזופים, לבושים בבגדי חאקי --- מחזה אחר.
+ חנה קולודני סיפרה כי הם הוכנסו לשטח המחנה המגודר ושוכנו בצריף ארוך מאוד
+ ובו מספר רב של מיטות.
+ הצריף היה מלוכלך, המיטות מזוהמות והם סרבו לישון בהן וישנו על הרצפה.
+ החום היה כבד והם סבלו מצמא, בחילות בשל הזריקות הרבות שקיבלו והתזת הדי.די.טי
+ --- חיטוי נגד מכת הכינים שרבים סבלו ממנה.
+ כל עולי "שמפוליון" שוחררו רק בתחילת מאי.
+ הסוכנות היהודית פרסמה את שמותיהם למען קרוביהם בארץ.
+ לאחר כמה ימים של שהיה במחנה עתלית באו אחי יעקב, שמריהו ודב, חברי מושב צופית
+ לקחתם אליהם.
+ המשפחה התפצלה שוב בין שני בתי הדודים וחיה כך חצי שנה עד המעבר לשיכון הראשון
+ שנבנה בכפר סבא לפליטי מלחמת העולם השנייה.
+ זהו רחוב חצרות הדר א' הנמצא כיום במרכז העיר.
+ 
+\end_layout
+
+\begin_layout Standard
+בצופית רחל הלכה לגן והבנים למדו בבית הספר המקומי, כשצברי המושב חוזים בפלא
+ של הילדים הצרפתים, שהצטרפו אליהם.
+ בכפר סבא הם למדו בבית ספר אוסישקין ובית הספר התיכון על שם כצנלסון.
+ כיום ירחמיאל קולודני הוא פרופסור באוניברסיטת אקס-אן-פרובנס בצרפת, יוסף
+ קולודני הינו אדריכל, ורחל אשת חינוך.
+\end_layout
+
+\begin_layout Section
+סיכום
+\end_layout
+
+\begin_layout Standard
+הייתה זו תקופה בילדותם של שני ילדים --- אמיל וז'וז'ו קולודני: אמיל משנתו
+ השמינית ועד שנתו החמש עשרה, ז'וז'ו מהיותו כבן ארבע וחצי ועד היותו כבן אחת
+ עשרה וחצי.
+ שלוש שנים ארוכות וקשות של פחד, חרדה, חוסר בטחון, בדידות, מלווים ברגעים
+ של שמחה.
+ נוספו להם שלוש שנים של ארעיות, כפליטים בז'נבה, ולבסוף --- איחוד המשפחה.
+ "היינו ילדים, דברים רבים לא הבנו, לא תפסנו והתייחסנו אליהם בקלות יחסית.
+ ידענו שאנו יהודים, אך לא הבנו את המשתמע מכך.
+ ידענו שלהיות יהודי זה עניין שלילי, ידענו שעלינו לשתוק, לא לבכות ברחוב,
+ לא להתעקש.
+ ידענו שאנחנו בורחים מפני הגרמנים.
+ למדנו לא לטעות, לחיות בלי מידע, לא ידענו היכן הורינו, לא שאלנו, חיכינו,
+ וכשהם הופיעו --- היה זה נס.
+ 
+\end_layout
+
+\begin_layout Standard
+ידענו שהדבר חשוד, אם ילדים נמצאו במשך הבוקר בחברת הוריהם ולא הולכים לבית
+ הספר.
+ למדנו לא להאמין ולהישמע רק להוראות שקיבלנו מההורים.
+ פגשנו אנשים שלא הכרנו ובאו לבקר אותנו.
+ ידענו שיש מלשינים שמחפשים אותנו ומרגלים שיעשו הכול כדי לתפוס ולמסור אותנו
+ לגרמנים.
+ נזהרנו.
+ גם כשראינו את הורינו מרחוק לא האמנו, פחדנו ולא התקרבנו.
+ עשינו הכול כדי לא להיתפס, רצינו רק לשרוד ולחיות..." )אמיל קולודני(.
 \end_layout
 
 \begin_layout Part
@@ -8726,6 +11606,130 @@ status open
 \end_layout
 
 \begin_layout Chapter
+הספר "רולי ולומי והבת-דודה גולי"
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli1-2.jpg
+	display false
+	width 11cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli3-4.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli5-6.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli7-8.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli9-11.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli12-13.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli14-15.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli16-17.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli18-19.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/ruli20-21.jpg
+	display false
+	width 12.5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
 דפי מידע על גטו פינסק
 \end_layout
 
@@ -8734,7 +11738,7 @@ status open
 \begin_inset Graphics
 	filename images/pinsk1.jpg
 	display false
-	width 10cm
+	width 11cm
 
 \end_inset
 
@@ -8746,7 +11750,7 @@ status open
 \begin_inset Graphics
 	filename images/pinsk2.jpg
 	display false
-	width 10cm
+	width 12.5cm
 
 \end_inset
 
@@ -8762,7 +11766,7 @@ status open
 \begin_inset Graphics
 	filename images/page_of_testimony.jpg
 	display false
-	width 10cm
+	width 11cm
 
 \end_inset
 
