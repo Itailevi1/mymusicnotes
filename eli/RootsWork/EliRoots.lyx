@@ -162,7 +162,7 @@ LatexCommand tableofcontents
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -8163,6 +8163,67 @@ OSE
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/kolodnies.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+משפחת קולודני: יעקב, חנה, אמיל וז'וז'ו
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 באביב
 \family roman
 \series medium
@@ -8354,6 +8415,86 @@ Saint Pierre de Fursac
  ולכן המשיכו בדרכם למונפלייה.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/jakob_kolodny_id_juif.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+תעודת הזהות של יעקב קולודני, עם החותמת "יהודי" -
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\noun default
+\color inherit
+\lang english
+JUIF
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 שבאן --- בית הילדים )
 \lang english
@@ -8467,6 +8608,86 @@ Chabanne
  היה אפילו חשד )חנה חשדה( שהטבח והאקונום נהגו לגנוב מצרכים ובכך מנעו מהילדים
  את המזון, שהיה מיועד עבורם.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/emil_and_jojo.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+אמיל וז'וז'ו בבית הילדים בשבאן -
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\noun default
+\color inherit
+4/8/1941
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -8689,7 +8910,7 @@ Montpellier
 \begin_layout Standard
 הוריהם, חנה ויעקב, נאלצו לברוח מסנט פייר דה פורסק, לאחר שהופיעו ברשימת המבוקשים
  על ידי המשטרה הצרפתית.
- הם נדדו לאזור החופשי לטולוז )?( ומשם הגיעו לעיר הדרומית מונפלייה.
+ הם נדדו לאזור החופשי לטולוז, כנראה, ומשם הגיעו לעיר הדרומית מונפלייה.
  הם מצאו דירה קטנה ליד תחנת הרכבת, לאחר שקיבלו את עזרת יהודי העיר וארגון
  הג'וינט, הן במידע והן בעזרה כספית.
  יעקב נרשם מיד ללימודים באוניברסיטת מונפלייה בפקולטה למדעים למשך
@@ -8794,7 +9015,7 @@ Montpellier
  הם זוכרים את חייהם במונפלייה כתקופה שקטה, טובה, בה למדו בבית ספר מקומי
  במשך שנה שלמה, נסעו לשפת הים, ישבו בבתי קפה.
  זו הייתה אחת התקופות שחשו ככל הילדים.
- הם הצליחו בלימודיהם ואף זכו להוקרה --- ז'וז'ו קיבל פרס הצטיינות על שם ...
+ הם הצליחו בלימודיהם ואף זכו להוקרה --- ז'וז'ו קיבל פרס הצטיינות על שם משחרר
  אלזס.
  
 \end_layout
@@ -9113,7 +9334,7 @@ Millau
  הקצין רצה להעניק לז'וז'ו מתנה ליום הולדתו אך הוא סרב בכל תוקף.
  ההורים ניסו לשדלו לקבל את המתנה, אך ללא הואיל.
  הפחד שאחז את כולם זכור להם היטב.
- הם המשיכו להעמיד פנים כי הם ממשפחה צרפתית היושבת בניחותא בבית קפה.
+ הם המשיכו להעמיד פנים כי הם משפחה צרפתית היושבת בניחותא בבית קפה.
  
 \end_layout
 
@@ -9516,7 +9737,7 @@ Nice
 \end_layout
 
 \begin_layout Standard
-חנה לקחה את ביתה התינוקת כבת חודש, נסעה בכרכרה מביתה שברחוב הלוי בניס, הגיעה
+חנה לקחה את בתה התינוקת כבת חודש, נסעה בכרכרה מביתה שברחוב הלוי בניס, הגיעה
  לתחנת הרכבת, ושם, מחויכת, עברה בין שורות של חיילים גרמנים שניצבו בתחנה.
  היא נשאה תעודת זהות מזויפת על שם גרן )שם משפחת סבתה היה גרון על שם העיר
  גירונה-חרונה בספרד, מקום מוצא המשפחה(.
@@ -9548,6 +9769,67 @@ Nice
  פעמים רבות הוחזרו יהודים נמלטים לידי המשטרה הצרפתית ולידי הגרמנים, רבים
  מהם לא נשארו בחיים.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+L{
+\backslash
+fbox{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/hana_roha_baby.eps
+	display false
+	width 8cm
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+חנה וסבתא רוחה התינוקת
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
