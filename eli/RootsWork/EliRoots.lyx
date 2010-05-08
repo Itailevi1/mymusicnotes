@@ -22,6 +22,18 @@
     \parindent 1em%
     \noindent
     \hb@xt@1.8em{\hss\@makefnmark\ }#1}
+
+\AtBeginDocument{%
+\addto\captionshebrew{%
+  \renewcommand{\listfigurename}%
+{\@ensure@R{%
+    רשימת תמונות}}%
+  \renewcommand{\figurename}%
+{\@ensure@R{%
+    תמונה}}%
+}
+}
+
 \makeatother
 \end_preamble
 \use_default_options true
@@ -11028,7 +11040,7 @@ status open
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -11072,7 +11084,7 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-גוף העפיפון
+עפיפון עם זנב
 \end_layout
 
 \end_inset
