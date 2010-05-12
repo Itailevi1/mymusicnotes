@@ -50,7 +50,7 @@
 
 \graphics default
 \float_placement !h
-\paperfontsize 10
+\paperfontsize 11
 \spacing onehalf
 \use_hyperref false
 \pdf_bookmarks false
@@ -88,7 +88,7 @@
 \begin_layout Title
 
 \series bold
-\size huge
+\size giant
 עבודת שורשים
 \end_layout
 
@@ -132,7 +132,7 @@ LatexCommand tableofcontents
 \begin_layout Standard
 אך האם זוהי התמונה כולה? האם זהו באמת אני? הרי אם אני בן של הוריי, אז אני
  גם בן משפחה של הוריהם, אבות הוריהם, אחיהם וכו'.
- ואם יש לי תחביבים, הרי יכול להיות שהם לא רק שלי, אלא שלקחתי אותם מהסביבה
+ ואם יש לי תחביבים, הרי יכול להיות שהם לא רק שלי, אלא שקיבלתי אותם מהסביבה
  שלי, מבני משפחתי, מחברים, מהמקום בו אני חי ועוד.
  והאם רק העבר שלי שייך לי? או גם עברם של בני משפחתי הקרובים והרחוקים? והאם
  העובדה שאני לומד בבית ספר דמוקרטי ובוחר את שיעוריי קשורה להחלטות ורצונות
@@ -12301,6 +12301,14 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+אילן יוחסין
+\end_layout
+
+\begin_layout Chapter
+מפת נתיבי עליה
 \end_layout
 
 \end_body
